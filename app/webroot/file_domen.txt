@@ -1,0 +1,658 @@
+HTTP/1.1 200 OK
+Server: ngjit
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: __ddg_=86650; path=/; Expires=Wed, 01 Jan 2020 00:00:00 GMT
+Date: Fri, 17 Aug 2018 09:59:12 GMT
+Content-Type: text/html; charset=utf-8
+Set-Cookie: PHPSESSID=3ukq6t3i8v2bdngl77uq0sv2m2; path=/; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+<!DOCTYPE html>
+<html>
+<head>
+   
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Украинская финансовая пирамида Questra Holdings Inc, Questra World, Atlantic Global Asset Management, AGAM, FIVE WINDS Asset Management, QW Lianora Swiss Consulting SA (questra.es, questraworld.es, atlanticgam.es, lianoraswiss.com, fivewindsam.com) и её создатели</title>
+<meta name="description" content="Украинская финансовая пирамида Questra Holdings Inc, Questra World, Atlantic Global Asset Management, AGAM, FIVE WINDS Asset Management, QW Lianora Swiss Consulting SA (questra.es, questraworld.es, atlanticgam.es, lianoraswiss.com, fivewindsam.com) и её создатели" />
+<meta name="keywords" content="Украинская финансовая пирамида Questra Holdings Inc, Questra World, Atlantic Global Asset Management, AGAM, FIVE WINDS Asset Management, QW Lianora Swiss Consulting SA (questra.es, questraworld.es, atlanticgam.es, lianoraswiss.com, fivewindsam.com) и её создатели" />
+<meta name="generator" content="DataLife Engine (http://dle-news.ru)" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://scamquestra.com/engine/opensearch.php" title="Украинская финансовая пирамида Questra Holdings Inc, Questra World, Atlantic Global Asset Management, AGAM, FIVE WINDS Asset Management, QW Lianora Swiss Consulting SA (questra.es, questraworld.es, atlanticgam.es, lianoraswiss.com, fivewindsam.com) и её создатели" />
+<link rel="alternate" type="application/rss+xml" title="Украинская финансовая пирамида Questra Holdings Inc, Questra World, Atlantic Global Asset Management, AGAM, FIVE WINDS Asset Management, QW Lianora Swiss Consulting SA (questra.es, questraworld.es, atlanticgam.es, lianoraswiss.com, fivewindsam.com) и её создатели" href="https://scamquestra.com/rss.xml" />
+<script type="text/javascript" src="/engine/classes/min/index.php?charset=utf-8&amp;g=general&amp;20"></script>
+<link media="screen" href="/engine/editor/css/default.css" type="text/css" rel="stylesheet" />
+	<meta name="HandheldFriendly" content="true">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width"> 
+
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<link href="/templates/scamquestra/css/engine.css?60" type="text/css" rel="stylesheet">
+	<link href="/templates/scamquestra/css/style.css?60" type="text/css" rel="stylesheet">
+	<link href="/templates/scamquestra/css/style_add.css?60" type="text/css" rel="stylesheet">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114357433-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114357433-1');
+</script>
+
+</head>
+<body>
+	<span style="position: absolute; left: -9999px; top: -9999px;"><a href="https://e3investment.ru/" target="_blank">e3 investment стоит ли вкладывать</a> и реальные <a href="https://e3investment.ru/otzyivyi/" target="_blank">e3investment ru отзывы</a></span>
+	
+    
+    <div class="bottom-line" style="position: fixed;right: 0;bottom: 0;left: 260px;height: 40px;line-height: 40px;text-align: center;background: #2b8491;z-index: 1001;color: #fff;font-size: 14px;display: flex;align-items: center;justify-content: center;">
+            	<span style="margin: 0 5px; display: inline-block;">Подпишись и первым получай новости:</span>
+            	<form action="" class="form-horizontal newsletter" style="display: flex;">
+            		<input type="text" name="fio" class="form-control" placeholder="ваше имя" style="margin: 0 5px;">
+            		<input type="phone" name="phone" class="form-control" placeholder="телефон" style="margin: 0 5px;">
+            		<input type="email" name="email" class="form-control" placeholder="e-mail" style="margin: 0 5px;">
+            		<button type="submit" class="btn btn-success" style="margin: 0 5px;">Подписаться</button>
+            	</form>
+    </div>
+
+    <div class="top-line" style="position: fixed;right: 0;top: 0;left: 260px;height: 40px;line-height: 40px;text-align: center;background: #cf232a;z-index: 1001;color: #ааа;font-size: 15px; overflow: hidden;">
+    	<div class="container" style="display: flex">
+	        <a href="https://scamquestra.com/operativnaya-pomosh/44-yuridicheskaya-i-fakticheskaya-pomosch-zhertvam-afery-sostavlenie-zayavleniy-otpravka-zayavleniy-na-aferu-questra-world-i-agam.html" class="icon-envelope"><span></span> Помощь обманутым</a>
+	        <a href="https://scamquestra.com/news/50-s-dobrym-utrom-smi-evening-kazanru-navrode-mavrodi-kazancy-snova-povelis-na-obeschanie-legkih-deneg-aferistov-questra-world.html" target="_blank" class="icon-form"><span></span>Помогаем оповещать СМИ</a>
+	        <a href="https://scamquestra.com/news/55-shans-dlya-souchastnikov.html" target="_blank" class="icon-money"><span></span>Сообщить/Продать информацию</a>
+        </div>
+    </div>
+	
+	<div class="wrapper">
+
+	<!-- Sidebar -->
+	<div class="sidebar-wrapper">
+		<a href="#" class="menu-toggle close-menu visible-xs visible-sm">x</a>
+		<ul class="sidebar-nav" style="padding-top: 15px;">
+    		<!--li class="menu_title"><span>Меню</span></li-->
+			<li class="menu_1"><span>Создатели:</span></li>
+			<li><a href="/sozdateli/5-aleksandr-prochuhan.html"><i class="icon-owner-1"></i> Александр Прочухан</a></li>
+			<li><a href="/sozdateli/6-cheslav-yurevich.html"><i class="icon-owner-2"></i> Пестюк Чеслав</a></li>
+			<li><a href="/sozdateli/7-fanis-dzhuraev.html"><i class="icon-owner-3"></i> Фанис Джураев</a></li>
+			<li><a href="/sozdateli/8-konstantin-mamchur.html"><i class="icon-owner-4"></i> Константин Мамчур</a></li>
+			<li><a href="/sozdateli/9-stanislav-kravcov.html"><i class="icon-owner-5"></i> Станислав Кравцов</a></li>
+			<li><a href="/sozdateli/10-souchastniki.html"><i class="icon-owner-6"></i> Соучастники</a></li>
+			<li class="menu_2"><span>Детали аферы:</span></li>
+            <li><a href="/16-starye-afery-opg.html"><i class="icon-dot"></i> Старые аферы</a></li>
+            <li><a href="/20-kak-vse-nachinalos-u-finansovoy-piramidy-questra-agam.html"><i class="icon-dot"></i> Как все начиналось</a></li>
+			<li><a href="/17-dokazatelsta-i-probely-afery.html"><i class="icon-dot"></i> Старая Questra</a></li>
+            <li><a href="/21-finansovye-afery-questra-world-i-atlantic-global-asset-management-agam-questraworldes-atlanticgames.html"><i class="icon-dot"></i> Questra World и AGAM</a></li>
+            <li><a href="/25-yuridicheskaya-chast-afery-questra-world-i-atlantic-global-asset-management-questraworldes-i-atlanticgames.html"><i class="icon-dot"></i> Юридическая афера</a></li>
+			<li><a href="/18-informaciya-ob-afere-iz-zagranicy.html"><i class="icon-dot"></i> Организаторы</a></li>
+			<li><a href="/24-bekapy-sohranenie-informacii-dlya-sledstviya.html"><i class="icon-dot"></i> Бэкапы и источники</a></li>
+            <li class="menu_3"><span>Борьба кнутом:</span></li>
+			<li style="display: inline-block;width: 130px;"><a href="/12-es.html"><i class="icon-dot"></i> ЕС</a></li>
+			<li style="display: inline-block;width: 120px;"><a href="/13-kazahstan.html" style="padding-left: 0px;"><i class="icon-dot"></i> Казахстан</a></li>
+			<li style="display: inline-block;width: 120px;"><a href="/14-ukraina.html"><i class="icon-dot"></i> Украина</a></li>
+			<li style="display: inline-block;width: 120px;"><a href="/15-rossiya.html" style="padding-left: 10px;"><i class="icon-dot"></i> Россия</a></li>
+		</ul>
+		<a href="mailto:scamquestra.com@yahoo.com" class="email-menu-link">Связь <br> scamquestra.com@yahoo.com</a>
+		<a href="https://vk.com/scam_questra" target="_blank" class="vk-menu-link"><span></span> Мы Вконтакте</a>
+	</div>
+
+	<!-- Page Content -->
+	<div class="page-content-wrapper" style="padding-top: 40px;">
+
+		<nav class="navbar navbar-default navbar-static-top header-top visible-xs visible-sm" role="navigation">
+			<div class="container">
+				<button type="button" class="btn btn-link navbar-btn menu-toggle">
+					<span class="glyphicon glyphicon-align-justify"></span>
+				</button>
+				<a class="navbar-brand text-center" href="#"></a>
+			</div>
+		</nav>
+
+		<div class="container-fluid">
+            
+			<div class="header container">
+				<div class="row">
+					<div class="col-xs-12 col-sm-12">
+						<a href="/" class="logo"><img src="/templates/scamquestra/img/logo.png" alt=""> Scam<span>Questra.com</span></a>
+						<img src="/templates/scamquestra/img/logo-ru.png" style="height: 92px; margin-top: 0px;" class="pull-right">
+					</div>
+				</div>
+			</div>
+
+			<div class="tab-content container">
+				<div class="tab-pane row active" id="main">
+
+				
+					<div class="main-news">
+						
+						<div class="col-sm-12">
+							<div class="row">
+								<div class="news block">
+									<p class="block-title"><a href="/news/">Последние новости</a></p>
+									<ul class="media-list">
+									 <li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">09.08</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/69-rassledovanie-prestupnoy-deyatelnosti-opg-prochuhan-i-ko-video.html" class="media-heading news-list-title">
+			Расследование преступной деятельности ОПГ Прочухан и КО (Видео)
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">08.08</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/68-ddos-ataki-na-scamquestracom.html" class="media-heading news-list-title">
+			DDoS-атаки на scamquestra.com, возможны перебои в работе сайта
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">23.03</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/67-prochuhan-pytaetsya-perelozhit-vinu-za-svoi-prestupleniya-dokazatelstvo-nevinovnosti-pavla-krymova.html" class="media-heading news-list-title">
+			Прочухан пытается переложить вину за свои преступления: доказательство невиновности Павла Крымова
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">22.03</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/66-prochuhanovskaya-shesterka-moshennica-grushko-zhurba-tatyana-sergeevna.html" class="media-heading news-list-title">
+			Прочухановская шестерка - мошенница Грушко (Журба) Татьяна Сергеевна
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">10.10</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/62-eksklyuziv-dannye-i-dokumenty-dropov-hose-manuelya-gilberta-i-antonino-vieira-robalo-informaciya-kto-ih-nanimal-i-nahodil-dlya-afery-questra-world-agam.html" class="media-heading news-list-title">
+			Эксклюзив: Документы дропов Хосе Мануеля Гилберта и Antonino Vieira Robalo (информация кто их нанимал и находил для аферы Questra World/AGAM - Евгений Дудка и Екатерина Левицкая)
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">07.10</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/64-opg-prochuhana-pestyuka-kravcova-zabrosili-otrabotannuyu-aferu-questra-world-agam-five-winds-i-doyat-investorov-aferami-golden-island-alpha-cash-fct-academy.html" class="media-heading news-list-title">
+			Хронология: ОПГ Прочухана-Пестюка-Кравцова забросили отработанную аферу Questra World, AGAM, FIVE WINDS и доят Инвесторов аферами Golden Island, Alpha Cash, FCT Academy
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">06.10</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/63-zachistka-mediynogo-prostranstva-aferistami-sozdatel-questra-world-agam-aleksandr-prochuhan-perezhivaet-o-neprikosnovennosti-chastnoy-zhizni.html" class="media-heading news-list-title">
+			Создатель Questra World (AGAM) Александр Прочухан переживает о неприкосновенности частной жизни и своей связи с аферой Questra Holdings
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">04.10</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/61-osnovnye-fakty-i-dokazatelstva-pochemu-sozdatelyami-afery-questra-holdings-questra-world-yavlyayutsya-prochuhan-aleksandr-cheslav-pestyuk-mamchur-konstantin-stanislav-kravcov.html" class="media-heading news-list-title">
+			Основные факты и причины: Почему создателями аферы Questra Holdings (Questra World) являются Прочухан Александр, Чеслав Пестюк, Мамчур Константин, Станислав Кравцов?
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">04.10</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/60-smi-sozdatelyam-afery-questra-holdings-questra-world-yavlyayutsya-prochuhan-aleksandr-cheslav-pestyuk-mamchur-konstantin-stanislav-kravcov.html" class="media-heading news-list-title">
+			СМИ: Создателями аферы Questra Holdings (Questra World) являются Прочухан Александр, Чеслав Пестюк, Мамчур Константин, Станислав Кравцов
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">04.10</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/59-aferisty-souchastniki-sozdateli-uhodyat-v-ten-v-afere-questra-world-i-atlantic-global-asset-management.html" class="media-heading news-list-title">
+			Создатели Прочухан Александр, Чеслав Пестюк, Мамчур Константин, Станислав Кравцов и их "шестерки" Антоненко Мария, Валерия Черенкова, Antonino Vieira Robalo бегут из аферы Questra World и Atlantic Global Asset Management
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">30.09</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/58-obychnye-novosti-vnutri-afery-questra-world-i-atlantic-global-asset-management-lidery-chaty-socialnye-seti-obilnye-zavtraki.html" class="media-heading news-list-title">
+			Сказочные новости аферы Questra World и Atlantic Global Asset Management: Лидеры, внутрянка, чаты, социальные сети, обильные "завтраки"
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">29.09</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/57-esche-odin-uchastnik-moshennichestva.html" class="media-heading news-list-title">
+			Еще один участник мошенничества
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">28.09</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/56-vyplat-net-razvlecheniy-hot-otbavlyay-informacionnyy-rupor-opg-questra-stopkrymovcom.html" class="media-heading news-list-title">
+			Денег нет, развлечений хоть отбавляй: Очередная ловушка и информационный обман ОПГ Questra - Stopkrymov.com
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">19.09</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/54-manevr-soskochit-s-tyuremnogo-sroka-ukrainskih-moshennikov-questra-world-atlantic-global-asset-management.html" class="media-heading news-list-title">
+			Манёвр соскочить с тюремного срока: Украинские мошенники Questra World, Atlantic Global Asset Management ищут крайних
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">22.08</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/53-byuro-rassledovaniya-na-tv-v-kazahstane-zayavleniya-pravoohranitelnyh-organov-i-smi.html" class="media-heading news-list-title">
+			Бюро расследования на TV в Казахстане - заявления правоохранительных органов и СМИ в отношении Questra World, Atlantic Global Asset Management
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">22.08</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/52-heytery-bosikom-iz-ada-otpusk-zakonchilsya-a-vyplat-po-prezhnemu-net-questra-world-i-atlantic-global-asset-management.html" class="media-heading news-list-title">
+			Босиком из ада: Отпуск закончился - выплат нет, круиза нет. Новая афера Five Winds Asset Management и QW Lianora Swiss Consulting SA
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">09.08</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/51-ocherednaya-lozh-dlya-baranov-nacionalnyy-bank-belgii-oficialno-oproverg-poluchenie-kakih-libo-licenziy-aferistami-questra-world-atlantic-global-asset-management.html" class="media-heading news-list-title">
+			Очередная ложь для баранов: Национальный банк Бельгии официально опроверг получение каких-либо "лицензий" аферистами Questra World, Atlantic Global Asset Management
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">06.08</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/50-s-dobrym-utrom-smi-evening-kazanru-navrode-mavrodi-kazancy-snova-povelis-na-obeschanie-legkih-deneg-aferistov-questra-world.html" class="media-heading news-list-title">
+			С добрым утром, СМИ: Evening-kazan.ru - Навроде Мавроди: казанцы снова повелись на обещание легких денег аферистов Questra World
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">03.08</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/49-ubeysya-ob-stenu-glupyy-memorandumy-i-evropeyskie-banki-ot-afery-questra-world-i-atlantic-global-asset-management.html" class="media-heading news-list-title">
+			Убейся об стену глупый:  Меморандумы, Европейские банки, подделка подписи аферистами Questra World и Atlantic Global Asset Management
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">01.08</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/48-kruiz-nachinaetsya-aferisty-questra-world-i-atlantic-global-asset-management-otklyuchili-vyvod-po-vsem-stranam-v-tom-chisle-v-rossii.html" class="media-heading news-list-title">
+			Круиз начинается: Аферисты Questra World и Atlantic Global Asset Management отключили вывод по всем странам, в том числе в России
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">28.07</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/47-federalnoe-upravlenie-finansovogo-nadzora-germanii-aferisty-questra-world-i-atlantic-global-asset-management-ne-poluchayut-nikakih-licenziy-v-germanii.html" class="media-heading news-list-title">
+			Федеральное управление финансового надзора Германии: Аферисты Questra World и Atlantic Global Asset Management не получают никаких лицензий в Германии
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">19.07</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/46-konferenciya-izdevatelstvo-ot-19072017-deneg-net-fantaziya-zakonchilas-loh-ne-mamont-loh-ne-vymret.html" class="media-heading news-list-title">
+			Конференция-издевательство от 19.07.2017: Денег нет, фантазия закончилась. Подтверждение кидалова Инвесторов в 13 странах
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">12.07</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/45-tonem-dalshe-lopaetsya-ves-es-chehiya-franciya-greciya-i-estoniya-otklyucheny-ot-vyplat-aferistami-questra-world-i-agam.html" class="media-heading news-list-title">
+			Тонем дальше: Лопается весь ЕС - Чехия, Франция, Греция и Эстония отключены от выплат аферистами Questra World и AGAM + ответ Нац.Банка Казахстана о лицензиях
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">11.07</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/40-kak-otkryvayutsya-i-zakryvayutsya-lipovye-predstavitelstva-na-dropov-moshennikami-questra-world-atlantic-global-asset-management.html" class="media-heading news-list-title">
+			Как открываются и закрываются липовые "представительства" на дропов мошенниками Questra World, Atlantic Global Asset Management в России и Казахстане
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">09.07</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/43-bunt-i-shantazh-investorov-bespredel-tolko-nachinaetsya-v-afere-questra-world-i-atlantic-global-asset-management.html" class="media-heading news-list-title">
+			Бунт и шантаж Инвесторов: Беспредел только начинается в афере Questra World и Atlantic Global Asset Management
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">07.07</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/42-bunt-kinutyh-investorov-kvazi-konferenciya-aferistov-questra-world-i-atlantic-global-asset-management-i-otklyuchenie-turcii-ot-vyplat.html" class="media-heading news-list-title">
+			Квази-конференция от 6 июля аферистов Questra World и Atlantic Global Asset Management и отключение Турции от выплат
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">05.07</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/26-privet-iz-1994-goda-andrey-andreevich-abakumov-gendirektor-atlantic-global-asset-management-agam.html" class="media-heading news-list-title">
+			Привет из 1994 года: Андрей Андреевич Абакумов - Гендиректор Atlantic Global Asset Management + СМИ архив
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">02.07</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/41-obman-questra-world-top-3-v-mlm-biznese-atlantic-global-asset-management-postanovochnyy-ofis-v-kabo-verde-otzyvy-liderov-v-rossii.html" class="media-heading news-list-title">
+			Обман: Questra World ТОП 3 в МЛМ бизнесе, Atlantic Global Asset Management постановочный офис в Кабо-Верде, отзывы лидеров в России
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">22.06</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/39-rabotaem-s-vozrazheniyami-ili-hvatit-vrat-moshennikam-refovodam-questra-world-i-atlantic-global-asset-management.html" class="media-heading news-list-title">
+			Работаем с возражениями: Или хватит врать мошенникам-рефоводам Questra World и Atlantic Global Asset Management
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">21.06</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/38-sportsmen-konstantin-czyu-reklamiruet-finansovuyu-piramidu-questra-world-i-agam.html" class="media-heading news-list-title">
+			Спортсмен Константин Цзю рекламирует финансовую пирамиду Questra World и AGAM
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">21.06</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/37-krah-piramidy-banki-i-advanced-cash-advcashcom-zablokirovali-moshennikov-questra-world-i-atlantic-global-asset-management.html" class="media-heading news-list-title">
+			Крах пирамиды: Банки и Advanced Cash (advcash.com) заблокировали мошенников Questra World и Atlantic Global Asset Management
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">14.06</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/36-vyplat-net-opyat-obman-12-iyunya-dlya-ukrainy-germanii-kazahstana-i-polshi.html" class="media-heading news-list-title">
+			Выплат и денег нет: 12 июня для Украины, Германии, Казахстана и Польши и 14 июня для Австрии, Бельгии, Швейцарии, Словакии
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">14.06</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/32-pozdravlyaem-s-vorovstvom-questra-world-i-atlantic-global-asset-management-ne-vyplachivayut-dengi-v-ukraine-germanii-kazahstane-i-polshe.html" class="media-heading news-list-title">
+			Афера лопнула: Questra World и Atlantic Global Asset Management не выплачивают деньги в Украине, Германии, Казахстане и Польше
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">14.06</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/35-popytka-obmana-s-tacv-prisuzhdennaya-finansovoy-piramide-wikipediaorg.html" class="media-heading news-list-title">
+			Откровенный обман аферы Atlantic Global Asset Management с TACV в Wikipedia.org и Банкротство TACV
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">14.06</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/34-zapret-v-polshe-lihtenshteyne-ispanii-afery-questra-holdings-inc-questra-world-atlantic-global-asset-management.html" class="media-heading news-list-title">
+			Запрет в Польше, Лихтенштейне, Испании аферы Questra Holdings Inc, Questra World, Atlantic Global Asset Management
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">02.06</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/33-ugolovnye-dela-v-kazahstane-finansovaya-piramida-questra-world-i-agam.html" class="media-heading news-list-title">
+			Уголовные дела в Казахстане: Финансовая пирамида Questra World и AGAM
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">23.04</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/30-kratkiy-obzor-konferencii-v-dubay-predstavitelstvo-questra-world-atlantic-global-asset-management-v-rossii.html" class="media-heading news-list-title">
+			Расчет на дурака: Представительство Questra World (Atlantic Global Asset Management) в России и Республике Казахстан
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">10.04</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/31-ofis-i-kompaniya-pustyshka-atlantic-global-asset-management-v-kabo-verde-praya.html" class="media-heading news-list-title">
+			Офис и компания-пустышка Atlantic Global Asset Management в Кабо-Верде (Прая)
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">27.03</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/29-finansovaya-piramida-questra-privlekla-vnimanie-prokuratury-kazahstana.html" class="media-heading news-list-title">
+			Финансовая пирамида Questra привлекла внимание прокуратуры Казахстана
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">03.03</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/23-afera-atlantic-global-asset-management-polezla-v-kriptovalyutu.html" class="media-heading news-list-title">
+			Афера Atlantic Global Asset Management прикрывается инвестициями в криптовалюту
+		</a>
+	</div>
+</li><li class="media">
+	<div class="pull-left">
+		<span class="media-object news-time">03.03</span>
+	</div>
+	<div class="media-body">
+		<a href="https://scamquestra.com/news/22-atlantic-global-asset-management-i-questra-world-zapustili-novye-pakety-dlya-sbora-deneg.html" class="media-heading news-list-title">
+			Atlantic Global Asset Management и Questra World запустили новые пакеты для сбора денег
+		</a>
+	</div>
+</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+						<div class="clearfix"></div>
+
+					</div>
+					
+					<div class="category block col-sm-12">
+						<p class="block-title">Создатели и организаторы аферы:</p>
+						<div class="row">							
+							<div class="category-item col-sm-4">
+	<div class="img">
+		<a href="https://scamquestra.com/sozdateli/5-aleksandr-prochuhan.html"><img src="https://scamquestra.com/uploads/posts/2017-02/thumbs/1486845053_pro4uxan.jpg" width="280" height="180" alt="Александр Прочухан" class="img-responsive"></a>
+	</div>
+	<a href="https://scamquestra.com/sozdateli/5-aleksandr-prochuhan.html" class="news-title">Александр Прочухан</a>
+</div><div class="category-item col-sm-4">
+	<div class="img">
+		<a href="https://scamquestra.com/sozdateli/6-pestyuk-cheslav.html"><img src="https://scamquestra.com/uploads/posts/2017-02/thumbs/1486845115_4eslav.jpg" width="280" height="180" alt="Пестюк Чеслав" class="img-responsive"></a>
+	</div>
+	<a href="https://scamquestra.com/sozdateli/6-pestyuk-cheslav.html" class="news-title">Пестюк Чеслав</a>
+</div><div class="category-item col-sm-4">
+	<div class="img">
+		<a href="https://scamquestra.com/sozdateli/7-fanis-dzhuraev.html"><img src="https://scamquestra.com/uploads/posts/2017-02/thumbs/1486845259_fanis.jpg" width="280" height="180" alt="Фанис Джураев" class="img-responsive"></a>
+	</div>
+	<a href="https://scamquestra.com/sozdateli/7-fanis-dzhuraev.html" class="news-title">Фанис Джураев</a>
+</div>
+						</div>
+						<div class="row">
+							<div class="category-item col-sm-4">
+	<div class="img">
+		<a href="https://scamquestra.com/sozdateli/8-konstantin-mamchur.html"><img src="https://scamquestra.com/uploads/posts/2017-02/thumbs/1486845418_mam4ur.jpg" width="280" height="180" alt="Константин Мамчур" class="img-responsive"></a>
+	</div>
+	<a href="https://scamquestra.com/sozdateli/8-konstantin-mamchur.html" class="news-title">Константин Мамчур</a>
+</div><div class="category-item col-sm-4">
+	<div class="img">
+		<a href="https://scamquestra.com/sozdateli/9-stanislav-kravcov.html"><img src="https://scamquestra.com/uploads/posts/2017-02/thumbs/1486845480_kravcov.jpg" width="280" height="180" alt="Станислав Кравцов" class="img-responsive"></a>
+	</div>
+	<a href="https://scamquestra.com/sozdateli/9-stanislav-kravcov.html" class="news-title">Станислав Кравцов</a>
+</div><div class="category-item col-sm-4">
+	<div class="img">
+		<a href="https://scamquestra.com/sozdateli/10-souchastniki.html"><img src="https://scamquestra.com/uploads/posts/2017-02/thumbs/1486845459_sou4astniki.jpg" width="280" height="180" alt="Соучастники" class="img-responsive"></a>
+	</div>
+	<a href="https://scamquestra.com/sozdateli/10-souchastniki.html" class="news-title">Соучастники</a>
+</div>
+						</div>
+					</div>
+				
+
+				
+
+
+
+				</div>
+				
+			</div>
+
+			<div class="footer container">
+				<div class="row">
+					<div class="col-sm-8">
+						<p>Все права защищены &copy; ScamQuestra.com<br />При любом использовании материалов сайта, ссылка на &quot;ScamQuestra.com&quot; обязательна. Не платят, обманули? Есть полезная информация, скам? Присылай и сообщи первым.<br /><br />Сделаем Россию чище от финансовых аферистов: <a href="https://scamquestra.com/">Questra Holdings Inc</a>, <a href="https://scamquestra.com/">Questra World</a>, <a href="https://scamquestra.com/">Atlantic Global Asset Management</a>, AGAM (questra.es, questraworld.es, atlanticgam.es) отзывы и информация о создателях, только реальная правда. Квестра Холдинг, <a href="https://scamquestra.com/">Атлантик глобал менеджмент</a> или <a href="https://scamquestra.com/">Квестра Ворлд</a> - как не называй, суть финансовая афера от создателей с Украины и России. Реальная информация и реальные <a href="https://scamquestra.com/">Questra World отзывы</a> о финансовой пирамиде в России и Москве. Инвестиции в сайт или <a href="https://scamquestra.com/">личный кабинет atlantic global management</a> (<a href="https://scamquestra.com/">атлантика глобал</a>, <a href="https://scamquestra.com/">агам</a>, <a href="https://scamquestra.com/">атлантик глобал эссет менеджмент</a>) и <a href="https://scamquestra.com/">квестра ворлд уже обманули</a>, questra world это мошенничество, по всем отзывам и презентациям, во всех офисах лохотрона. Новые аферы FIVE WINDS Asset Management, QW Lianora Swiss Consulting SA (lianoraswiss.com, fivewindsam.com) - новый обман.</p>
+                        <div class="some-link"></div>						
+					</div>
+                    <div class="counters col-sm-4"><b>Информация на других языках:</b>
+                        <br><br>
+                        <a href="/"><span class="flag"><img src="/flags/ru.svg" alt=""></span> Questra и AGAM на русском</a>
+						<a href="/de/"><span class="flag"><img src="/flags/de.svg" alt=""></span> Questra и AGAM auf Deutsch</a>
+						<a href="/en/"><span class="flag"><img src="/flags/us.svg" alt=""></span> Questra и AGAM in English</a>
+                        <a href="/es/"><span class="flag"><img src="/flags/es.svg" alt=""></span> Questra и AGAM en español</a>
+						<div id="counters-all">
+							<!--noindex-->
+							<div class="counters"></div>
+							<!--/noindex-->
+						</div>
+					</div>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+	<!-- /#page-content-wrapper -->
+</div>
+	
+	<script type="text/javascript">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'scamquestra';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Сохранить", "Удалить", "Загрузка. Пожалуйста, подождите..."];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+var dle_search_delay   = false;
+var dle_search_value   = '';
+jQuery(function($){
+FastSearch();
+});
+//-->
+</script>
+
+	<script src="/templates/scamquestra/js/jquery.scrollUp.min.js"></script>
+	<script src="/templates/scamquestra/js/scripts.js?2"></script>
+	<script src="/templates/scamquestra/js/bootstrap.min.js"></script>
+	<script src="/templates/scamquestra/js/func.js"></script>
+
+	<script>
+		$(document).ready(function(){
+
+			$(document).on('submit', '.newsletter', function(e){
+				e.preventDefault();
+				var url = "/mail.php"; // the script where you handle the form input.
+			    $.ajax({
+		           type: "POST",
+		           url: url,
+		           data: $("form.newsletter").serialize(), // serializes the form's elements.
+		           success: function(data)
+		           {
+			            console.log(data); // show response from the php script.
+						$('.bottom-line').text('Готово! Все новые материалы, Вы будете получать на Ваш емаил.');
+		           }
+		         });
+			});
+
+		});
+	</script>
+
+</body>
+</html>
+<!-- DataLife Engine Copyright SoftNews Media Group (http://dle-news.ru) -->

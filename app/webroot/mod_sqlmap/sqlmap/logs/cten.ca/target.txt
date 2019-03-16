@@ -1,0 +1,3 @@
+https://cten.ca/en/firstlogin/step2.asp (POST)
+
+B1=Continue&aid=1

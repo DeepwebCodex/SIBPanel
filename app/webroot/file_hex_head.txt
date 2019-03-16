@@ -1,0 +1,207 @@
+HTTP/1.1 200 OK
+Server: nginx/1.11.8
+Date: Fri, 09 Feb 2018 20:13:12 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Proxy-Connection: Close
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Продукция | MT-Light</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="Robots" content="index">
+  <link rel="stylesheet" type="text/css" href="/css/general2011oct.css" />
+  <!--link rel="apple-touch-icon" href="/apple-touch-icon.png" /-->
+  <link rel="apple-touch-icon" href="/favicon.ico" />
+  <link rel="stylesheet" type="text/css" href="/fancybox/jquery.fancybox.css" media="screen" />
+      
+  <script type="text/javascript" src="/scripts/swfobject.js"></script>  
+  <script type="text/javascript" src="/jquery/jquery.js"></script>
+  <script type="text/javascript" src="/fancybox/jquery.fancybox.js"></script>
+  <script type="text/javascript" src="/jquery/main_menu.js"></script>
+  <script type="text/javascript" src="/jquery/general.js"></script>
+  <script type="text/javascript" src="/jquery/jquery.dropdown.js"></script>
+  <script type="text/javascript" src="/jquery/jScrollPane.js"></script>
+  <script type="text/javascript" src="/scripts/dynamic.js"></script>
+  <script type="text/javascript" src="/jquery/jquery.swfobject.js"></script>
+  <script type="text/javascript" src="/jquery/jquery.cycle.js"></script>
+  <link rel="Shortcut Icon" type="image/ico" href="/favicon.ico" />
+    
+<!-- Место для google -->
+  
+</head>
+
+<body class="winter version2">
+
+<div id="container" class="inside">
+
+<div id="top_links"><p><a href="/feedback/">Задайте свой вопрос<span>&#9660;</span></a></p></div>
+
+<div class="clear"></div>
+<div id="header">
+    <div id="header_tl">
+    <div id="header_tr">
+    <div id="logo3"></div>
+    <span class="h1"><a href="/" target="_top" title="Home | Light Muztorg">Light Muztorg</a></span>
+    </div><!--header_tr -->
+    </div><!--header_tl -->
+</div><!--header -->
+<div id="top_nav_line"></div>
+<div id="top_nav">
+
+            <ul id="nav_main_v2">
+                <li><a href="/" target="_top">Главная</a></li>
+                <li><a href="/about/" target="_top">О компании</a></li>
+                <li><a href="/brands/" target="_top">Бренды</a></li>
+                <li><a href="/news_/" target="_top">Новости</a></li>
+                <li><a href="/products/" target="_top">Каталог</a><ul class="nav_dropdown"><li><a href="/products/?cat=dfx" target="_top">Динамический свет</a></li><li><a href="/products/?cat=sfx" target="_top">Сканеры</a></li><li><a href="/products/?cat=classic" target="_top">Классическое оборудование</a></li><li><a href="/products/?cat=follow" target="_top">Прожекторы следящие</a></li><li><a href="/products/?cat=par" target="_top">Заливка и PAR</a></li><li><a href="/products/?cat=efx" target="_top">Лучевые эффекты</a></li><li><a href="/products/?cat=laser" target="_top">Лазерные эффекты</a></li><li><a href="/products/?cat=str" target="_top">Ультрафиолет и стробо</a></li><li><a href="/products/?cat=mirror" target="_top">Зеркальные шары</a></li><li><a href="/products/?cat=control" target="_top">Системы управления</a></li><li><a href="/products/?cat=atmosphere" target="_top">Генераторы специальных эффектов</a></li><li><a href="/products/?cat=screen" target="_top">Дисплеи и матрицы</a></li><li><a href="/products/?cat=pack" target="_top">Комплекты</a></li><li><a href="/products/?cat=video" target="_top">Медиасистемы</a></li><li><a href="/products/?cat=mobile" target="_top">Мобильные прожекторы</a></li><li><a href="/products/?cat=outdoor" target="_top">Уличное освещение</a></li><li><a href="/products/?cat=stands" target="_top">Стойки и штативы</a></li><li><a href="/products/?cat=acc" target="_top">Аксессуары</a></li></ul></li><li><a href="/contacts/" target="_top">Контакты</a>
+                <ul class="nav_dropdown">
+                    <li><a href="/wherebuy/" target="_top">Где купить</a></li>
+                    <li><a href="/feedback/" target="_top">Обратная связь</a></li>
+                </ul>
+              </li>
+          </ul><div id="top_right">
+  <div id="search">
+      <form name="SearchForm" action="/search/search.php" method="get">
+      <input type="text" name="query" id="query" size="40" value="" class="search_input">
+      <input type="hidden" name="search" value="1">
+      <input type="submit" value="ИСКАТЬ" class="search_button" />
+      </form>
+  </div>
+</div>
+
+
+  <div id="top_nav_shadow"></div>
+</div><!--top_nav --><div id="inside">
+
+<div id="spacer14"></div>
+<div id="nav_left_frame">
+    <div class="breadcrumb">Каталог</div>    <div id="nav_left"><div id="nav_left_top"></div><div id="nav_inside" style="min-height:40px;"><ul><li class="first"><a href="/products/?cat=&vend=k" target="_top" title="KAM">KAM</a></li><li><a href="/products/?cat=&vend=ch" target="_top" title="CHAMSYS">CHAMSYS</a></li><li><a href="/products/?cat=&vend=s" target="_top" title="CHAUVET">CHAUVET</a></li><li><a href="/products/?cat=&vend=mt" target="_top" title="MT">MT</a></li><li class="selected"><a href="/products/?cat=" target="_top" title="Все бренды">Все бренды</a></li></ul></div><!--nav_inside --><div id="nav_left_bottom"></div><div id="nav_left_top"></div><div id="nav_inside"><ul><li class="first"><a href="/products/?cat=dfx&vend=" target="_top" title="Динамический свет">Динамический свет</a></li><li><a href="/products/?cat=sfx&vend=" target="_top" title="Сканеры">Сканеры</a></li><li><a href="/products/?cat=classic&vend=" target="_top" title="Классическое оборудование">Классическое оборудование</a></li><li><a href="/products/?cat=follow&vend=" target="_top" title="Прожекторы следящие">Прожекторы следящие</a></li><li><a href="/products/?cat=par&vend=" target="_top" title="Заливка и PAR">Заливка и PAR</a></li><li><a href="/products/?cat=efx&vend=" target="_top" title="Лучевые эффекты">Лучевые эффекты</a></li><li><a href="/products/?cat=laser&vend=" target="_top" title="Лазерные эффекты">Лазерные эффекты</a></li><li><a href="/products/?cat=str&vend=" target="_top" title="Ультрафиолет и стробо">Ультрафиолет и стробо</a></li><li><a href="/products/?cat=mirror&vend=" target="_top" title="Зеркальные шары">Зеркальные шары</a></li><li><a href="/products/?cat=control&vend=" target="_top" title="Системы управления">Системы управления</a></li><li><a href="/products/?cat=atmosphere&vend=" target="_top" title="Генераторы специальных эффектов">Генераторы специальных эффектов</a></li><li><a href="/products/?cat=screen&vend=" target="_top" title="Дисплеи и матрицы">Дисплеи и матрицы</a></li><li><a href="/products/?cat=pack&vend=" target="_top" title="Комплекты">Комплекты</a></li><li><a href="/products/?cat=video&vend=" target="_top" title="Медиасистемы">Медиасистемы</a></li><li><a href="/products/?cat=mobile&vend=" target="_top" title="Мобильные прожекторы">Мобильные прожекторы</a></li><li><a href="/products/?cat=outdoor&vend=" target="_top" title="Уличное освещение">Уличное освещение</a></li><li><a href="/products/?cat=stands&vend=" target="_top" title="Стойки и штативы">Стойки и штативы</a></li><li><a href="/products/?cat=acc&vend=" target="_top" title="Аксессуары">Аксессуары</a></li></ul></div><!--nav_inside --><div id="nav_left_bottom"></div></div><!--nav_left -->
+    <div class="clear"></div>
+
+    <div class="ads ads-dj"><a href="http://www.chauvetlighting.com/" target="_blank" title="CHAUVET"><img src="/images/download/pic/20130423163958nsmall.jpg" alt="CHAUVET" /></a><br /><br /><a href="http://kam.co.uk/index.php?action=product_category&category_id=29" target="_blank" title="KAM-Lighting"><img src="/images/download/pic/20131014155031nsmall.jpg" alt="KAM-Lighting" /></a><br /><br /><a href="http://www.muztorg-contract.ru/" target="_blank" title=""><img src="/images/download/pic/20130418154948nsmall.jpg" alt="" /></a><br /><br /><a href="http://old.muztorg.ru/" target="_blank" title=""><img src="/images/download/pic/20150402155107nsmall.png" alt="" /></a><br /><br /></div><!--ads -->
+</div>
+
+<div id="inside_box_wide">
+
+    <div id="spacer28"></div>
+
+    <div class="bg">
+
+    <div id="inside_box_top"></div>
+
+    <div class="textbox">
+<!--div id="headerimage"><img src="/images/main-image-about-us-fin.png" alt="In the right light, everything is extraordinary. | CHAUVET&reg;" /></div-->
+<h1>Каталог</h1><ul id="products_ul"><li><a href="/products/?cat=dfx" title="Динамический свет"><img src="/images/products/dfx.png" alt="" style="width: 166px; height: 138px;" /><span>Динамический свет</span></a></li><li><a href="/products/?cat=sfx" title="Сканеры"><img src="/images/products/sfx.png" alt="" style="width: 166px; height: 138px;" /><span>Сканеры</span></a></li><li><a href="/products/?cat=classic" title="Классическое оборудование"><img src="/images/products/classic.png" alt="" style="width: 166px; height: 138px;" /><span>Классическое оборудование</span></a></li><li><a href="/products/?cat=follow" title="Прожекторы следящие"><img src="/images/products/follow.png" alt="" style="width: 166px; height: 138px;" /><span>Прожекторы следящие</span></a></li><li><a href="/products/?cat=par" title="Заливка и PAR"><img src="/images/products/par.png" alt="" style="width: 166px; height: 138px;" /><span>Заливка и PAR</span></a></li><li><a href="/products/?cat=efx" title="Лучевые эффекты"><img src="/images/products/efx.png" alt="" style="width: 166px; height: 138px;" /><span>Лучевые эффекты</span></a></li><li><a href="/products/?cat=laser" title="Лазерные эффекты"><img src="/images/products/laser.png" alt="" style="width: 166px; height: 138px;" /><span>Лазерные эффекты</span></a></li><li><a href="/products/?cat=str" title="Ультрафиолет и стробо"><img src="/images/products/str.png" alt="" style="width: 166px; height: 138px;" /><span>Ультрафиолет и стробо</span></a></li><li><a href="/products/?cat=mirror" title="Зеркальные шары"><img src="/images/products/mirror.png" alt="" style="width: 166px; height: 138px;" /><span>Зеркальные шары</span></a></li><li><a href="/products/?cat=control" title="Системы управления"><img src="/images/products/control.png" alt="" style="width: 166px; height: 138px;" /><span>Системы управления</span></a></li><li><a href="/products/?cat=atmosphere" title="Генераторы специальных эффектов"><img src="/images/products/atmosphere.png" alt="" style="width: 166px; height: 138px;" /><span>Генераторы специальных эффектов</span></a></li><li><a href="/products/?cat=screen" title="Дисплеи и матрицы"><img src="/images/products/screen.png" alt="" style="width: 166px; height: 138px;" /><span>Дисплеи и матрицы</span></a></li><li><a href="/products/?cat=pack" title="Комплекты"><img src="/images/products/pack.png" alt="" style="width: 166px; height: 138px;" /><span>Комплекты</span></a></li><li><a href="/products/?cat=video" title="Медиасистемы"><img src="/images/products/video.png" alt="" style="width: 166px; height: 138px;" /><span>Медиасистемы</span></a></li><li><a href="/products/?cat=mobile" title="Мобильные прожекторы"><img src="/images/products/mobile.png" alt="" style="width: 166px; height: 138px;" /><span>Мобильные прожекторы</span></a></li><li><a href="/products/?cat=outdoor" title="Уличное освещение"><img src="/images/products/outdoor.png" alt="" style="width: 166px; height: 138px;" /><span>Уличное освещение</span></a></li><li><a href="/products/?cat=stands" title="Стойки и штативы"><img src="/images/products/stands.png" alt="" style="width: 166px; height: 138px;" /><span>Стойки и штативы</span></a></li><li><a href="/products/?cat=acc" title="Аксессуары"><img src="/images/products/acc.png" alt="" style="width: 166px; height: 138px;" /><span>Аксессуары</span></a></li></ul><p><a href=""></a></p>
+  </div><!--textbox -->
+
+</div><!--bg -->
+<div id="inside_box_bottom"></div>
+
+</div><!--inside_box_wide -->
+
+
+<div class="clear"></div>
+
+</div><!--inside -->
+<div class="clear"></div>
+
+<table class="panel1">
+<tr valign="top">
+<!--<td class="box1" style="width:498px;">
+
+<ul class="first">
+  <li class="first"><strong>Лидер продаж</strong></li>
+</ul>
+</td><!--box1 -->
+
+<!--<td class="box2">
+<ul>
+  <li class="first"><strong>Новинки</strong></li>
+</ul>
+</td><!--box2 -->
+
+<td class="box3" style="width: 960px">
+<ul>
+  <li class="first"><a href="/news_/" title="Новости"><strong>Лента новостей</strong></a></li>
+  <li><a href="/news_/?id=15">Фото отчет по тренингам (24, 25 и 26 марта) по световому оборудованию</a></li><li><a href="/news_/?id=14">«Техническая школа A&T Trade»</a></li><li><a href="/news_/?id=13">Гарантийный срок 1 год</a></li><li><a href="/news_/?id=12">Техническая школа A&T Trade</a></li><li><a href="/news_/?id=11">Введен в эксплуатацию новый концертный зал (г.Анапа)</a></li><li><a href="/news_/?id=10">Мануалы для контроллеров CHAUVET на Русском</a></li></ul>
+</td><!--box3 -->
+
+</tr>
+</table><!--panel1 -->
+
+<div class="clear"></div>
+
+<div class="panel2">
+<!--<p>CHAUVET&reg; is a major innovator, developer and manufacturer of professional lighting, leading the lighting market in terms of design, flexibility and options. Specializing in intelligent and LED lighting, the CHAUVET&reg; brand has a global reach built around three core tenets: Value, Innovation, Performance - VIP for short.</p> -->
+
+<div class="box1">
+  <address>2013 – 2018 &copy; <a href="http://www.attrade.ru/">A&amp;T Trade</a> Все права защищены. </address>
+</div><!--box1 -->
+
+<div class="box2">
+  <p class="nav">
+  <a href="/">Главная</a> |
+  <a href="/wherebuy/">Где купить</a> |
+  <a href="/contacts/">Контакты</a> |
+  <a href="/feedback/">Обратная связь</a>
+  </p>
+</div><!--box2 -->
+
+<div class="box3">
+  <p class="logos"><a href="http://www.attrade.ru/" target="_blank" title="A&T Trade"><img src="/images/attrade_logo.gif" alt="http://www.attrade.ru/" /></a><img src="/images/empty.gif" width="18" height="1"><a href="http://old.muztorg.ru/" target="_blank" title="МузТорг"><img src="/images/muztorg_logo.gif" alt="http://old.muztorg.ru/" /></a></p>
+</div><!--box3 -->
+
+<div class="clear"></div>
+
+</div><!--panel2 -->
+<div class="panel2bottom"></div><!--panel2 -->
+
+</div><!--container_index -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2199336-27', 'light.muztorg.ru');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+
+  function resizeContent()
+  {
+    var w = $(window).width(); 
+    if (w>990){
+      $("#container").removeClass("index");
+      $("#container").addClass("inside");
+      $("#flash_800").hide();
+      $("#flash_1024").show();
+    } else {
+      $("#container").removeClass("inside");
+      $("#container").addClass("index");
+      $("#flash_1024").hide();
+      $("#flash_800").show();
+    }
+  }
+  
+  resizeContent();
+
+  $(document).ready(function(){
+  
+    $(window).resize(function(){
+      resizeContent();
+    });
+
+  });
+
+</script>
+
+</body>
+</html>

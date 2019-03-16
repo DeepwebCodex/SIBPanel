@@ -1,0 +1,114 @@
+HTTP/1.1 200 OK
+Date: Mon, 13 Aug 2018 03:57:32 GMT
+Server: Apache/2.4.29 (Ubuntu)
+X-Powered-By: PHP/5.5.9-1ubuntu4.22
+Vary: Accept-Encoding
+Content-Length: 4477
+Connection: close
+Content-Type: text/html
+
+<style type="text/css">
+<!--
+.basestyle {
+	color: #FFFFFF;
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+h1 {
+	font-size: 16px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+body, td, p, input {
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #333333;
+}
+.navlinks {
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+-->
+</style>
+<title>TW Racing Cup</title><center><table width="755" border="0" cellpadding="0" cellspacing="0">
+  
+<!--DWLayoutTable-->
+  <tr>
+    <td height="155" colspan="2" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="755" height="155">
+      <param name="movie" value="twrclogo.swf">
+      <param name="quality" value="high">
+      <embed src="twrclogo.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="755" height="155"></embed>
+    </object></td>
+  </tr>
+  <tr>
+    <td width="185" height="150" valign="top" bgcolor="#d80000"><p align="center"><img src="sidetop.gif" width="185" height="14"><br>
+          <img src="flagchecker2.gif" width="125" height="39" align="top"> <br>
+          <br>
+        </p>
+      <table width="139" height="29" border="0" align="center">
+        <!--DWLayoutTable-->
+        <tr>
+          <td width="133"><div align="center" class="navlinks">
+            <div align="left">:: <a href="index.php" class="navlinks">Home</a></div>
+          </div></td>
+        </tr>
+        <tr>
+          <td height="18" valign="top" class="navlinks"><div align="left">:: <a href="whatis.php" class="navlinks">What is</a> </div></td>
+        </tr>
+        <tr>
+          <td height="18" valign="top" class="navlinks"><div align="left">:: <a href="standings.php" class="navlinks">Standings</a></div></td>
+        </tr>
+        <tr>
+          <td height="18" valign="top" class="navlinks"><div align="left">:: <a href="championship.php" class="navlinks">Championship </a></div></td>
+        </tr>
+        <tr>
+          <td height="19" valign="top" class="navlinks">:: <a href="tracks.php" class="navlinks">Tracks</a></td>
+        </tr>
+        <tr>
+          <td height="18" valign="top" class="navlinks">:: <a href="carinfo.php" class="navlinks">Car Info</a> </td>
+        </tr>
+        <tr>
+          <td height="18" valign="top" class="navlinks">:: <a href="rules.php" class="navlinks">Rules</a> </td>
+        </tr>
+        <tr>
+          <td height="21" valign="top" class="navlinks">:: <a href="develop.php" class="navlinks">Develop</a> </td>
+        </tr>
+        <tr>
+          <td height="5"></td>
+        </tr>
+      </table>
+      <p align="center"><img src="flagchecker2.gif" width="125" height="39" align="bottom"><br>
+      </p></td>
+    <td width="570" rowspan="2" valign="top" style="padding-left:20px; padding-top:25px; padding-right:40px; padding-bottom:35px; "><h1><img src="RaceLogo.gif" width="100" height="56" align="right"><br>
+          Info person:</h1> 
+        <p><strong>Name:</strong> [ddd]trench_TWRC@localhost[ddd] <br><strong>Total points:</strong> 3</p>        <p>Last 30 points given:</p>
+        <table width="477" border="1" align="center">
+          <tr>
+            <td width="117"><div align="center"><strong>Date</strong></div></td>
+            <td width="117"><div align="center"><strong>Added points </strong></div></td>
+            <td width="221"><div align="center"><strong> Reason </strong></div></td>
+          </tr>
+                  </table>        <p><br>
+        </p>
+      </td>
+  </tr>
+  <tr>
+    <td height="20" valign="top"><img src="sidebottom.gif" width="185" height="20"></td>
+  </tr>
+</table>
+<table width="755" border="0" cellpadding="0" cellspacing="0">
+  <!--DWLayoutTable-->
+  <tr>
+    <td width="26" height="51" valign="top"><img src="baseleft.gif" width="26" height="51"></td>
+    <td width="703" valign="top" bgcolor="#ef8406"><div align="center"><span class="style3"><br>
+      </span><span class="basestyle">TW Dev - <a href="http://www.trenchwars.org" target="_blank" class="basestyle">Trenchwars.org</a> <br>
+  TWRC ops: Ice Storm
+      - Jacen Solo - Rodge_Rabbit - SuperDave(postal)</span><br>
+      </div></td>
+    <td width="26" valign="top"><img src="baseright.gif" width="26" height="51"></td>
+  </tr>
+</table>
+<br>
+</center>

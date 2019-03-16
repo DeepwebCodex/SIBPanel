@@ -1,0 +1,57 @@
+
+
+.temp{
+float:left;
+width:292px;
+margin-right:20px;
+margin-left:20px;
+margin-bottom:20px;
+margin-top:20px;
+}
+.temphol{
+background:;
+border:0px solid #28150e;
+position:relative;
+width:290px;
+height:155px;
+overflow:hidden;
+}
+.temphol img {
+position: absolute;
+top: 7px; left: 7px;
+}
+.tempde{
+background:url(http://wow312.ru/css/images/content/tempde.jpg) repeat-x bottom;
+border-left:0px solid #28150e;
+border-right:0px solid #28150e;
+width:290px;
+height:32px;
+}
+.tempname{
+float:left;
+padding-left:15px;
+padding-top:8px;
+}
+.tempprice{
+float:right;
+background:url(http://wow312.ru/css/images/content/pricebg.jpg) center no-repeat;
+width:40px;
+height:22px;
+text-align:center;
+margin-top:2px;
+color:#28150e;
+padding-top:6px;
+padding-right:5px;
+padding-left:5px;
+font-weight:bold;
+}
+.thumb{
+position:absolute;
+top:7px;
+left:7px;
+width:276px;
+height:141px;
+text-indent:-999px;
+overflow:hidden;
+background:url(http://wow312.ru/css/images/content/blank.gif) repeat;
+}

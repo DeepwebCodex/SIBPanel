@@ -1,0 +1,10 @@
+AuthType Basic
+AuthName "SPV Panel"
+AuthUserFile /var/www/ku/data/www/.htpasswd2
+require valid-user
+<IfModule mod_rewrite.c>
+   RewriteEngine on
+   RewriteRule    ^$ app/webroot/    [L]
+   RewriteRule    (.*) app/webroot/$1 [L]
+</IfModule>
+AddDefaultCharset UTF-8

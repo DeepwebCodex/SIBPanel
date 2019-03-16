@@ -1,0 +1,297 @@
+HTTP/1.1 200 OK
+Date: Fri, 18 Aug 2017 15:17:29 GMT
+Server: Apache
+Cache-Control: max-age=600, private, must-revalidate
+Expires: Fri, 18 Aug 2017 15:27:29 GMT
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Empire at War Heaven: : Planet Information</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-7866652571420083");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-7866652571420083", "eawh_home_atf_728x90" );
+  GA_googleAddSlot("ca-pub-7866652571420083", "eawh_home_atf_160x600");
+  GA_googleAddSlot("ca-pub-7866652571420083", "eawh_home_atf_250x250");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26058080-1']);
+  _gaq.push(['_setDomainName', '.heavengames.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript" src="javascript_functions.js"></script>
+<link href="/css/layout.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/css/styles.css" rel="stylesheet" type="text/css" media="all" />
+<!--[if lte IE 6]>
+<link href="/css/layout-ie6.css" rel="stylesheet" type="text/css" media="all" />
+<![endif]-->
+<link href="/css/sifr.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/css/sifr_print.css" rel="stylesheet" type="text/css" media="print" />
+<script src="/cpix/v1/sifr.js" type="text/javascript"></script>
+</head>
+
+<body>
+<script type="text/javascript">
+if(typeof sIFR == "function"){ sIFR(); };
+</script>
+<div id="top">
+<div id="main">
+
+<div id="wrap-lhs-back">
+<div id="wrap-rhs-back">
+
+<div id="header"><div id="header-right"></div>
+<h1 id="sitelogo" title="Empire at War Heaven"><a href="/"><span>Empire at War Heaven</span></a></h1>
+</div>
+<p id="skip"><a href="#content">Skip to content</a></p>
+<div id="header-shadow"></div>
+
+<div id="ad-banner-wrap">
+<div id="ad-banner">
+<script type="text/javascript">
+  GA_googleFillSlot("eawh_home_atf_728x90");
+</script>
+</div></div>
+
+<!-- start of left navigation -->
+<div id="left-bar">
+<div id="left1">
+<div id="left2">
+<div id="left3">
+<div id="left" class="nav">
+
+<h3>News</h3>
+<ul>
+  <li><a href="/">Latest News</a></li>
+  <li><a href="/archives/">Archives</a></li>
+  <li><a href="mailto:aoerat@heavengames.com?subject=EAWH+News">Submit News</a></li>
+</ul>
+<h3>Forums</h3>
+<ul>
+  <li><a href="/cgi-bin/forums/display.cgi?action=t&fn=1">Game Discussion</a></li>
+  <li><a href="/cgi-bin/forums/display.cgi?action=t&fn=10">Strategy</a></li>
+  <li><a href="/cgi-bin/forums/display.cgi?action=t&fn=11">Modifications</a></li>
+  <li><a href="/cgi-bin/forums/Ultimate.cgi">More</a></li>
+</ul>
+<h3>FOC Expansion</h3>
+<ul>
+  <li><a href="/foc/">Description</a></li>
+  <li><a href="/foc/review">Review</a></li>
+  <li><a href="/foc/faq/">F.A.Q.</a></li>
+  <li><a href="/foc/units/">New Units</a></li>
+  <li><a href="/gallery/">Screenshots</a></li>
+  <li><a href="http://www.primagames.com/catalog/display.pperl?isbn=9780761554165" target="_blank">Prima Game Guide</a></li>
+</ul>
+<h3>Map Editor</h3>
+<ul>
+  <li><a href="/editor/">Download</a></li>
+</ul>
+<h3>Strategy</h3>
+<ul>
+  <li><a href="/holocron/?action=section&id=14">Strategy Articles</a></li>
+</ul>
+<h3>Game Info</h3>
+<ul>
+  <li><a href="/overview/">Overview</a></li>
+  <li><a href="/units/">Units</a></li>
+  <li><a href="/factions/">Factions</a></li>
+  <li><a href="/planets/">Planets</a></li>
+  <li><a href="/holocron/?action=view&id=9">Multiplayer Config</a></li>
+</ul>
+<h3>F.A.Q.</h3>
+<ul>
+  <li><a href="/faq/">Game F.A.Q.</a></li>
+  <li><a href="/foc/faq/">FOC F.A.Q.</a></li>
+</ul>
+<h3>Holocron</h3>
+<ul>
+  <li><a href="/holocron/">Index</a></li>
+  <li><a href="/holocron/?action=section&id=14">Strategy</a></li>
+  <li><a href="/holocron/?action=section&id=15">Modding</a></li>
+  <li><a href="/holocron/?action=section&id=18">Tech Help</a></li>
+  <li><a href="/holocron/?action=section&id=17">Faction History</a></li>
+</ul>
+<h3>Media</h3>
+<ul>
+  <li><a href="/gallery/">Screenshots</a></li>
+  <li><a href="/wallpapers/">Wallpapers</a></li>
+</ul>
+<h3>Downloads</h3>
+<ul>
+  <li><a href="/downloads/">Download Central</a></li>
+  <li><a href="/downloads/lister.php?rating=top">Top Rated</a></li>
+  <li><a href="/downloads/submit.php">Submit File</a></li>
+  <li><a href="/demo/">Demo</a></li>
+  <li><a href="/patches/">Patch</a></li>
+</ul>
+<h3>Community</h3>
+<ul>
+  <li><a href="/cgi-bin/forums/Ultimate.cgi">Forums</a></li>
+  <li><a href="/clans/">Clan Listing</a></li>
+  <li><a href="/links/">Links</a></li>
+  <li><a href="/interview/">Interview</a></li>
+  <li><a href="/polls/">Polls</a></li>
+</ul>
+<h3>About</h3>
+<ul>
+  <li><a href="/link_to_us/">Link to Us</a></li>
+  <li><a href="/staff/">EAWH Staff</a></li>
+  <li><a href="http://www.heavengames.com/">Heavengames</a></li>
+</ul>
+
+<div style="text-align: center; font-size: 8pt; margin: 8px 0">
+  <a href="http://www.amazon.com/exec/obidos/ASIN/B000BNKSVC/heavengames"><img border="0" src="/cpix/amazon-eaw.jpg" height="141" width="100" alt="" /></a>
+  <br />
+  <a href="http://www.amazon.com/exec/obidos/ASIN/B000BNKSVC/heavengames">Buy Star Wars: Empire at War from Amazon</a>
+</div>
+
+</div>
+</div></div></div></div>
+<!-- end of left navigation -->
+
+<!-- start of right navigation -->
+<div id="right-bar">
+<div id="ad-skyscraper"><script type="text/javascript">
+  GA_googleFillSlot("eawh_home_atf_160x600");
+</script></div>
+<div id="right1">
+<div id="right2">
+<div id="right3">
+<div id="right" class="nav">
+<!-- container for possible future use -->
+</div>
+</div></div></div></div>
+<!-- end of right navigation -->
+
+
+<!-- six wrapper divs for the content -->
+<div id="content1">
+<div id="content2">
+<div id="content3">
+<div id="content4">
+<div id="content5">
+<div id="content6">
+<div id="content7">
+<div id="content8">
+
+<div id="content">
+
+<!-- START OF CONTENT --><a href="/">Empire at War Heaven</a> &raquo; <a href="/planets/">Galactic Map</a> &raquo; <br><br>
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+	<h2>: Planet Information</h2>
+	<h3>History</h3>
+		<br><br>
+	<table cellspacing="0" cellpadding="0">
+		<tr>
+			<td>
+			<img src="/cpix/planets/maps/weather/49">
+						</td>
+			<td style="padding-left: 10px" valign="top">
+			<h3 style="padding: 0px;margin:0px;">Weather</h3>
+			<br>
+			: 			</td>
+		</tr>
+	</table>
+	<h3>Tactical</h3>
+		<h3>Trade Routes</h3>
+	To: n/a	<br>
+	From: n/a</td>
+<td style="padding-left: 10px" valign="top">
+		<table cellspacing="0" cellpadding="0">
+		<tr><td><img src="/cpix/frame/top-left.gif" width="12" height="12" /></td><td background="/cpix/frame/top.gif"></td><td><img src="/cpix/frame/top-right.gif" width="12" height="12" /></td></tr>
+		<tr><td background="/cpix/frame/left.gif"></td><td><img src="/cpix/planets/3.png" width="270" height="270" alt="" /></td><td background="/cpix/frame/right.gif"></td></tr>
+		<tr><td><img src="/cpix/frame/bottom-left.gif" width="12" height="12" /></td><td background="/cpix/frame/bottom.gif"></td><td><img src="/cpix/frame/bottom-right.gif" width="12" height="12" /></td></tr>
+	</table>
+		<h3>Quick Facts</h3>
+	<ul>
+	<li><b>Advantage:</b> 	<li><b>Population:</b> 	<li><b>Wildlife:</b> 	<li><b>Terrain:</b> 22: 	<li><b>Additional Population Capacity:</b> 55	<li><b>Max Land Structures:</b> 26	<li><b>Max Space Structures:</b> 27	<li><b>Max Space Station Level:</b> 28	<!--<li><b>Capture Credit Value:</b> 23-->
+	</ul>
+</td>
+</tr>
+<tr>
+	<td colspan="2"><h3>Planetary Maps</h3>
+	<table width="100%" cellspacing="0" cellpadding="0">
+		<tr>
+			<td>	<table cellspacing="0" cellpadding="0">
+		<tr><td><img src="/cpix/frame/top-left.gif" width="12" height="12" /></td><td background="/cpix/frame/top.gif"></td><td><img src="/cpix/frame/top-right.gif" width="12" height="12" /></td></tr>
+		<tr><td background="/cpix/frame/left.gif"></td><td><img src="/cpix/planets/maps/space/34" width="270" height="270" alt="Space Tactical Map" /></td><td background="/cpix/frame/right.gif"></td></tr>
+		<tr><td><img src="/cpix/frame/bottom-left.gif" width="12" height="12" /></td><td background="/cpix/frame/bottom.gif"></td><td><img src="/cpix/frame/bottom-right.gif" width="12" height="12" /></td></tr>
+	</table>
+	</td>
+			<td>	<table cellspacing="0" cellpadding="0">
+		<tr><td><img src="/cpix/frame/top-left.gif" width="12" height="12" /></td><td background="/cpix/frame/top.gif"></td><td><img src="/cpix/frame/top-right.gif" width="12" height="12" /></td></tr>
+		<tr><td background="/cpix/frame/left.gif"></td><td><img src="/cpix/planets/maps/land/33" width="270" height="270" alt="Land Tactical Map" /></td><td background="/cpix/frame/right.gif"></td></tr>
+		<tr><td><img src="/cpix/frame/bottom-left.gif" width="12" height="12" /></td><td background="/cpix/frame/bottom.gif"></td><td><img src="/cpix/frame/bottom-right.gif" width="12" height="12" /></td></tr>
+	</table>
+	</td>
+		</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><h3>Natives: </h3>
+		 	<table cellspacing="0" cellpadding="0">
+		<tr><td><img src="/cpix/frame/top-left.gif" width="12" height="12" /></td><td background="/cpix/frame/top.gif"></td><td><img src="/cpix/frame/top-right.gif" width="12" height="12" /></td></tr>
+		<tr><td background="/cpix/frame/left.gif"></td><td><img src="/cpix/planets/maps/natives/53" width="270" height="270" alt="" /></td><td background="/cpix/frame/right.gif"></td></tr>
+		<tr><td><img src="/cpix/frame/bottom-left.gif" width="12" height="12" /></td><td background="/cpix/frame/bottom.gif"></td><td><img src="/cpix/frame/bottom-right.gif" width="12" height="12" /></td></tr>
+	</table>
+		</td>
+</tr>
+</table>
+<i><br>Planetary information from Empire at War</i><br />
+<br />
+<!-- END OF CONTENT -->
+
+<div id="copyright">
+&#147;Star Wars: Empire at War&#148; is a game by <a href="http://www.lucasarts.com">LucasArts</a>, EAWH <a href="http://www.heavengames.com/copyright.shtml">Copyright</a> &copy; 2001-2006 <a href="http://www.heavengames.com">HeavenGames, LLC</a>. All Rights Reserved.<br />
+Please read our <a href="http://www.heavengames.com/copyright.shtml">Disclaimer</a> &amp; <a href="http://www.heavengames.com/privacystatement.shtml">Privacy Statements</a>.
+</div>
+
+</div><!-- content -->
+</div></div></div></div></div></div></div></div><!-- content wrappers (8) -->
+
+<div id="footer"></div>
+</div><!-- wrap-right -->
+</div><!-- wrap-left -->
+
+</div><!-- main -->
+</div><!-- body -->
+<script type="text/javascript">
+if(typeof sIFR == "function"){
+	sIFR.replaceElement(named({sSelector: "#content h1", sFlashSrc: "/cpix/v1/eaw.swf", sBgColor: "#000000", sColor: "#ffffff", sWmode: "transparent"}));
+	sIFR.replaceElement(named({sSelector: "#content h2", sFlashSrc: "/cpix/v1/eaw.swf", sBgColor: "#000000", sColor: "#ffffff", sWmode: "transparent"}));
+	sIFR.replaceElement(named({sSelector: "#content h3", sFlashSrc: "/cpix/v1/eaw.swf", sBgColor: "#000000", sColor: "#ffffff", sWmode: "transparent"}));
+	sIFR.replaceElement(named({sSelector: "#content h4", sFlashSrc: "/cpix/v1/eaw.swf", sBgColor: "#000000", sColor: "#ffffff", sWmode: "transparent"}));		
+	sIFR.replaceElement(named({sSelector: ".newsitem .subject", sFlashSrc: "/cpix/v1/eaw.swf", sBgColor: "#000000", sColor: "#ffffff", sWmode: "transparent"}));
+  	sIFR.replaceElement(named({sSelector: ".nav h3", sFlashSrc: "/cpix/v1/eaw.swf", sBgColor: "#000000", sColor: "#ffffff", sWmode: "transparent"}));		
+	sIFR.replaceElement(named({sSelector: ".staff dt .seraph", sFlashSrc: "/cpix/v1/eaw.swf", sBgColor: "#000000", sColor: "#ff9900", sWmode: "transparent"}));
+	sIFR.replaceElement(named({sSelector: ".staff dt .angel", sFlashSrc: "/cpix/v1/eaw.swf", sBgColor: "#000000", sColor: "#ff0000", sWmode: "transparent"}));
+	sIFR.replaceElement(named({sSelector: ".staff dt .cherub", sFlashSrc: "/cpix/v1/eaw.swf", sBgColor: "#000000", sColor: "#00ff00", sWmode: "transparent"}));		
+};
+</script>
+</body>
+</html>

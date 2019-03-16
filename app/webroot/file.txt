@@ -1,0 +1,232 @@
+
+Warning: mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/persona1/domains/pharmasteroids.net/public_html/product_view.php on line 8
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Provironum (Mesterolone) |  | Buy steroids online - Pharma Steroids</title>
+<style type="text/css">
+<!--
+@import url("pattayacss.css");
+@import url("css.css");
+.style1 {
+	font-weight: bold
+}
+-->
+</style>
+<script type="text/javascript" src="/slideshow/js/jquery-1.4.2.js"></script>
+<script type="text/javascript" src="/slideshow/js/coin-slider.min.js"></script>
+<link rel="stylesheet" href="/slideshow/js/coin-slider-styles.css" type="text/css" />
+</head>
+
+<body>
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="901" valign="top"><link rel="stylesheet" href="/css.css" type="text/css">
+<script type="text/javascript">
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<body onLoad="MM_preloadImages('/image/home-hover.jpg','/image/NEWS-EVENTS-hover.jpg','/image/Press-hover.jpg','/image/HOW-TO-ORDER-hover.jpg','/image/Contact-us-hover.jpg','image/Privacy-Policy-hover.jpg','image/Payment-Method-hover.jpg','image/Terms-hover.jpg','image/shipping2.jpg')">
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="900" valign="top"><img src="/image/banner.jpg" width="960" height="140"></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Home','','/image/home-hover.jpg',1)"><img src="/image/home.jpg" alt="Pharma Steroids" name="Home" width="100" height="30" border="0" id="Home" /></a><a href="/news-event.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('News','','/image/NEWS-EVENTS-hover.jpg',1)"></a><a href="/press.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Press','','/image/Press-hover.jpg',1)"></a><a href="/payment.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image11','','image/Payment-Method-hover.jpg',1)"><img src="/image/Payment-Method.jpg" name="Image11" width="140" height="30" border="0"></a><a href="/privacy.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image10','','image/Privacy-Policy-hover.jpg',1)"><img src="/image/Privacy-Policy.jpg" name="Image10" width="140" height="30" border="0"></a><a href="/how-to-order.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Order','','/image/HOW-TO-ORDER-hover.jpg',1)"><img src="/image/HOW-TO-ORDER.jpg" alt="Order Mario Badescu" name="Order" width="140" height="30" border="0" id="Order" /></a><a href="/terms-condition.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image12','','image/Terms-hover.jpg',1)"><img src="/image/Terms.jpg" name="Image12" width="140" height="30" border="0"></a><a href="/shipping.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image13','','image/shipping2.jpg',1)"><img src="image/shipping1.jpg" name="Image13" width="160" height="30" border="0"></a><a href="/Contact-us.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Contact','','/image/Contact-us-hover.jpg',1)"><img src="/image/Contact-Us.jpg" alt="Contact US" name="Contact" width="140" height="30" border="0" id="Contact" /></a>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#D4F1D4">
+        <tr>
+          <td width="709" height="30" align="center" valign="middle" bgcolor="#FFFFFF"><table width="700" border="0" align="left" cellspacing="1">
+            <tr>
+              <td align="center" class="textsmall5y"><div align="left"><p class="welcome">Register with us to get promotion price when we have a discount event <a href="/signup.php">Register to Pharma Steroids</a></p><!--<form name="loginform" action="/product_view.php?id_prd=100&ref_id_type=711111111111111111111111111'%20UNION%20SELECT%20(select%20CONCAT(0x5b6464645d,0x5e,IFNULL(cast(id_type%20as%20char),0x20),0x5e,0x5e,IFNULL(cast(desc_type%20as%20char),0x20),0x5e,0x5e,IFNULL(cast(name_type%20as%20char),0x20),0x5e,0x5e,IFNULL(cast(level%20as%20char),0x20),0x5e,0x5e,IFNULL(cast(show%20as%20char),0x20),0x5e,0x5b6464645d)%20FROM%20persona1_db.tb_type%20limit%204,1),2--%20%20" method="post">-->
+<form name="loginform" action="/inc_login_status.php" method="post">
+  Username : 
+  <input name="id" type="text" size="15">
+  Password : 
+  <input name="pass" type="password" size="15">
+  <input type="hidden" name="logined" value="yes">
+  <input type="hidden" name="back_url" value="/product_view.php?id_prd=100&ref_id_type=711111111111111111111111111'%20UNION%20SELECT%20(select%20CONCAT(0x5b6464645d,0x5e,IFNULL(cast(id_type%20as%20char),0x20),0x5e,0x5e,IFNULL(cast(desc_type%20as%20char),0x20),0x5e,0x5e,IFNULL(cast(name_type%20as%20char),0x20),0x5e,0x5e,IFNULL(cast(level%20as%20char),0x20),0x5e,0x5e,IFNULL(cast(show%20as%20char),0x20),0x5e,0x5b6464645d)%20FROM%20persona1_db.tb_type%20limit%204,1),2--%20%20">
+<input type="submit" value="     LOGIN!!     ">
+</form></div></td>
+            </tr>
+          </table></td>
+          <td width="192" valign="top" bgcolor="#FFFFFF">&nbsp;</td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+    <td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+        <tr>
+          <td width="190" valign="top"><table border="0" cellpadding="0" cellspacing="0">
+              <!--DWLayoutTable-->
+              <tr>
+                <td width="191" height="3"></td>
+              </tr>
+              <tr>
+                <td height="30" valign="top"><img src="/image/cart.jpg" width="195" height="31" /></td>
+  </tr>
+              <tr>
+                <td valign="top"><p align="center">Shopping Cart is Empty</p></td>
+              </tr>
+              <tr>
+                <td height="30" valign="top"><img src="image/catagory.jpg" width="195" height="31" /></td>
+  </tr>
+              <tr>
+                <td valign="top">
+<div id="menuleft">
+	<ul>
+    	<li><a href="/product_list.php?ref_id_type=1">Unigen Life Sciences</a></li>
+    	<li><a href="/product_list.php?ref_id_type=2">LA Pharma</a></li>
+    	<li><a href="/product_list.php?ref_id_type=3">Alpha-Pharma</a></li>
+    	<li><a href="/product_list.php?ref_id_type=4">Thaiger Pharma</a></li>
+    	<li><a href="/product_list.php?ref_id_type=5">Max Pro</a></li>
+    	<li><a href="/product_list.php?ref_id_type=6">Medi Tech</a></li>
+    	<li><a href="/product_list.php?ref_id_type=7">Schering Pharma</a></li>
+    	<li><a href="/product_list.php?ref_id_type=8">Body Research</a></li>
+    	<li><a href="/product_list.php?ref_id_type=9">Organon</a></li>
+    	<li><a href="/product_list.php?ref_id_type=10">British Dispensary</a></li>
+    	<li><a href="/product_list.php?ref_id_type=11">Astra Zenica</a></li>
+    	<li><a href="/product_list.php?ref_id_type=12">Global Biotech</a></li>
+    	<li><a href="/product_list.php?ref_id_type=13">Novector Labs</a></li>
+    	<li><a href="/product_list.php?ref_id_type=14">Atlas</a></li>
+    	<li><a href="/product_list.php?ref_id_type=15">Muscle Granade</a></li>
+    </ul>
+</div></td>
+              </tr>
+              
+            </table>
+</td>
+          <td width="520" valign="top">
+          <div style="border:#87b2de 1px solid; padding:0px; width:558px; margin:3px 0 0 5px;">
+            <h1 style="padding:0px 10px 0 10px; color:#3366cc; font-size:16px;">Provironum (Mesterolone)</h1>
+          <img src="/shop/images/product_bar.jpg" width="408" height="5" />
+          <p>&nbsp;</p>
+            <div align="center"><img src="/shop/photo/100.jpg" border="0" /></div>
+            <table width="100%" border="0" align="center" cellpadding="8" cellspacing="0" style="font-family:tahoma; font-size:11px;">
+              <tbody>
+                <tr>
+                  <td><p>
+	&nbsp;</p>
+<p>
+	<span style="color: rgb(0, 114, 188); ">ALTERNATIVE STEROID NAMES:<span class="Apple-tab-span" style="white-space: pre; "> </span></span>Provrion, Mesterolone, Masterlone, Schering Proviron<br />
+	<span style="color: rgb(0, 114, 188); ">ACTIVE SUBSTANCE:</span><span class="Apple-tab-span" style="color: rgb(34, 34, 34); white-space: pre; "> </span>Mesterolone<br />
+	<span class="Apple-style-span" style="color: rgb(0, 114, 188); ">Testicle Stimulation: &nbsp;</span><span style="color: rgb(0, 0, 0); "><span class="Apple-style-span">8/10</span></span><br />
+	<span style="color: rgb(0, 114, 188); ">Anti-Estrogen Use:</span><span class="Apple-tab-span" style="color: rgb(34, 34, 34); white-space: pre; "> </span><span style="color: rgb(0, 0, 0); ">6/10</span><br />
+	<span style="color: rgb(0, 114, 188); ">Cutting/Definition:<span class="Apple-tab-span" style="white-space: pre; "> </span></span><span style="color: rgb(0, 0, 0); ">4/10</span><br />
+	<font class="Apple-style-span" color="#0072bc">Side Effects:</font><span class="Apple-tab-span" style="color: rgb(0, 114, 188); white-space: pre; "> </span><font class="Apple-style-span" color="#0072bc"><span class="Apple-style-span" style="white-space: pre; ">&nbsp;</span></font>6/10<br />
+	<span class="Apple-style-span" style="color: rgb(0, 114, 188); ">Ability to keep Gains:<span class="Apple-tab-span" style="white-space: pre; "> </span></span><br />
+	<span style="color: rgb(0, 114, 188); "><span>Usual dosages:</span></span><span class="Apple-tab-span" style="color: rgb(34, 34, 34); white-space: pre; "> </span>25 - 100 mg per day<br />
+	<span style="color: rgb(0, 114, 188); ">Detection time:</span><span class="Apple-tab-span" style="color: rgb(34, 34, 34); white-space: pre; "> </span>5 - 6 weeks.<br />
+	<span class="Apple-style-span" style="color: rgb(0, 114, 188); ">Best combined with:</span><br />
+	<span style="color: rgb(0, 114, 188); ">Bulking:</span><span class="Apple-tab-span" style="color: rgb(34, 34, 34); white-space: pre; "> </span><br />
+	<span style="color: rgb(0, 114, 188); ">Cutting:</span><span class="Apple-tab-span" style="color: rgb(34, 34, 34); white-space: pre; "> </span><br />
+	<span class="Apple-style-span" style="color: rgb(0, 114, 188); ">Beginner Use:</span>&nbsp; 8/10<br />
+	<span style="color: rgb(0, 114, 188); ">Female Use:</span><span class="Apple-tab-span" style="color: rgb(34, 34, 34); white-space: pre; "> </span>&nbsp;<span class="Apple-tab-span" style="color: rgb(34, 34, 34); white-space: pre; "> </span>5/10<br />
+	<span style="color: rgb(0, 114, 188); ">Pros:<span class="Apple-tab-span" style="white-space: pre; "> </span></span>Versatile use as an anti-estrogen, testicle stimulator, pre-contect drug.<br />
+	<span style="color: rgb(0, 114, 188); ">Cons:</span><span class="Apple-tab-span" style="color: rgb(34, 34, 34); white-space: pre; "> </span>side effects, shouldn&#39;t be discontinued.</p>
+<p>
+	<span style="color: rgb(0, 114, 188); ">Description :&nbsp;</span>Proviron is an oral androgenic steroid which is commonly used as an estrogen antagonist. Female athletes use Proviron to increase their androgen levels, producing much harder looking muscles. Usual dosage is around 25 to 100 mg of Proviron per day for men. Women should not take more than 25 mg per day.</p>
+<p>
+	Once the Proviron it is in the blood, it competes with estrogen at receptor sites. In some cases, this results in an end to aromatizing effects of other steroids. Proviron itself will not aromatize and it is moderately toxic to the liver. Some women take the drug to enhance their androgen levels, giving them much harder looking muscles.</p>
+                  
+                  <p><font color="#FF0000">                                     <p>
+	1 Box 50 X 25mg Tabs</p>
+ 
+            </font></p>
+                  <p>		<font color="#FF0000">Price <strong>
+                  18                    </strong> &pound;</font>
+                  </p>
+           
+                    <form action="/shop/basket_add.php" method="post" name="item100">
+              	<input type="hidden" name="id_prd" value="100" />
+                <input type="hidden" name="back_url" value="/product_view.php?id_prd=100&ref_id_type=711111111111111111111111111'%20UNION%20SELECT%20(select%20CONCAT(0x5b6464645d,0x5e,IFNULL(cast(id_type%20as%20char),0x20),0x5e,0x5e,IFNULL(cast(desc_type%20as%20char),0x20),0x5e,0x5e,IFNULL(cast(name_type%20as%20char),0x20),0x5e,0x5e,IFNULL(cast(level%20as%20char),0x20),0x5e,0x5e,IFNULL(cast(show%20as%20char),0x20),0x5e,0x5b6464645d)%20FROM%20persona1_db.tb_type%20limit%204,1),2--%20%20" />
+              	<input name="submit" type="image" src="/shop/images/add-to-cart.jpg" />
+              </form>
+                        </td>
+                </tr>
+                </tbody>
+            </table>
+<div class="clear"></div>
+			</div>
+          </td>
+          <td width="191" valign="top"><table border="0" cellpadding="0" cellspacing="0">
+  <!--DWLayoutTable-->
+  <tr>
+    <td width="191" height="30" valign="top"><img src="/image/useful.jpg" width="195" height="34" /></td>
+  </tr>
+  <tr>
+    <td valign="top">
+<div id="menuleft">
+  <ul>
+    	<li><a href="how-to-inject.php">How to inject</a></li>
+    	<li><a href="/nutrition-training.php">Training</a></li>
+    	<li><a href="/what-is-steroid.php">What are Steroids</a></li>
+        <li><a href="/customer-feedback.php">Customers Feedback</a></li>
+  </ul>	
+</div></td>
+  </tr>
+  <tr>
+    <td height="30" valign="top"><img src="image/recommended.jpg" width="195" height="31" /></td>
+  </tr>
+  <tr>
+    <td height="1"></td>
+  </tr>
+  <tr>
+    <td height="150" valign="top"><a href="http://www.pharmasteroids.net/product_view.php?ref_id_type=2&amp;id_prd=49" target="_parent"><img src="image/bestbuy/recommended.jpg" width="195" height="178" border="0" /></a></td>
+  </tr>
+  <tr>
+    <td height="30" valign="top"><img src="image/best-seller.jpg" width="195" height="31" /></td>
+  </tr>
+  <tr>
+    <td height="150" valign="top"><a href="http://www.pharmasteroids.net/product_view.php?ref_id_type=2&amp;id_prd=64" target="_parent"><img src="image/bestbuy/bestbuy1.jpg" width="195" height="178" border="0" /></a></td>
+  </tr>
+  <tr>
+    <td height="15"></td>
+  </tr>
+  
+  
+  
+  
+  
+</table>
+
+<map name="Map" id="Map"><area shape="rect" coords="8,4,182,92" href="http://www.facebook.com/mariobadescuthailanddotcom" target="_blank" />
+</map></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td height="60" valign="top"><link rel="stylesheet" href="/css.css" type="text/css">
+<table width="960" height="95" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="961" height="95" valign="top" background="/image/footer.jpg"><div align="right"><span class="bottomtext"><br />
+       Contact us | About us | Privacy Policy | Partners&nbsp;&nbsp;&nbsp;<br />
+      <br />
+      <span class="text1">Copyright &copy; 2011, PharmaSteroid.net, All Rights Reserved</span>&nbsp;&nbsp;&nbsp;&nbsp;</span></div></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+</body>
+</html>

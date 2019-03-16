@@ -1,0 +1,258 @@
+HTTP/1.1 200 OK
+Date: Wed, 10 Jan 2018 11:04:07 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Version pour courriel</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Bootstrap -->
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="dist/css/bootstrap.min.css">
+	<!-- Optional: Include the jQuery library -->
+	<script src="js/1.11.1/jquery.min.js"></script>
+	<!-- Optional: Incorporate the Bootstrap JavaScript plugins -->
+	<script src="dist/js/bootstrap.min.js"></script>
+	<!-- Optional: Include the jQuery UI library used to animate the captions -->
+	<script src="js/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="styles/custom.css">
+<link href="styles/styles_email.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+
+  function validate()
+  {
+    var mystring = "Les erreurs suivantes ont eu lieu :\n\n";
+
+    if (document.fairecourriel.destinataire.value == '')
+    {
+      mystring += "Vous devez inscrire un adresse courriel pour un destinaire.\n";
+    }
+else
+	{
+/***********************************************
+* Email Validation script- � Dynamic Drive (www.dynamicdrive.com)
+* This notice must stay intact for legal use.
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var emailfilter=/^\w+[\+\.\w-]*@([\w-]+\.)*\w+[\w-]*\.([a-z]{2,4}|\d+)$/i
+
+function checkmaila(e){
+var returnval=emailfilter.test(e.value)
+if (returnval==false){
+      mystring += "L‘adresse courriel que vous avez inscrite pour le destinaire ne semble pas être valide.\n";
+e.select()
+}
+return returnval
+}
+checkmaila(document.fairecourriel.destinataire)
+}
+    if (document.fairecourriel.sujet.value == '')
+    {
+      mystring += "Vous devez inscrire un sujet pour le courriel.\n";
+    }
+    if (document.fairecourriel.nom.value == '')
+    {
+      mystring += "Vous devez inscrire votre nom.\n";
+    }
+    if (document.fairecourriel.courriel.value == '')
+    {
+      mystring += "Vous devez inscrire votre adresse courriel.\n";
+    }
+else
+	{
+/***********************************************
+* Email Validation script- � Dynamic Drive (www.dynamicdrive.com)
+* This notice must stay intact for legal use.
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var emailfilter=/^\w+[\+\.\w-]*@([\w-]+\.)*\w+[\w-]*\.([a-z]{2,4}|\d+)$/i
+
+function checkmailb(e){
+var returnval=emailfilter.test(e.value)
+if (returnval==false){
+      mystring += "Votre adresse courriel ne semble pas être valide.\n";
+e.select()
+}
+return returnval
+}
+checkmailb(document.fairecourriel.courriel)
+}
+    // print the results, if any.
+    if (mystring != "Les erreurs suivantes ont eu lieu :\n\n")
+    {
+      // it's been added to, so display it.
+      alert(mystring);
+    }
+    else
+    {   
+      document.fairecourriel.soumettre();
+      return true;          
+    }
+    return false;
+  }
+</script>
+
+</head>
+
+<body>
+<div class="container shadow rounded-corners">
+<div class="row toprow"><!-- TOP OF PAGE ROW -->
+<div class="col-sm-3" id="top-left">
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="96.35px" height="124.843px" viewBox="0 0 96.35 124.843" enable-background="new 0 0 96.35 124.843" xml:space="preserve">
+<g id="Ensemble">
+	<g>
+		<path fill="#231F20" d="M10.86,117.819H5.107v4.485h6.433v2.289H2.32v-15.269h8.88v2.288H5.107v3.941h5.753V117.819z"/>
+		<path fill="#231F20" d="M13.214,116.846c0-1.269-0.045-2.333-0.091-3.284h2.424l0.136,1.653h0.067
+			c0.499-0.86,1.699-1.902,3.534-1.902c1.926,0,3.919,1.245,3.919,4.733v6.548h-2.787v-6.23c0-1.586-0.589-2.786-2.106-2.786
+			c-1.11,0-1.88,0.793-2.174,1.631c-0.091,0.227-0.136,0.566-0.136,0.884v6.502h-2.786V116.846z"/>
+		<path fill="#231F20" d="M25.397,122.011c0.612,0.385,1.812,0.814,2.809,0.814c1.224,0,1.767-0.521,1.767-1.245
+			c0-0.747-0.453-1.11-1.812-1.607c-2.152-0.726-3.035-1.903-3.035-3.217c0-1.948,1.608-3.443,4.168-3.443
+			c1.223,0,2.288,0.294,2.944,0.656l-0.566,1.948c-0.453-0.271-1.359-0.635-2.333-0.635c-0.997,0-1.541,0.498-1.541,1.179
+			c0,0.702,0.521,1.019,1.926,1.54c2.016,0.702,2.922,1.722,2.944,3.353c0,2.016-1.563,3.466-4.485,3.466
+			c-1.337,0-2.537-0.316-3.353-0.77L25.397,122.011z"/>
+		<path fill="#231F20" d="M36.268,119.858c0.068,1.994,1.608,2.854,3.398,2.854c1.292,0,2.197-0.204,3.058-0.499l0.408,1.903
+			c-0.952,0.408-2.266,0.702-3.851,0.702c-3.579,0-5.686-2.197-5.686-5.572c0-3.059,1.857-5.935,5.391-5.935
+			c3.579,0,4.757,2.944,4.757,5.368c0,0.521-0.045,0.928-0.091,1.178H36.268z M41.116,117.91c0.022-1.02-0.43-2.695-2.288-2.695
+			c-1.722,0-2.446,1.562-2.56,2.695H41.116z"/>
+		<path fill="#231F20" d="M45.326,116.846c0-1.269-0.045-2.333-0.091-3.284h2.379l0.136,1.631h0.068
+			c0.521-0.86,1.517-1.88,3.397-1.88c1.45,0,2.583,0.814,3.058,2.039h0.046c0.385-0.612,0.837-1.066,1.336-1.383
+			c0.634-0.43,1.336-0.656,2.266-0.656c1.812,0,3.669,1.245,3.669,4.779v6.502h-2.719v-6.095c0-1.834-0.633-2.922-1.97-2.922
+			c-0.952,0-1.654,0.68-1.949,1.473c-0.09,0.249-0.136,0.611-0.136,0.929v6.615h-2.718v-6.39c0-1.539-0.611-2.627-1.903-2.627
+			c-1.042,0-1.744,0.815-2.016,1.563c-0.09,0.294-0.136,0.611-0.136,0.929v6.524h-2.718V116.846z"/>
+		<path fill="#231F20" d="M63.874,108.51h2.786v6.568h0.044c0.68-1.063,1.88-1.766,3.534-1.766c2.696,0,4.621,2.242,4.599,5.594
+			c0,3.966-2.515,5.937-5.006,5.937c-1.427,0-2.696-0.544-3.489-1.903h-0.045l-0.136,1.654h-2.378
+			c0.045-0.749,0.091-1.972,0.091-3.104V108.51z M66.66,120.04c0,0.227,0.022,0.453,0.068,0.656
+			c0.294,1.133,1.269,1.949,2.469,1.949c1.744,0,2.809-1.383,2.809-3.625c0-1.948-0.929-3.534-2.787-3.534
+			c-1.132,0-2.174,0.815-2.468,2.039c-0.046,0.203-0.091,0.453-0.091,0.726V120.04z"/>
+		<path fill="#231F20" d="M76.465,108.51h2.786v16.084h-2.786V108.51z"/>
+		<path fill="#231F20" d="M83.599,119.858c0.069,1.994,1.608,2.854,3.398,2.854c1.292,0,2.197-0.204,3.058-0.499l0.408,1.903
+			c-0.952,0.408-2.265,0.702-3.852,0.702c-3.579,0-5.685-2.197-5.685-5.572c0-3.059,1.857-5.935,5.391-5.935
+			c3.579,0,4.757,2.944,4.757,5.368c0,0.521-0.045,0.928-0.091,1.178H83.599z M88.447,117.91c0.022-1.02-0.431-2.695-2.288-2.695
+			c-1.722,0-2.447,1.562-2.56,2.695H88.447z"/>
+		<path fill="#F47A3F" d="M92.295,122.758c0-1.246,0.838-2.106,2.039-2.106c1.178,0,1.994,0.838,2.017,2.106
+			c0,1.201-0.816,2.085-2.062,2.085C93.133,124.843,92.295,123.959,92.295,122.758z"/>
+	</g>
+</g>
+<g id="Logo">
+	<path fill="#6DC069" d="M42.309,29.083C19.032,39.147,1.585,50.605,3.344,54.669c1.271,2.941,12.283,1.189,27.104-3.823
+		c-9.74,2.639-19.279,3.886-20.63,3.937c-1.919,0.085-3.804-0.257-4.166-1.087C4.206,50.348,20.875,39.92,42.884,30.402
+		c22.015-9.521,41.034-14.528,42.481-11.184c0.41,0.959-1.099,2.993-3.327,5.059c-2.799,2.778-8.828,6.956-16.713,11.576
+		c14.359-7.556,23.62-14.635,22.315-17.643C85.887,14.147,65.584,19.011,42.309,29.083"/>
+	<path fill="#6DC069" d="M44.312,28.512C19.21,32.159-0.622,38.665,0.015,43.046c0.466,3.175,11.55,4.353,27.161,3.381
+		c-10.086,0.006-19.621-1.28-20.937-1.577c-1.879-0.428-3.607-1.243-3.74-2.142c-0.523-3.61,18.293-9.327,42.022-12.772
+		c23.735-3.452,43.398-3.316,43.921,0.287c0.15,1.031-1.836,2.604-4.525,4.02c-3.429,1.945-10.339,4.405-19.156,6.817
+		c15.831-3.556,26.615-7.967,26.147-11.217C90.274,25.464,69.408,24.865,44.312,28.512"/>
+	<path fill="#F47A3F" d="M59.646,40.96c0-3.363-2.72-6.091-6.08-6.091c-3.364,0-6.092,2.728-6.092,6.091
+		c0,3.358,2.728,6.083,6.092,6.083C56.925,47.043,59.646,44.318,59.646,40.96"/>
+	<path fill="#231F20" d="M25.28,79.029c0-0.981,0.041-1.963,0.083-2.96C25.647,76.042,26.058,76,26.685,76
+		c0.928,0,2.115,0.356,2.115,1.788c0,1.623-1.487,2.088-2.606,2.088c-0.354,0-0.668-0.014-0.914-0.069V79.029z M24.161,81.376
+		c0,1.173-0.055,2.36-0.109,3.534c0.232-0.042,0.451-0.068,0.668-0.068c0.219,0,0.437,0.026,0.67,0.068
+		c-0.055-1.174-0.11-2.361-0.11-3.534v-0.995h0.518c1.173,1.188,2.989,3.697,3.534,4.529c0.258-0.042,0.533-0.068,0.791-0.068
+		c0.273,0,0.545,0.026,0.819,0.068c-0.792-0.887-3.07-3.821-3.739-4.652C28.24,80.121,30,79.411,30,77.651
+		c0-1.623-1.296-2.156-2.838-2.156c-0.518,0.001-1.036,0.069-1.555,0.069c-0.518,0-1.036-0.028-1.555-0.068
+		c0.055,1.173,0.109,2.361,0.109,3.533V81.376z"/>
+	<path fill="#231F20" d="M39.55,84.31c-0.34,0.273-1.474,0.777-2.838,0.777c-2.878,0-4.98-1.786-4.98-4.884
+		c0-3.097,2.102-4.883,5.117-4.883c1.173,0,2.223,0.285,2.961,0.627c-0.137,0.247-0.232,0.778-0.288,1.064l-0.082,0.028
+		c-0.382-0.423-1.309-1.215-2.591-1.215c-2.142,0-3.78,1.35-3.78,4.379c0,3.03,1.638,4.38,3.78,4.38c1.296,0,2.251-0.737,2.77-1.133
+		l0.054,0.055L39.55,84.31z"/>
+	<path fill="#231F20" d="M48.651,84.31c-0.341,0.273-1.474,0.777-2.838,0.777c-2.879,0-4.98-1.786-4.98-4.884
+		c0-3.097,2.101-4.883,5.117-4.883c1.172,0,2.223,0.285,2.96,0.627c-0.136,0.247-0.231,0.778-0.287,1.064l-0.083,0.028
+		c-0.381-0.423-1.309-1.215-2.591-1.215c-2.142,0-3.78,1.35-3.78,4.379c0,3.03,1.639,4.38,3.78,4.38c1.295,0,2.25-0.737,2.77-1.133
+		l0.054,0.055L48.651,84.31z"/>
+	<path fill="#231F20" d="M50.697,79.031c0-1.173-0.055-2.361-0.11-3.534c0.819,0.04,1.625,0.068,2.443,0.068
+		c0.817,0,1.623-0.028,2.605-0.068c-0.028,0.136-0.041,0.272-0.041,0.408c0,0.137,0.013,0.274,0.042,0.41
+		c-0.983-0.096-2.92-0.177-3.807-0.177c-0.013,0.642-0.027,1.213-0.027,1.788c0,0.627,0.014,1.146,0.014,1.719
+		c1.173,0,2.387-0.028,3.52-0.136c-0.027,0.136-0.055,0.272-0.055,0.41c0,0.136,0.028,0.272,0.055,0.408
+		c-0.914-0.096-2.347-0.109-3.52-0.109v1.16c0,1.173,0.054,2.36,0.109,3.534c-0.232-0.042-0.451-0.068-0.669-0.068
+		c-0.219,0-0.437,0.026-0.669,0.068c0.056-1.174,0.11-2.361,0.11-3.534V79.031z"/>
+	<path fill="#231F20" d="M64.573,84.31c-0.342,0.273-1.474,0.777-2.838,0.777c-2.878,0-4.979-1.786-4.979-4.884
+		c0-3.097,2.102-4.883,5.116-4.883c1.173,0,2.224,0.285,2.96,0.627c-0.137,0.247-0.232,0.778-0.286,1.064l-0.082,0.028
+		c-0.381-0.423-1.31-1.215-2.592-1.215c-2.142,0-3.78,1.35-3.78,4.379c0,3.03,1.638,4.38,3.78,4.38c1.296,0,2.252-0.737,2.77-1.133
+		l0.054,0.055L64.573,84.31z"/>
+	<path fill="#231F20" d="M44.776,0.254v14.025l0.706-1.686C50.107,5.305,56.142,0,63.152,0c1.963,0,3.087,0.138,4.352,0.701
+		l-1.965,10.291c-1.967-1.402-3.128-2.066-5.621-2.232c-3.764-0.256-7.848,2.014-9.952,4.401
+		c-4.907,5.611-5.189,10.237-5.189,17.813v8.271l-10.56,3.353V4.201L44.776,0.254z"/>
+	<polygon fill="#231F20" points="34.213,67.302 34.217,50.069 44.776,46.528 44.772,63.927 	"/>
+</g>
+</svg>
+</div><!-- end TOP LEFT column -->
+<div class="col-sm-9" id="top-middle">
+		<p id="rccfc_title">R&eacute;seau des c&eacute;geps et des coll&egrave;ges 
+			francophones du Canada</p>
+		<p id="rccfc_address">130 rue Slater, bureau 1015 Ottawa, ON  K1P 6E2<br>
+				T&eacute;l&eacute; : 613-241-0430 | T&eacute;l&eacute;c : 613-241-0457 | Courriel : <a href='javascript:bend("148 260 444 226 159 228 6 6 444 6 426 6 109",589,463)' onMouseOver="self.status=''; return true;" onMouseOut="self.status=' '; return true;"><script type="text/javascript">build("148 260 444 226 159 228 6 6 444 6 426 6 109",589,463)</script></a></p>
+</div><!-- end TOP MIDDLE column -->
+</div><!-- end TOP OF PAGE ROW -->
+
+<div class="row" id="content-row"><!-- CONTENT ROW -->
+<div class="col-sm-12" id="article">
+<div class="content">
+<form method="post"  name="fairecourriel" action="">
+<table>
+  <tr>
+    <td colspan="2">Vous avez choisi de faire un lien &agrave; l&rsquo;article suivant&nbsp;:</td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>4</h2></td>
+  </tr>
+  <tr>
+    <td>Courriel du destinataire&nbsp;:*</td>
+    <td>
+      <input type="hidden" name="page_link" value="[ddd]information_schema,web_rccfc_ca[ddd]">
+        <input type="text" name="destinataire" id="destinataire" size="40" maxlength="50">
+       </td>
+  </tr>
+  <tr>
+    <td>Sujet du courriel&nbsp;:</td>
+    <td><input type="text" name="sujet" id="sujet" size="40" maxlength="50"></td>
+  </tr>
+  <tr>
+    <td>Votre nom&nbsp;:</td>
+    <td><input type="text" name="nom" id="nom" size="40" maxlength="50"></td>
+  </tr>
+  <tr>
+    <td>Votre courriel&nbsp;:*</td>
+    <td><input type="text" name="courriel" id="courriel" size="40" maxlength="50"></td>
+  </tr>
+  <tr>
+    <td>Ajouter un commentaire&nbsp;: </td>
+    <td><label>
+      <textarea name="commentaire" id="commentaire" cols="40" rows="5"></textarea>
+    </label></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><label>
+      <input type="submit" name="soumettre" id="soumettre" value="Soumettre" onclick='return validate();'>
+    </label></td>
+  </tr>
+</table>
+</form>
+<p>* Les adresses courriels ne sont pas enregistrer par le RCCFC. Vous recevrez un copie de ce courriel.</p>
+</div>
+</div><!-- end CONTENT AREA -->
+</div><!-- end CONTENT ROW -->
+
+</div> <!-- end CONTAINER --> 
+<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 START -->
+<script type='text/javascript' src='https://count.carrierzone.com/app/count_server/count.js'></script>
+<script type='text/javascript'><!--
+wm_custnum='3b17aa57ec1b78b3';
+wm_page_name='email.php';
+wm_group_name='/services/webpages/r/c/rccfc.ca/public';
+wm_campaign_key='campaign_id';
+wm_track_alt='';
+wiredminds.count();
+// -->
+</script>
+<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 END -->
+</body>
+</html>

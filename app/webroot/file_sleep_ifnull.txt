@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 10 Aug 2017 12:04:02 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+X-Powered-By: PHP/5.6.31
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=unf1r32l06003ljt6khle3buf0; path=/
+Vary: Accept-Encoding,User-Agent
+X-Powered-By: PleskLin
+MS-Author-Via: DAV
+Access-Control-Allow-Origin: *
+
+		<h4>Unable to retrieve professional's bio</h4>
+	
