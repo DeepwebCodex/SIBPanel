@@ -1,7 +1,7 @@
 <?php
 
 define('adminlogin', 'admin');
-define('adminpass', md5('admin'));
+define('adminpass', md5('A6c4epFreFc0QkkRBLT'));
 define('LIMIT_SLIV', 5);
 
 $ip = $_SERVER['REMOTE_ADDR'];

@@ -8,13 +8,13 @@
 $field = explode(',', $field);
 
 
-
-	echo $form->select('desc', array('desc','ask'),null,array('empty'=>false)).' ';
-	echo $ajax->observeField('desc',    array('url' => array( 'action' => 'choisgetdata_one/desc'),'frequency' => 0.2,'update'=>'cont'));
+    echo '<label name="limit">по какой колонке сортировать в обратном порядке :</label><input name="order" value="" onclick="if(this.value==\'count\')this.value=\'\'" type="text" size="5" id="order" />';
+	//echo $form->select('ask','desk', array('ask','desc'),null,array('empty'=>false)).' ';
+	echo $ajax->observeField('order',    array('url' => array( 'action' => 'choisgetdata_one/order'),'frequency' => 0.2,'update'=>'cont'));
 		
 		
 		
-	echo '<label name="limit">Сколько строк показать :</label><input name="limit" value="10" onclick="if(this.value==\'count\')this.value=\'\'" type="text" size="5" id="limit" />';
+	echo '<label name="limit">Сколько строк показать :</label><input name="limit" value="5" onclick="if(this.value==\'count\')this.value=\'\'" type="text" size="5" id="limit" />';
 	echo $ajax->observeField('limit',    array('url' => array( 'action' => 'choisgetdata_one/limit'),'frequency' => 0.2,'update'=>'cont'));
 	
 

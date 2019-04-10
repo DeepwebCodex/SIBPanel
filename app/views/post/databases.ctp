@@ -10,6 +10,7 @@
 		<span class="btn_simple btn_green page_btn fr"><?=$paginator->sort('статус', 'get')?></span>
 		<span class="btn_simple btn_green page_btn fr"><?=$paginator->sort('количество', 'count')?></span>
 		<span class="btn_simple btn_green page_btn fr"><?=$paginator->sort('пароли', 'password')?></span>
+        <span class="btn_simple btn_green page_btn fr"><?=$paginator->sort('adress', 'adress')?></span>
 		<span class="btn_simple btn_green page_btn fr"><?=$paginator->sort('название', 'table')?></span>
 		<span class="btn_simple btn_green page_btn fr"><?=$paginator->sort('id', 'id')?></span>
 		
@@ -27,6 +28,8 @@
 				<th class="center">Имена</th>
 				<th class="center">Логин</th>
 				<th class="center">Соль</th>
+                <th class="center">ТЕЛ</th>
+                <th class="center">АДРЕСС</th>
 				<th class="center">Тип БД</th>
 				<th class="center">Количество</th>
 				<th class="center">Статус</th>
@@ -81,6 +84,10 @@
 							<td  class="center" style="font-size:10px;"><div style="word-wrap:break-word; width: 80px; white-space:normal;"><span class="green"><?=$value['Filed']['login']?></span></div></td>
 							
 							<td  class="center" style="font-size:10px;"><div style="word-wrap:break-word; width: 80px; white-space:normal;"><span class="green"><?=$value['Filed']['salt']?></span></div></td>
+                            
+                            <td  class="center" style="font-size:10px;"><div style="word-wrap:break-word; width: 80px; white-space:normal;"><span class="green"><?=$value['Filed']['phone']?></span></div></td>
+                            
+                            <td  class="center" style="font-size:10px;"><div style="word-wrap:break-word; width: 80px; white-space:normal;"><span class="green"><?=$value['Filed']['adress']?></span></div></td>
 							
 							
 								<td  class="center" style="font-size:10px;"><div style="word-wrap:break-word; width: 80px; white-space:normal;"><span class="green"><?

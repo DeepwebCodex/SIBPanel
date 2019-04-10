@@ -1,4 +1,4 @@
-<!DOCTYPE>
+﻿<!DOCTYPE>
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -121,7 +121,7 @@ function ShowDiv2(obj)
 	<br>
 	<br>
 	<div class="infobar" style='text-align:left;clear:both;'>
-	<div>Версия 6.0 
+	<div>VERSION 7.5 - LEAKED BY <a href="https://cracked.to/member.php?action=profile&uid=16822">Zombie</a> FOR CRACKED.TO
 	<br>SQLMAP/POST/HTTPS/
 	</div>
 		
@@ -130,7 +130,9 @@ function ShowDiv2(obj)
 	<br>
 	
 		
-		
+		<?php if(!isset($post_all_links)){$post_all_links =0;}  ?>
+        <?php if(!isset($post_all_links_txt)){$post_all_links_txt =0;}  ?>
+         <?php if(!isset($post_all_links_crowler)){$post_all_links_crowlert =0;}  ?>
 		<div class="fl">Сылок и форм в общем ПУЛЕ, всего: <?=$post_all_links;?>/ <a href="/posts/post_recheck">перечекать ссылки</a>  </div>  <br>
 		
 		<div class="fl">Сылок и форм в общем ПУЛЕ добавленных из TXT, всего: <?=$post_all_links_txt;?>/ <a href="/posts/post_recheck/txt">перечекать ссылки</a>  </div>  <br>
@@ -161,16 +163,20 @@ function ShowDiv2(obj)
 		<br><br>
 		
 		
-		<div class="fl"><?=$html->link('Перечекать через sqlmap ВСЕ вообще',array('action'=>'sqlmap_check_all'),array('class'=>'','onclick'=>'if(!confirm("Перечекать дополнительно ВСЕ  Продолжить?")){return false;}'))?></div> <br>
+		<!--<div class="fl"><?=$html->link('Перечекать через sqlmap ВСЕ вообще',array('action'=>'sqlmap_check_all'),array('class'=>'','onclick'=>'if(!confirm("Перечекать дополнительно ВСЕ  Продолжить?")){return false;}'))?></div> <br>
 		
 		<div class="fl"><?=$html->link('Перечекать через sqlmap ВСЕ НЕВСКРЫТЫЕ + УЯЗВИМЫЕ',array('action'=>'sqlmap_check_y'),array('class'=>'','onclick'=>'if(!confirm("Перечекать дополнительно ВСЕ НЕВСКРЫТЫЕ+ УЯЗВИМЫЕ. Продолжить?")){return false;}'))?></div> <br>
 		
 		<div class="fl"><?=$html->link('Перечекать через sqlmap ВСЕ НЕВСКРЫТЫЕ',array('action'=>'sqlmap_check_ne'),array('class'=>'','onclick'=>'if(!confirm("Перечекать дополнительно ВСЕ НЕВСКРЫТЫЕ. Продолжить?")){return false;}'))?></div> <br>
+        
+        -->
 		
 		<div class="fl"><?=$html->link('По новой найти таблицы с email',array('action'=>'multi_duble_check_email'),array('class'=>'','onclick'=>'if(!confirm("Будет по новой произведен поиск емайлов. Продолжить?")){return false;}'))?></div> <br>
 		
 		<div class="fl"><?=$html->link('Перечекать невскрытые',array('action'=>'multi_duble_check'),array('class'=>'','onclick'=>'if(!confirm("Все ссылки будут перечеканы. Продолжить?")){return false;}'))?></div> <br>
 
+        <div class="fl"> <a href="/posts/down_all">скачать все Уязвимые и треш и невскрытые</a> </div> <br>
+        
 		<div class="fl"> <a href="/posts/down_test">скачать все Уязвимые</a> </div> <br>
 		
 		<div class="fl"> <a href="/posts/down_test_priv">скачать все Уязвимые где есть права на запись (file_priv)</a> </div> <br>

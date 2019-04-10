@@ -34,7 +34,7 @@
 				for($i=0; $i < sizeof($files); $i++)
 				{
 					preg_match("/([a-z0-9\-\.]*)\.([a-z]{2,})/", $files[$i], $name);
-					if($domain_name != $name[0] AND strpos($name[0],'txt'))
+					if($domain_name != $name[0] )
 					{
 						$domain_name = $name[0];
 						

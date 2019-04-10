@@ -102,6 +102,11 @@ foreach($data as $key =>$d):
 	
 
 	$cc = count($orders_card);
+    
+    if($cc ==1){
+        
+        $cc ='null';
+    }
 	
 	echo "<tbody>";
 	
@@ -122,13 +127,15 @@ foreach($data as $key =>$d):
 	}
 	
 	
-	
+	$url2 ='/posts/down_one/'.$id;
 	
 	//echo "<tr style=''>";
 	
 	if(count($orders_card)>0)
 		{
 	echo "<td>{$domen} <span style='color:blue;font-weight:700'>({$cc})</span><a href=\"#\" onclick=\"ShowDiv({$id}); return false\">Открыть/</a><a href=\"#\" onclick=\"ShowDiv2({$id}); return false\">Закрыть</a>/ <a target='_blank' href=\"{$url}\">URL</a></td>";
+    
+    
 	//echo "<td>{$domen} <span style='color:blue;font-weight:700'>({$cc})</span><a href=\"#\" onclick=\"ShowDiv(); return false\">Открыть/</a></td>";
 	
 		}else

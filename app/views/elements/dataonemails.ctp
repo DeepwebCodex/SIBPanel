@@ -110,4 +110,6 @@ $table = 	 $inject['table'];
 					
 					
 					
-		<?=$ajax->link('|Сдампить|', 'getdump_one',array('class'=>'btn btn_red','indicator'=>'work','escape' => false,'update'=>'cont'))?>				
+		<?=$ajax->link('|Сдампить в фоне|', 'getcooldata_one_fone',array('class'=>'btn btn_red','indicator'=>'work','escape' => false,'update'=>'cont'))?>		
+
+        <?=$ajax->link('|Сдампить сейчас|', 'getcooldata_one_dump',array('class'=>'btn btn_red','indicator'=>'work','escape' => false,'update'=>'cont'))?>			

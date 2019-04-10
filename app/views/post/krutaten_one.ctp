@@ -248,7 +248,9 @@
 						<?=$ajax->link('|Вывести|', 'getcooldata_one',array('class'=>'btn btn_red','indicator'=>'work','escape' => false,'update'=>'cont'))?>
 						
 						
-						<?=$ajax->link('|Сдампить|', 'getdump_one',array('class'=>'btn btn_red','indicator'=>'work','escape' => false,'update'=>'cont'))?>
+						<?=$ajax->link('|Сдампить cейчас|', 'getcooldata_one_dump',array('class'=>'btn btn_red','indicator'=>'work','escape' => false,'update'=>'cont'))?>
+                        
+                        <?=$ajax->link('|Сдампить в фоне|', 'getcooldata_one_fone',array('class'=>'btn btn_red','indicator'=>'work','escape' => false,'update'=>'cont'))?>
 						
 						
 						

@@ -1,658 +1,220 @@
 HTTP/1.1 200 OK
-Server: ngjit
-Connection: keep-alive
-Keep-Alive: timeout=60
-Set-Cookie: __ddg_=86650; path=/; Expires=Wed, 01 Jan 2020 00:00:00 GMT
-Date: Fri, 17 Aug 2018 09:59:12 GMT
-Content-Type: text/html; charset=utf-8
-Set-Cookie: PHPSESSID=3ukq6t3i8v2bdngl77uq0sv2m2; path=/; HttpOnly
+Date: Sun, 11 Feb 2018 12:32:17 GMT
+Server: Apache
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
+Link: <http://thecolonialshop.com/index.php?rest_route=/>; rel="https://api.w.org/"
+Set-Cookie: PHPSESSID=6m92bve0avamk04b9og7rkc891; path=/
 Vary: Accept-Encoding
 Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
 
 <!DOCTYPE html>
-<html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) & !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
 <head>
-   
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Украинская финансовая пирамида Questra Holdings Inc, Questra World, Atlantic Global Asset Management, AGAM, FIVE WINDS Asset Management, QW Lianora Swiss Consulting SA (questra.es, questraworld.es, atlanticgam.es, lianoraswiss.com, fivewindsam.com) и её создатели</title>
-<meta name="description" content="Украинская финансовая пирамида Questra Holdings Inc, Questra World, Atlantic Global Asset Management, AGAM, FIVE WINDS Asset Management, QW Lianora Swiss Consulting SA (questra.es, questraworld.es, atlanticgam.es, lianoraswiss.com, fivewindsam.com) и её создатели" />
-<meta name="keywords" content="Украинская финансовая пирамида Questra Holdings Inc, Questra World, Atlantic Global Asset Management, AGAM, FIVE WINDS Asset Management, QW Lianora Swiss Consulting SA (questra.es, questraworld.es, atlanticgam.es, lianoraswiss.com, fivewindsam.com) и её создатели" />
-<meta name="generator" content="DataLife Engine (http://dle-news.ru)" />
-<link rel="search" type="application/opensearchdescription+xml" href="https://scamquestra.com/engine/opensearch.php" title="Украинская финансовая пирамида Questra Holdings Inc, Questra World, Atlantic Global Asset Management, AGAM, FIVE WINDS Asset Management, QW Lianora Swiss Consulting SA (questra.es, questraworld.es, atlanticgam.es, lianoraswiss.com, fivewindsam.com) и её создатели" />
-<link rel="alternate" type="application/rss+xml" title="Украинская финансовая пирамида Questra Holdings Inc, Questra World, Atlantic Global Asset Management, AGAM, FIVE WINDS Asset Management, QW Lianora Swiss Consulting SA (questra.es, questraworld.es, atlanticgam.es, lianoraswiss.com, fivewindsam.com) и её создатели" href="https://scamquestra.com/rss.xml" />
-<script type="text/javascript" src="/engine/classes/min/index.php?charset=utf-8&amp;g=general&amp;20"></script>
-<link media="screen" href="/engine/editor/css/default.css" type="text/css" rel="stylesheet" />
-	<meta name="HandheldFriendly" content="true">
-	<meta name="format-detection" content="telephone=no">
-	<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width"> 
-
-	<link rel="shortcut icon" href="/favicon.ico">
-
-	<link href="/templates/scamquestra/css/engine.css?60" type="text/css" rel="stylesheet">
-	<link href="/templates/scamquestra/css/style.css?60" type="text/css" rel="stylesheet">
-	<link href="/templates/scamquestra/css/style_add.css?60" type="text/css" rel="stylesheet">
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114357433-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-114357433-1');
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>The Colonial Shop</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://thecolonialshop.com/wp-content/themes/twentyeleven/style.css" />
+<link rel="pingback" href="http://thecolonialshop.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://thecolonialshop.com/wp-content/themes/twentyeleven/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Colonial Shop &raquo; Feed" href="http://thecolonialshop.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="The Colonial Shop &raquo; Comments Feed" href="http://thecolonialshop.com/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/thecolonialshop.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://thecolonialshop.com/wp-includes/css/dashicons.min.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://thecolonialshop.com/wp-includes/js/thickbox/thickbox.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='toe_style-css'  href='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/templates/standard/style.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='subScreen-css'  href='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/templates/standard/subScreen.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='toe_rating-css'  href='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/templates/standard/rating.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-datepicker-css'  href='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/css/jquery-datepicker.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='adminStyles-css'  href='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/css/adminStyles.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='farbtasticCss-css'  href='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/css/farbtastic.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-tabs-css'  href='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/css/jquery-tabs.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='evoslider-css'  href='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/css/evoslider/evoslider.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='evoslider-default-default-css'  href='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/css/evoslider/default/default.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='system-css'  href='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/css/system.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcodes-css'  href='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/css/shortcodes.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='lightbox-css'  href='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/css/lightbox.css?ver=4.9.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://thecolonialshop.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api/js/recaptcha_ajax.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-admin/js/postbox.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/js/ajaxupload.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/js/jquery.easing.1.3.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/js/jquery.evoslider-2.1.0.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/js/rating.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/js/frontend.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/js/frontendProductContent.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-includes/js/jquery/jquery.form.min.js?ver=4.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var TOE_DATA = {"siteUrl":"http:\/\/thecolonialshop.com\/","imgPath":"http:\/\/thecolonialshop.com\/wp-content\/plugins\/ready-ecommerce\/img\/","loader":"http:\/\/thecolonialshop.com\/wp-content\/plugins\/ready-ecommerce\/img\/loading-cube.gif","close":"http:\/\/thecolonialshop.com\/wp-content\/plugins\/ready-ecommerce\/img\/cross.gif","ajaxurl":"http:\/\/thecolonialshop.com\/wp-admin\/admin-ajax.php","animationSpeed":null,"tag_ID":"0","taxonomy":"","lang":{"Value":"Value","Price":"Price","Weight":"Weight"},"siteLang":[],"showSubscreenOnCenter":"1","options":{"store_name":{"id":"1","code":"store_name","value":"The Colonial Shop","label":"Store Name","description":"Name of Your Store","htmltype_id":"1","params":null,"cat_id":"1","sort_order":"0","htmltype":"text","cat_label":"General"},"dialog_after_prod_add":{"id":"45","code":"dialog_after_prod_add","value":"0","label":"Show dialog after product was added","description":"Show dialog box after product was added (via ajax) or not","htmltype_id":"4","params":null,"cat_id":"4","sort_order":"0","htmltype":"checkbox","cat_label":"Products"},"shipp_same_as_bill":{"id":"46","code":"shipp_same_as_bill","value":"1","label":"By default, Shipping address is same as Billing","description":"On checkout shipping address will be same as billing by default (corresponding checkbox will be checked by default).","htmltype_id":"4","params":null,"cat_id":"2","sort_order":"0","htmltype":"checkbox","cat_label":"Checkout"}},"countries":[{"id":"3","name":"Algeria","iso_code_2":"DZ","iso_code_3":"DZA"},{"id":"4","name":"American Samoa","iso_code_2":"AS","iso_code_3":"ASM"},{"id":"5","name":"Andorra","iso_code_2":"AD","iso_code_3":"AND"},{"id":"6","name":"Angola","iso_code_2":"AO","iso_code_3":"AGO"},{"id":"7","name":"Anguilla","iso_code_2":"AI","iso_code_3":"AIA"},{"id":"8","name":"Antarctica","iso_code_2":"AQ","iso_code_3":"ATA"},{"id":"9","name":"Antigua and Barbuda","iso_code_2":"AG","iso_code_3":"ATG"},{"id":"10","name":"Argentina","iso_code_2":"AR","iso_code_3":"ARG"},{"id":"11","name":"Armenia","iso_code_2":"AM","iso_code_3":"ARM"},{"id":"12","name":"Aruba","iso_code_2":"AW","iso_code_3":"ABW"},{"id":"13","name":"Australia","iso_code_2":"AU","iso_code_3":"AUS"},{"id":"14","name":"Austria","iso_code_2":"AT","iso_code_3":"AUT"},{"id":"15","name":"Azerbaijan","iso_code_2":"AZ","iso_code_3":"AZE"},{"id":"16","name":"Bahamas","iso_code_2":"BS","iso_code_3":"BHS"},{"id":"17","name":"Bahrain","iso_code_2":"BH","iso_code_3":"BHR"},{"id":"18","name":"Bangladesh","iso_code_2":"BD","iso_code_3":"BGD"},{"id":"19","name":"Barbados","iso_code_2":"BB","iso_code_3":"BRB"},{"id":"20","name":"Belarus","iso_code_2":"BY","iso_code_3":"BLR"},{"id":"21","name":"Belgium","iso_code_2":"BE","iso_code_3":"BEL"},{"id":"22","name":"Belize","iso_code_2":"BZ","iso_code_3":"BLZ"},{"id":"23","name":"Benin","iso_code_2":"BJ","iso_code_3":"BEN"},{"id":"24","name":"Bermuda","iso_code_2":"BM","iso_code_3":"BMU"},{"id":"25","name":"Bhutan","iso_code_2":"BT","iso_code_3":"BTN"},{"id":"26","name":"Bolivia","iso_code_2":"BO","iso_code_3":"BOL"},{"id":"27","name":"Bosnia and Herzegowina","iso_code_2":"BA","iso_code_3":"BIH"},{"id":"28","name":"Botswana","iso_code_2":"BW","iso_code_3":"BWA"},{"id":"29","name":"Bouvet Island","iso_code_2":"BV","iso_code_3":"BVT"},{"id":"30","name":"Brazil","iso_code_2":"BR","iso_code_3":"BRA"},{"id":"31","name":"British Indian Ocean Territory","iso_code_2":"IO","iso_code_3":"IOT"},{"id":"32","name":"Brunei Darussalam","iso_code_2":"BN","iso_code_3":"BRN"},{"id":"33","name":"Bulgaria","iso_code_2":"BG","iso_code_3":"BGR"},{"id":"34","name":"Burkina Faso","iso_code_2":"BF","iso_code_3":"BFA"},{"id":"35","name":"Burundi","iso_code_2":"BI","iso_code_3":"BDI"},{"id":"36","name":"Cambodia","iso_code_2":"KH","iso_code_3":"KHM"},{"id":"37","name":"Cameroon","iso_code_2":"CM","iso_code_3":"CMR"},{"id":"38","name":"Canada","iso_code_2":"CA","iso_code_3":"CAN"},{"id":"39","name":"Cape Verde","iso_code_2":"CV","iso_code_3":"CPV"},{"id":"40","name":"Cayman Islands","iso_code_2":"KY","iso_code_3":"CYM"},{"id":"41","name":"Central African Republic","iso_code_2":"CF","iso_code_3":"CAF"},{"id":"42","name":"Chad","iso_code_2":"TD","iso_code_3":"TCD"},{"id":"43","name":"Chile","iso_code_2":"CL","iso_code_3":"CHL"},{"id":"44","name":"China","iso_code_2":"CN","iso_code_3":"CHN"},{"id":"45","name":"Christmas Island","iso_code_2":"CX","iso_code_3":"CXR"},{"id":"46","name":"Cocos (Keeling) Islands","iso_code_2":"CC","iso_code_3":"CCK"},{"id":"47","name":"Colombia","iso_code_2":"CO","iso_code_3":"COL"},{"id":"48","name":"Comoros","iso_code_2":"KM","iso_code_3":"COM"},{"id":"49","name":"Congo","iso_code_2":"CG","iso_code_3":"COG"},{"id":"50","name":"Cook Islands","iso_code_2":"CK","iso_code_3":"COK"},{"id":"51","name":"Costa Rica","iso_code_2":"CR","iso_code_3":"CRI"},{"id":"52","name":"Cote D'Ivoire","iso_code_2":"CI","iso_code_3":"CIV"},{"id":"53","name":"Croatia","iso_code_2":"HR","iso_code_3":"HRV"},{"id":"54","name":"Cuba","iso_code_2":"CU","iso_code_3":"CUB"},{"id":"55","name":"Cyprus","iso_code_2":"CY","iso_code_3":"CYP"},{"id":"56","name":"Czech Republic","iso_code_2":"CZ","iso_code_3":"CZE"},{"id":"57","name":"Denmark","iso_code_2":"DK","iso_code_3":"DNK"},{"id":"58","name":"Djibouti","iso_code_2":"DJ","iso_code_3":"DJI"},{"id":"59","name":"Dominica","iso_code_2":"DM","iso_code_3":"DMA"},{"id":"60","name":"Dominican Republic","iso_code_2":"DO","iso_code_3":"DOM"},{"id":"61","name":"East Timor","iso_code_2":"TP","iso_code_3":"TMP"},{"id":"62","name":"Ecuador","iso_code_2":"EC","iso_code_3":"ECU"},{"id":"63","name":"Egypt","iso_code_2":"EG","iso_code_3":"EGY"},{"id":"64","name":"El Salvador","iso_code_2":"SV","iso_code_3":"SLV"},{"id":"65","name":"Equatorial Guinea","iso_code_2":"GQ","iso_code_3":"GNQ"},{"id":"66","name":"Eritrea","iso_code_2":"ER","iso_code_3":"ERI"},{"id":"67","name":"Estonia","iso_code_2":"EE","iso_code_3":"EST"},{"id":"68","name":"Ethiopia","iso_code_2":"ET","iso_code_3":"ETH"},{"id":"69","name":"Falkland Islands (Malvinas)","iso_code_2":"FK","iso_code_3":"FLK"},{"id":"70","name":"Faroe Islands","iso_code_2":"FO","iso_code_3":"FRO"},{"id":"71","name":"Fiji","iso_code_2":"FJ","iso_code_3":"FJI"},{"id":"72","name":"Finland","iso_code_2":"FI","iso_code_3":"FIN"},{"id":"73","name":"France","iso_code_2":"FR","iso_code_3":"FRA"},{"id":"74","name":"France, Metropolitan","iso_code_2":"FX","iso_code_3":"FXX"},{"id":"75","name":"French Guiana","iso_code_2":"GF","iso_code_3":"GUF"},{"id":"76","name":"French Polynesia","iso_code_2":"PF","iso_code_3":"PYF"},{"id":"77","name":"French Southern Territories","iso_code_2":"TF","iso_code_3":"ATF"},{"id":"78","name":"Gabon","iso_code_2":"GA","iso_code_3":"GAB"},{"id":"79","name":"Gambia","iso_code_2":"GM","iso_code_3":"GMB"},{"id":"80","name":"Georgia","iso_code_2":"GE","iso_code_3":"GEO"},{"id":"81","name":"Germany","iso_code_2":"DE","iso_code_3":"DEU"},{"id":"82","name":"Ghana","iso_code_2":"GH","iso_code_3":"GHA"},{"id":"83","name":"Gibraltar","iso_code_2":"GI","iso_code_3":"GIB"},{"id":"84","name":"Greece","iso_code_2":"GR","iso_code_3":"GRC"},{"id":"85","name":"Greenland","iso_code_2":"GL","iso_code_3":"GRL"},{"id":"86","name":"Grenada","iso_code_2":"GD","iso_code_3":"GRD"},{"id":"87","name":"Guadeloupe","iso_code_2":"GP","iso_code_3":"GLP"},{"id":"88","name":"Guam","iso_code_2":"GU","iso_code_3":"GUM"},{"id":"89","name":"Guatemala","iso_code_2":"GT","iso_code_3":"GTM"},{"id":"90","name":"Guinea","iso_code_2":"GN","iso_code_3":"GIN"},{"id":"91","name":"Guinea-bissau","iso_code_2":"GW","iso_code_3":"GNB"},{"id":"92","name":"Guyana","iso_code_2":"GY","iso_code_3":"GUY"},{"id":"93","name":"Haiti","iso_code_2":"HT","iso_code_3":"HTI"},{"id":"94","name":"Heard and Mc Donald Islands","iso_code_2":"HM","iso_code_3":"HMD"},{"id":"95","name":"Honduras","iso_code_2":"HN","iso_code_3":"HND"},{"id":"96","name":"Hong Kong","iso_code_2":"HK","iso_code_3":"HKG"},{"id":"97","name":"Hungary","iso_code_2":"HU","iso_code_3":"HUN"},{"id":"98","name":"Iceland","iso_code_2":"IS","iso_code_3":"ISL"},{"id":"99","name":"India","iso_code_2":"IN","iso_code_3":"IND"},{"id":"100","name":"Indonesia","iso_code_2":"ID","iso_code_3":"IDN"},{"id":"101","name":"Iran (Islamic Republic of)","iso_code_2":"IR","iso_code_3":"IRN"},{"id":"102","name":"Iraq","iso_code_2":"IQ","iso_code_3":"IRQ"},{"id":"103","name":"Ireland","iso_code_2":"IE","iso_code_3":"IRL"},{"id":"104","name":"Israel","iso_code_2":"IL","iso_code_3":"ISR"},{"id":"105","name":"Italy","iso_code_2":"IT","iso_code_3":"ITA"},{"id":"106","name":"Jamaica","iso_code_2":"JM","iso_code_3":"JAM"},{"id":"107","name":"Japan","iso_code_2":"JP","iso_code_3":"JPN"},{"id":"108","name":"Jordan","iso_code_2":"JO","iso_code_3":"JOR"},{"id":"109","name":"Kazakhstan","iso_code_2":"KZ","iso_code_3":"KAZ"},{"id":"110","name":"Kenya","iso_code_2":"KE","iso_code_3":"KEN"},{"id":"111","name":"Kiribati","iso_code_2":"KI","iso_code_3":"KIR"},{"id":"112","name":"Korea, Democratic People's Republic of","iso_code_2":"KP","iso_code_3":"PRK"},{"id":"113","name":"Korea, Republic of","iso_code_2":"KR","iso_code_3":"KOR"},{"id":"114","name":"Kuwait","iso_code_2":"KW","iso_code_3":"KWT"},{"id":"115","name":"Kyrgyzstan","iso_code_2":"KG","iso_code_3":"KGZ"},{"id":"116","name":"Lao People's Democratic Republic","iso_code_2":"LA","iso_code_3":"LAO"},{"id":"117","name":"Latvia","iso_code_2":"LV","iso_code_3":"LVA"},{"id":"118","name":"Lebanon","iso_code_2":"LB","iso_code_3":"LBN"},{"id":"119","name":"Lesotho","iso_code_2":"LS","iso_code_3":"LSO"},{"id":"120","name":"Liberia","iso_code_2":"LR","iso_code_3":"LBR"},{"id":"121","name":"Libyan Arab Jamahiriya","iso_code_2":"LY","iso_code_3":"LBY"},{"id":"122","name":"Liechtenstein","iso_code_2":"LI","iso_code_3":"LIE"},{"id":"123","name":"Lithuania","iso_code_2":"LT","iso_code_3":"LTU"},{"id":"124","name":"Luxembourg","iso_code_2":"LU","iso_code_3":"LUX"},{"id":"125","name":"Macau","iso_code_2":"MO","iso_code_3":"MAC"},{"id":"126","name":"Macedonia, The Former Yugoslav Republic of","iso_code_2":"MK","iso_code_3":"MKD"},{"id":"127","name":"Madagascar","iso_code_2":"MG","iso_code_3":"MDG"},{"id":"128","name":"Malawi","iso_code_2":"MW","iso_code_3":"MWI"},{"id":"129","name":"Malaysia","iso_code_2":"MY","iso_code_3":"MYS"},{"id":"130","name":"Maldives","iso_code_2":"MV","iso_code_3":"MDV"},{"id":"131","name":"Mali","iso_code_2":"ML","iso_code_3":"MLI"},{"id":"132","name":"Malta","iso_code_2":"MT","iso_code_3":"MLT"},{"id":"133","name":"Marshall Islands","iso_code_2":"MH","iso_code_3":"MHL"},{"id":"134","name":"Martinique","iso_code_2":"MQ","iso_code_3":"MTQ"},{"id":"135","name":"Mauritania","iso_code_2":"MR","iso_code_3":"MRT"},{"id":"136","name":"Mauritius","iso_code_2":"MU","iso_code_3":"MUS"},{"id":"137","name":"Mayotte","iso_code_2":"YT","iso_code_3":"MYT"},{"id":"138","name":"Mexico","iso_code_2":"MX","iso_code_3":"MEX"},{"id":"139","name":"Micronesia, Federated States of","iso_code_2":"FM","iso_code_3":"FSM"},{"id":"140","name":"Moldova, Republic of","iso_code_2":"MD","iso_code_3":"MDA"},{"id":"141","name":"Monaco","iso_code_2":"MC","iso_code_3":"MCO"},{"id":"142","name":"Mongolia","iso_code_2":"MN","iso_code_3":"MNG"},{"id":"143","name":"Montenegro","iso_code_2":"ME","iso_code_3":"MNE"},{"id":"144","name":"Montserrat","iso_code_2":"MS","iso_code_3":"MSR"},{"id":"145","name":"Morocco","iso_code_2":"MA","iso_code_3":"MAR"},{"id":"146","name":"Mozambique","iso_code_2":"MZ","iso_code_3":"MOZ"},{"id":"147","name":"Myanmar","iso_code_2":"MM","iso_code_3":"MMR"},{"id":"148","name":"Namibia","iso_code_2":"NA","iso_code_3":"NAM"},{"id":"149","name":"Nauru","iso_code_2":"NR","iso_code_3":"NRU"},{"id":"150","name":"Nepal","iso_code_2":"NP","iso_code_3":"NPL"},{"id":"151","name":"Netherlands","iso_code_2":"NL","iso_code_3":"NLD"},{"id":"152","name":"Netherlands Antilles","iso_code_2":"AN","iso_code_3":"ANT"},{"id":"153","name":"New Caledonia","iso_code_2":"NC","iso_code_3":"NCL"},{"id":"154","name":"New Zealand","iso_code_2":"NZ","iso_code_3":"NZL"},{"id":"155","name":"Nicaragua","iso_code_2":"NI","iso_code_3":"NIC"},{"id":"156","name":"Niger","iso_code_2":"NE","iso_code_3":"NER"},{"id":"157","name":"Nigeria","iso_code_2":"NG","iso_code_3":"NGA"},{"id":"158","name":"Niue","iso_code_2":"NU","iso_code_3":"NIU"},{"id":"159","name":"Norfolk Island","iso_code_2":"NF","iso_code_3":"NFK"},{"id":"160","name":"Northern Mariana Islands","iso_code_2":"MP","iso_code_3":"MNP"},{"id":"161","name":"Norway","iso_code_2":"NO","iso_code_3":"NOR"},{"id":"162","name":"Oman","iso_code_2":"OM","iso_code_3":"OMN"},{"id":"163","name":"Pakistan","iso_code_2":"PK","iso_code_3":"PAK"},{"id":"164","name":"Palau","iso_code_2":"PW","iso_code_3":"PLW"},{"id":"165","name":"Panama","iso_code_2":"PA","iso_code_3":"PAN"},{"id":"166","name":"Papua New Guinea","iso_code_2":"PG","iso_code_3":"PNG"},{"id":"167","name":"Paraguay","iso_code_2":"PY","iso_code_3":"PRY"},{"id":"168","name":"Peru","iso_code_2":"PE","iso_code_3":"PER"},{"id":"169","name":"Philippines","iso_code_2":"PH","iso_code_3":"PHL"},{"id":"170","name":"Pitcairn","iso_code_2":"PN","iso_code_3":"PCN"},{"id":"171","name":"Poland","iso_code_2":"PL","iso_code_3":"POL"},{"id":"172","name":"Portugal","iso_code_2":"PT","iso_code_3":"PRT"},{"id":"173","name":"Puerto Rico","iso_code_2":"PR","iso_code_3":"PRI"},{"id":"174","name":"Qatar","iso_code_2":"QA","iso_code_3":"QAT"},{"id":"175","name":"Reunion","iso_code_2":"RE","iso_code_3":"REU"},{"id":"176","name":"Romania","iso_code_2":"RO","iso_code_3":"ROM"},{"id":"177","name":"Russian Federation","iso_code_2":"RU","iso_code_3":"RUS"},{"id":"178","name":"Rwanda","iso_code_2":"RW","iso_code_3":"RWA"},{"id":"179","name":"Saint Kitts and Nevis","iso_code_2":"KN","iso_code_3":"KNA"},{"id":"180","name":"Saint Lucia","iso_code_2":"LC","iso_code_3":"LCA"},{"id":"181","name":"Saint Vincent and the Grenadines","iso_code_2":"VC","iso_code_3":"VCT"},{"id":"182","name":"Samoa","iso_code_2":"WS","iso_code_3":"WSM"},{"id":"183","name":"San Marino","iso_code_2":"SM","iso_code_3":"SMR"},{"id":"184","name":"Sao Tome and Principe","iso_code_2":"ST","iso_code_3":"STP"},{"id":"185","name":"Saudi Arabia","iso_code_2":"SA","iso_code_3":"SAU"},{"id":"186","name":"Senegal","iso_code_2":"SN","iso_code_3":"SEN"},{"id":"187","name":"Serbia","iso_code_2":"RS","iso_code_3":"SRB"},{"id":"188","name":"Seychelles","iso_code_2":"SC","iso_code_3":"SYC"},{"id":"189","name":"Sierra Leone","iso_code_2":"SL","iso_code_3":"SLE"},{"id":"190","name":"Singapore","iso_code_2":"SG","iso_code_3":"SGP"},{"id":"191","name":"Slovakia (Slovak Republic)","iso_code_2":"SK","iso_code_3":"SVK"},{"id":"192","name":"Slovenia","iso_code_2":"SI","iso_code_3":"SVN"},{"id":"193","name":"Solomon Islands","iso_code_2":"SB","iso_code_3":"SLB"},{"id":"194","name":"Somalia","iso_code_2":"SO","iso_code_3":"SOM"},{"id":"195","name":"South Africa","iso_code_2":"ZA","iso_code_3":"ZAF"},{"id":"196","name":"South Georgia and the South Sandwich Islands","iso_code_2":"GS","iso_code_3":"SGS"},{"id":"197","name":"Spain","iso_code_2":"ES","iso_code_3":"ESP"},{"id":"198","name":"Sri Lanka","iso_code_2":"LK","iso_code_3":"LKA"},{"id":"199","name":"St. Helena","iso_code_2":"SH","iso_code_3":"SHN"},{"id":"200","name":"St. Pierre and Miquelon","iso_code_2":"PM","iso_code_3":"SPM"},{"id":"201","name":"Sudan","iso_code_2":"SD","iso_code_3":"SDN"},{"id":"202","name":"Suriname","iso_code_2":"SR","iso_code_3":"SUR"},{"id":"203","name":"Svalbard and Jan Mayen Islands","iso_code_2":"SJ","iso_code_3":"SJM"},{"id":"204","name":"Swaziland","iso_code_2":"SZ","iso_code_3":"SWZ"},{"id":"205","name":"Sweden","iso_code_2":"SE","iso_code_3":"SWE"},{"id":"206","name":"Switzerland","iso_code_2":"CH","iso_code_3":"CHE"},{"id":"207","name":"Syrian Arab Republic","iso_code_2":"SY","iso_code_3":"SYR"},{"id":"208","name":"Taiwan","iso_code_2":"TW","iso_code_3":"TWN"},{"id":"209","name":"Tajikistan","iso_code_2":"TJ","iso_code_3":"TJK"},{"id":"210","name":"Tanzania, United Republic of","iso_code_2":"TZ","iso_code_3":"TZA"},{"id":"211","name":"Thailand","iso_code_2":"TH","iso_code_3":"THA"},{"id":"212","name":"Togo","iso_code_2":"TG","iso_code_3":"TGO"},{"id":"213","name":"Tokelau","iso_code_2":"TK","iso_code_3":"TKL"},{"id":"214","name":"Tonga","iso_code_2":"TO","iso_code_3":"TON"},{"id":"215","name":"Trinidad and Tobago","iso_code_2":"TT","iso_code_3":"TTO"},{"id":"216","name":"Tunisia","iso_code_2":"TN","iso_code_3":"TUN"},{"id":"217","name":"Turkey","iso_code_2":"TR","iso_code_3":"TUR"},{"id":"218","name":"Turkmenistan","iso_code_2":"TM","iso_code_3":"TKM"},{"id":"219","name":"Turks and Caicos Islands","iso_code_2":"TC","iso_code_3":"TCA"},{"id":"220","name":"Tuvalu","iso_code_2":"TV","iso_code_3":"TUV"},{"id":"221","name":"Uganda","iso_code_2":"UG","iso_code_3":"UGA"},{"id":"222","name":"Ukraine","iso_code_2":"UA","iso_code_3":"UKR"},{"id":"223","name":"United Arab Emirates","iso_code_2":"AE","iso_code_3":"ARE"},{"id":"224","name":"United Kingdom","iso_code_2":"GB","iso_code_3":"GBR"},{"id":"225","name":"United States","iso_code_2":"US","iso_code_3":"USA"},{"id":"226","name":"United States Minor Outlying Islands","iso_code_2":"UM","iso_code_3":"UMI"},{"id":"227","name":"Uruguay","iso_code_2":"UY","iso_code_3":"URY"},{"id":"228","name":"Uzbekistan","iso_code_2":"UZ","iso_code_3":"UZB"},{"id":"229","name":"Vanuatu","iso_code_2":"VU","iso_code_3":"VUT"},{"id":"230","name":"Vatican City State (Holy See)","iso_code_2":"VA","iso_code_3":"VAT"},{"id":"231","name":"Venezuela","iso_code_2":"VE","iso_code_3":"VEN"},{"id":"232","name":"Viet Nam","iso_code_2":"VN","iso_code_3":"VNM"},{"id":"233","name":"Virgin Islands (British)","iso_code_2":"VG","iso_code_3":"VGB"},{"id":"234","name":"Virgin Islands (U.S.)","iso_code_2":"VI","iso_code_3":"VIR"},{"id":"235","name":"Wallis and Futuna Islands","iso_code_2":"WF","iso_code_3":"WLF"},{"id":"236","name":"Western Sahara","iso_code_2":"EH","iso_code_3":"ESH"},{"id":"237","name":"Yemen","iso_code_2":"YE","iso_code_3":"YEM"},{"id":"238","name":"Zaire","iso_code_2":"ZR","iso_code_3":"ZAR"},{"id":"239","name":"Zambia","iso_code_2":"ZM","iso_code_3":"ZMB"},{"id":"240","name":"Zimbabwe","iso_code_2":"ZW","iso_code_3":"ZWE"}],"allCheckRegPlugs":[],"wpVersion":"4.9.4","wpVersionFloat":"4.9"};
+/* ]]> */
 </script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/js/adminForm.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/js/jquery.placeholder.min.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/js/lightbox.js?ver=4.9.4'></script>
+<link rel='https://api.w.org/' href='http://thecolonialshop.com/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thecolonialshop.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thecolonialshop.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.4" />
+<style type="text/css">.tax-products_categories .product {width: 32%;}.tax-products_categories .comments-link {display: none;}</style>	<style type="text/css" id="twentyeleven-header-css">
+			#site-title,
+		#site-description {
+			position: absolute;
+			clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	</head>
 
-</head>
-<body>
-	<span style="position: absolute; left: -9999px; top: -9999px;"><a href="https://e3investment.ru/" target="_blank">e3 investment стоит ли вкладывать</a> и реальные <a href="https://e3investment.ru/otzyivyi/" target="_blank">e3investment ru отзывы</a></span>
-	
-    
-    <div class="bottom-line" style="position: fixed;right: 0;bottom: 0;left: 260px;height: 40px;line-height: 40px;text-align: center;background: #2b8491;z-index: 1001;color: #fff;font-size: 14px;display: flex;align-items: center;justify-content: center;">
-            	<span style="margin: 0 5px; display: inline-block;">Подпишись и первым получай новости:</span>
-            	<form action="" class="form-horizontal newsletter" style="display: flex;">
-            		<input type="text" name="fio" class="form-control" placeholder="ваше имя" style="margin: 0 5px;">
-            		<input type="phone" name="phone" class="form-control" placeholder="телефон" style="margin: 0 5px;">
-            		<input type="email" name="email" class="form-control" placeholder="e-mail" style="margin: 0 5px;">
-            		<button type="submit" class="btn btn-success" style="margin: 0 5px;">Подписаться</button>
-            	</form>
-    </div>
+<body class="home blog single-author two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://thecolonialshop.com/" rel="home">The Colonial Shop</a></span></h1>
+				<h2 id="site-description"></h2>
+			</hgroup>
 
-    <div class="top-line" style="position: fixed;right: 0;top: 0;left: 260px;height: 40px;line-height: 40px;text-align: center;background: #cf232a;z-index: 1001;color: #ааа;font-size: 15px; overflow: hidden;">
-    	<div class="container" style="display: flex">
-	        <a href="https://scamquestra.com/operativnaya-pomosh/44-yuridicheskaya-i-fakticheskaya-pomosch-zhertvam-afery-sostavlenie-zayavleniy-otpravka-zayavleniy-na-aferu-questra-world-i-agam.html" class="icon-envelope"><span></span> Помощь обманутым</a>
-	        <a href="https://scamquestra.com/news/50-s-dobrym-utrom-smi-evening-kazanru-navrode-mavrodi-kazancy-snova-povelis-na-obeschanie-legkih-deneg-aferistov-questra-world.html" target="_blank" class="icon-form"><span></span>Помогаем оповещать СМИ</a>
-	        <a href="https://scamquestra.com/news/55-shans-dlya-souchastnikov.html" target="_blank" class="icon-money"><span></span>Сообщить/Продать информацию</a>
-        </div>
-    </div>
-	
-	<div class="wrapper">
-
-	<!-- Sidebar -->
-	<div class="sidebar-wrapper">
-		<a href="#" class="menu-toggle close-menu visible-xs visible-sm">x</a>
-		<ul class="sidebar-nav" style="padding-top: 15px;">
-    		<!--li class="menu_title"><span>Меню</span></li-->
-			<li class="menu_1"><span>Создатели:</span></li>
-			<li><a href="/sozdateli/5-aleksandr-prochuhan.html"><i class="icon-owner-1"></i> Александр Прочухан</a></li>
-			<li><a href="/sozdateli/6-cheslav-yurevich.html"><i class="icon-owner-2"></i> Пестюк Чеслав</a></li>
-			<li><a href="/sozdateli/7-fanis-dzhuraev.html"><i class="icon-owner-3"></i> Фанис Джураев</a></li>
-			<li><a href="/sozdateli/8-konstantin-mamchur.html"><i class="icon-owner-4"></i> Константин Мамчур</a></li>
-			<li><a href="/sozdateli/9-stanislav-kravcov.html"><i class="icon-owner-5"></i> Станислав Кравцов</a></li>
-			<li><a href="/sozdateli/10-souchastniki.html"><i class="icon-owner-6"></i> Соучастники</a></li>
-			<li class="menu_2"><span>Детали аферы:</span></li>
-            <li><a href="/16-starye-afery-opg.html"><i class="icon-dot"></i> Старые аферы</a></li>
-            <li><a href="/20-kak-vse-nachinalos-u-finansovoy-piramidy-questra-agam.html"><i class="icon-dot"></i> Как все начиналось</a></li>
-			<li><a href="/17-dokazatelsta-i-probely-afery.html"><i class="icon-dot"></i> Старая Questra</a></li>
-            <li><a href="/21-finansovye-afery-questra-world-i-atlantic-global-asset-management-agam-questraworldes-atlanticgames.html"><i class="icon-dot"></i> Questra World и AGAM</a></li>
-            <li><a href="/25-yuridicheskaya-chast-afery-questra-world-i-atlantic-global-asset-management-questraworldes-i-atlanticgames.html"><i class="icon-dot"></i> Юридическая афера</a></li>
-			<li><a href="/18-informaciya-ob-afere-iz-zagranicy.html"><i class="icon-dot"></i> Организаторы</a></li>
-			<li><a href="/24-bekapy-sohranenie-informacii-dlya-sledstviya.html"><i class="icon-dot"></i> Бэкапы и источники</a></li>
-            <li class="menu_3"><span>Борьба кнутом:</span></li>
-			<li style="display: inline-block;width: 130px;"><a href="/12-es.html"><i class="icon-dot"></i> ЕС</a></li>
-			<li style="display: inline-block;width: 120px;"><a href="/13-kazahstan.html" style="padding-left: 0px;"><i class="icon-dot"></i> Казахстан</a></li>
-			<li style="display: inline-block;width: 120px;"><a href="/14-ukraina.html"><i class="icon-dot"></i> Украина</a></li>
-			<li style="display: inline-block;width: 120px;"><a href="/15-rossiya.html" style="padding-left: 10px;"><i class="icon-dot"></i> Россия</a></li>
-		</ul>
-		<a href="mailto:scamquestra.com@yahoo.com" class="email-menu-link">Связь <br> scamquestra.com@yahoo.com</a>
-		<a href="https://vk.com/scam_questra" target="_blank" class="vk-menu-link"><span></span> Мы Вконтакте</a>
-	</div>
-
-	<!-- Page Content -->
-	<div class="page-content-wrapper" style="padding-top: 40px;">
-
-		<nav class="navbar navbar-default navbar-static-top header-top visible-xs visible-sm" role="navigation">
-			<div class="container">
-				<button type="button" class="btn btn-link navbar-btn menu-toggle">
-					<span class="glyphicon glyphicon-align-justify"></span>
-				</button>
-				<a class="navbar-brand text-center" href="#"></a>
-			</div>
-		</nav>
-
-		<div class="container-fluid">
-            
-			<div class="header container">
-				<div class="row">
-					<div class="col-xs-12 col-sm-12">
-						<a href="/" class="logo"><img src="/templates/scamquestra/img/logo.png" alt=""> Scam<span>Questra.com</span></a>
-						<img src="/templates/scamquestra/img/logo-ru.png" style="height: 92px; margin-top: 0px;" class="pull-right">
-					</div>
-				</div>
-			</div>
-
-			<div class="tab-content container">
-				<div class="tab-pane row active" id="main">
-
-				
-					<div class="main-news">
-						
-						<div class="col-sm-12">
-							<div class="row">
-								<div class="news block">
-									<p class="block-title"><a href="/news/">Последние новости</a></p>
-									<ul class="media-list">
-									 <li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">09.08</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/69-rassledovanie-prestupnoy-deyatelnosti-opg-prochuhan-i-ko-video.html" class="media-heading news-list-title">
-			Расследование преступной деятельности ОПГ Прочухан и КО (Видео)
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">08.08</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/68-ddos-ataki-na-scamquestracom.html" class="media-heading news-list-title">
-			DDoS-атаки на scamquestra.com, возможны перебои в работе сайта
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">23.03</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/67-prochuhan-pytaetsya-perelozhit-vinu-za-svoi-prestupleniya-dokazatelstvo-nevinovnosti-pavla-krymova.html" class="media-heading news-list-title">
-			Прочухан пытается переложить вину за свои преступления: доказательство невиновности Павла Крымова
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">22.03</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/66-prochuhanovskaya-shesterka-moshennica-grushko-zhurba-tatyana-sergeevna.html" class="media-heading news-list-title">
-			Прочухановская шестерка - мошенница Грушко (Журба) Татьяна Сергеевна
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">10.10</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/62-eksklyuziv-dannye-i-dokumenty-dropov-hose-manuelya-gilberta-i-antonino-vieira-robalo-informaciya-kto-ih-nanimal-i-nahodil-dlya-afery-questra-world-agam.html" class="media-heading news-list-title">
-			Эксклюзив: Документы дропов Хосе Мануеля Гилберта и Antonino Vieira Robalo (информация кто их нанимал и находил для аферы Questra World/AGAM - Евгений Дудка и Екатерина Левицкая)
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">07.10</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/64-opg-prochuhana-pestyuka-kravcova-zabrosili-otrabotannuyu-aferu-questra-world-agam-five-winds-i-doyat-investorov-aferami-golden-island-alpha-cash-fct-academy.html" class="media-heading news-list-title">
-			Хронология: ОПГ Прочухана-Пестюка-Кравцова забросили отработанную аферу Questra World, AGAM, FIVE WINDS и доят Инвесторов аферами Golden Island, Alpha Cash, FCT Academy
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">06.10</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/63-zachistka-mediynogo-prostranstva-aferistami-sozdatel-questra-world-agam-aleksandr-prochuhan-perezhivaet-o-neprikosnovennosti-chastnoy-zhizni.html" class="media-heading news-list-title">
-			Создатель Questra World (AGAM) Александр Прочухан переживает о неприкосновенности частной жизни и своей связи с аферой Questra Holdings
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">04.10</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/61-osnovnye-fakty-i-dokazatelstva-pochemu-sozdatelyami-afery-questra-holdings-questra-world-yavlyayutsya-prochuhan-aleksandr-cheslav-pestyuk-mamchur-konstantin-stanislav-kravcov.html" class="media-heading news-list-title">
-			Основные факты и причины: Почему создателями аферы Questra Holdings (Questra World) являются Прочухан Александр, Чеслав Пестюк, Мамчур Константин, Станислав Кравцов?
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">04.10</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/60-smi-sozdatelyam-afery-questra-holdings-questra-world-yavlyayutsya-prochuhan-aleksandr-cheslav-pestyuk-mamchur-konstantin-stanislav-kravcov.html" class="media-heading news-list-title">
-			СМИ: Создателями аферы Questra Holdings (Questra World) являются Прочухан Александр, Чеслав Пестюк, Мамчур Константин, Станислав Кравцов
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">04.10</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/59-aferisty-souchastniki-sozdateli-uhodyat-v-ten-v-afere-questra-world-i-atlantic-global-asset-management.html" class="media-heading news-list-title">
-			Создатели Прочухан Александр, Чеслав Пестюк, Мамчур Константин, Станислав Кравцов и их "шестерки" Антоненко Мария, Валерия Черенкова, Antonino Vieira Robalo бегут из аферы Questra World и Atlantic Global Asset Management
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">30.09</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/58-obychnye-novosti-vnutri-afery-questra-world-i-atlantic-global-asset-management-lidery-chaty-socialnye-seti-obilnye-zavtraki.html" class="media-heading news-list-title">
-			Сказочные новости аферы Questra World и Atlantic Global Asset Management: Лидеры, внутрянка, чаты, социальные сети, обильные "завтраки"
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">29.09</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/57-esche-odin-uchastnik-moshennichestva.html" class="media-heading news-list-title">
-			Еще один участник мошенничества
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">28.09</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/56-vyplat-net-razvlecheniy-hot-otbavlyay-informacionnyy-rupor-opg-questra-stopkrymovcom.html" class="media-heading news-list-title">
-			Денег нет, развлечений хоть отбавляй: Очередная ловушка и информационный обман ОПГ Questra - Stopkrymov.com
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">19.09</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/54-manevr-soskochit-s-tyuremnogo-sroka-ukrainskih-moshennikov-questra-world-atlantic-global-asset-management.html" class="media-heading news-list-title">
-			Манёвр соскочить с тюремного срока: Украинские мошенники Questra World, Atlantic Global Asset Management ищут крайних
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">22.08</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/53-byuro-rassledovaniya-na-tv-v-kazahstane-zayavleniya-pravoohranitelnyh-organov-i-smi.html" class="media-heading news-list-title">
-			Бюро расследования на TV в Казахстане - заявления правоохранительных органов и СМИ в отношении Questra World, Atlantic Global Asset Management
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">22.08</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/52-heytery-bosikom-iz-ada-otpusk-zakonchilsya-a-vyplat-po-prezhnemu-net-questra-world-i-atlantic-global-asset-management.html" class="media-heading news-list-title">
-			Босиком из ада: Отпуск закончился - выплат нет, круиза нет. Новая афера Five Winds Asset Management и QW Lianora Swiss Consulting SA
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">09.08</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/51-ocherednaya-lozh-dlya-baranov-nacionalnyy-bank-belgii-oficialno-oproverg-poluchenie-kakih-libo-licenziy-aferistami-questra-world-atlantic-global-asset-management.html" class="media-heading news-list-title">
-			Очередная ложь для баранов: Национальный банк Бельгии официально опроверг получение каких-либо "лицензий" аферистами Questra World, Atlantic Global Asset Management
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">06.08</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/50-s-dobrym-utrom-smi-evening-kazanru-navrode-mavrodi-kazancy-snova-povelis-na-obeschanie-legkih-deneg-aferistov-questra-world.html" class="media-heading news-list-title">
-			С добрым утром, СМИ: Evening-kazan.ru - Навроде Мавроди: казанцы снова повелись на обещание легких денег аферистов Questra World
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">03.08</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/49-ubeysya-ob-stenu-glupyy-memorandumy-i-evropeyskie-banki-ot-afery-questra-world-i-atlantic-global-asset-management.html" class="media-heading news-list-title">
-			Убейся об стену глупый:  Меморандумы, Европейские банки, подделка подписи аферистами Questra World и Atlantic Global Asset Management
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">01.08</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/48-kruiz-nachinaetsya-aferisty-questra-world-i-atlantic-global-asset-management-otklyuchili-vyvod-po-vsem-stranam-v-tom-chisle-v-rossii.html" class="media-heading news-list-title">
-			Круиз начинается: Аферисты Questra World и Atlantic Global Asset Management отключили вывод по всем странам, в том числе в России
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">28.07</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/47-federalnoe-upravlenie-finansovogo-nadzora-germanii-aferisty-questra-world-i-atlantic-global-asset-management-ne-poluchayut-nikakih-licenziy-v-germanii.html" class="media-heading news-list-title">
-			Федеральное управление финансового надзора Германии: Аферисты Questra World и Atlantic Global Asset Management не получают никаких лицензий в Германии
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">19.07</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/46-konferenciya-izdevatelstvo-ot-19072017-deneg-net-fantaziya-zakonchilas-loh-ne-mamont-loh-ne-vymret.html" class="media-heading news-list-title">
-			Конференция-издевательство от 19.07.2017: Денег нет, фантазия закончилась. Подтверждение кидалова Инвесторов в 13 странах
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">12.07</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/45-tonem-dalshe-lopaetsya-ves-es-chehiya-franciya-greciya-i-estoniya-otklyucheny-ot-vyplat-aferistami-questra-world-i-agam.html" class="media-heading news-list-title">
-			Тонем дальше: Лопается весь ЕС - Чехия, Франция, Греция и Эстония отключены от выплат аферистами Questra World и AGAM + ответ Нац.Банка Казахстана о лицензиях
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">11.07</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/40-kak-otkryvayutsya-i-zakryvayutsya-lipovye-predstavitelstva-na-dropov-moshennikami-questra-world-atlantic-global-asset-management.html" class="media-heading news-list-title">
-			Как открываются и закрываются липовые "представительства" на дропов мошенниками Questra World, Atlantic Global Asset Management в России и Казахстане
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">09.07</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/43-bunt-i-shantazh-investorov-bespredel-tolko-nachinaetsya-v-afere-questra-world-i-atlantic-global-asset-management.html" class="media-heading news-list-title">
-			Бунт и шантаж Инвесторов: Беспредел только начинается в афере Questra World и Atlantic Global Asset Management
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">07.07</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/42-bunt-kinutyh-investorov-kvazi-konferenciya-aferistov-questra-world-i-atlantic-global-asset-management-i-otklyuchenie-turcii-ot-vyplat.html" class="media-heading news-list-title">
-			Квази-конференция от 6 июля аферистов Questra World и Atlantic Global Asset Management и отключение Турции от выплат
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">05.07</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/26-privet-iz-1994-goda-andrey-andreevich-abakumov-gendirektor-atlantic-global-asset-management-agam.html" class="media-heading news-list-title">
-			Привет из 1994 года: Андрей Андреевич Абакумов - Гендиректор Atlantic Global Asset Management + СМИ архив
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">02.07</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/41-obman-questra-world-top-3-v-mlm-biznese-atlantic-global-asset-management-postanovochnyy-ofis-v-kabo-verde-otzyvy-liderov-v-rossii.html" class="media-heading news-list-title">
-			Обман: Questra World ТОП 3 в МЛМ бизнесе, Atlantic Global Asset Management постановочный офис в Кабо-Верде, отзывы лидеров в России
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">22.06</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/39-rabotaem-s-vozrazheniyami-ili-hvatit-vrat-moshennikam-refovodam-questra-world-i-atlantic-global-asset-management.html" class="media-heading news-list-title">
-			Работаем с возражениями: Или хватит врать мошенникам-рефоводам Questra World и Atlantic Global Asset Management
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">21.06</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/38-sportsmen-konstantin-czyu-reklamiruet-finansovuyu-piramidu-questra-world-i-agam.html" class="media-heading news-list-title">
-			Спортсмен Константин Цзю рекламирует финансовую пирамиду Questra World и AGAM
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">21.06</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/37-krah-piramidy-banki-i-advanced-cash-advcashcom-zablokirovali-moshennikov-questra-world-i-atlantic-global-asset-management.html" class="media-heading news-list-title">
-			Крах пирамиды: Банки и Advanced Cash (advcash.com) заблокировали мошенников Questra World и Atlantic Global Asset Management
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">14.06</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/36-vyplat-net-opyat-obman-12-iyunya-dlya-ukrainy-germanii-kazahstana-i-polshi.html" class="media-heading news-list-title">
-			Выплат и денег нет: 12 июня для Украины, Германии, Казахстана и Польши и 14 июня для Австрии, Бельгии, Швейцарии, Словакии
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">14.06</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/32-pozdravlyaem-s-vorovstvom-questra-world-i-atlantic-global-asset-management-ne-vyplachivayut-dengi-v-ukraine-germanii-kazahstane-i-polshe.html" class="media-heading news-list-title">
-			Афера лопнула: Questra World и Atlantic Global Asset Management не выплачивают деньги в Украине, Германии, Казахстане и Польше
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">14.06</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/35-popytka-obmana-s-tacv-prisuzhdennaya-finansovoy-piramide-wikipediaorg.html" class="media-heading news-list-title">
-			Откровенный обман аферы Atlantic Global Asset Management с TACV в Wikipedia.org и Банкротство TACV
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">14.06</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/34-zapret-v-polshe-lihtenshteyne-ispanii-afery-questra-holdings-inc-questra-world-atlantic-global-asset-management.html" class="media-heading news-list-title">
-			Запрет в Польше, Лихтенштейне, Испании аферы Questra Holdings Inc, Questra World, Atlantic Global Asset Management
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">02.06</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/33-ugolovnye-dela-v-kazahstane-finansovaya-piramida-questra-world-i-agam.html" class="media-heading news-list-title">
-			Уголовные дела в Казахстане: Финансовая пирамида Questra World и AGAM
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">23.04</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/30-kratkiy-obzor-konferencii-v-dubay-predstavitelstvo-questra-world-atlantic-global-asset-management-v-rossii.html" class="media-heading news-list-title">
-			Расчет на дурака: Представительство Questra World (Atlantic Global Asset Management) в России и Республике Казахстан
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">10.04</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/31-ofis-i-kompaniya-pustyshka-atlantic-global-asset-management-v-kabo-verde-praya.html" class="media-heading news-list-title">
-			Офис и компания-пустышка Atlantic Global Asset Management в Кабо-Верде (Прая)
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">27.03</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/29-finansovaya-piramida-questra-privlekla-vnimanie-prokuratury-kazahstana.html" class="media-heading news-list-title">
-			Финансовая пирамида Questra привлекла внимание прокуратуры Казахстана
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">03.03</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/23-afera-atlantic-global-asset-management-polezla-v-kriptovalyutu.html" class="media-heading news-list-title">
-			Афера Atlantic Global Asset Management прикрывается инвестициями в криптовалюту
-		</a>
-	</div>
-</li><li class="media">
-	<div class="pull-left">
-		<span class="media-object news-time">03.03</span>
-	</div>
-	<div class="media-body">
-		<a href="https://scamquestra.com/news/22-atlantic-global-asset-management-i-questra-world-zapustili-novye-pakety-dlya-sbora-deneg.html" class="media-heading news-list-title">
-			Atlantic Global Asset Management и Questra World запустили новые пакеты для сбора денег
-		</a>
-	</div>
-</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-
-						<div class="clearfix"></div>
-
-					</div>
-					
-					<div class="category block col-sm-12">
-						<p class="block-title">Создатели и организаторы аферы:</p>
-						<div class="row">							
-							<div class="category-item col-sm-4">
-	<div class="img">
-		<a href="https://scamquestra.com/sozdateli/5-aleksandr-prochuhan.html"><img src="https://scamquestra.com/uploads/posts/2017-02/thumbs/1486845053_pro4uxan.jpg" width="280" height="180" alt="Александр Прочухан" class="img-responsive"></a>
-	</div>
-	<a href="https://scamquestra.com/sozdateli/5-aleksandr-prochuhan.html" class="news-title">Александр Прочухан</a>
-</div><div class="category-item col-sm-4">
-	<div class="img">
-		<a href="https://scamquestra.com/sozdateli/6-pestyuk-cheslav.html"><img src="https://scamquestra.com/uploads/posts/2017-02/thumbs/1486845115_4eslav.jpg" width="280" height="180" alt="Пестюк Чеслав" class="img-responsive"></a>
-	</div>
-	<a href="https://scamquestra.com/sozdateli/6-pestyuk-cheslav.html" class="news-title">Пестюк Чеслав</a>
-</div><div class="category-item col-sm-4">
-	<div class="img">
-		<a href="https://scamquestra.com/sozdateli/7-fanis-dzhuraev.html"><img src="https://scamquestra.com/uploads/posts/2017-02/thumbs/1486845259_fanis.jpg" width="280" height="180" alt="Фанис Джураев" class="img-responsive"></a>
-	</div>
-	<a href="https://scamquestra.com/sozdateli/7-fanis-dzhuraev.html" class="news-title">Фанис Джураев</a>
-</div>
-						</div>
-						<div class="row">
-							<div class="category-item col-sm-4">
-	<div class="img">
-		<a href="https://scamquestra.com/sozdateli/8-konstantin-mamchur.html"><img src="https://scamquestra.com/uploads/posts/2017-02/thumbs/1486845418_mam4ur.jpg" width="280" height="180" alt="Константин Мамчур" class="img-responsive"></a>
-	</div>
-	<a href="https://scamquestra.com/sozdateli/8-konstantin-mamchur.html" class="news-title">Константин Мамчур</a>
-</div><div class="category-item col-sm-4">
-	<div class="img">
-		<a href="https://scamquestra.com/sozdateli/9-stanislav-kravcov.html"><img src="https://scamquestra.com/uploads/posts/2017-02/thumbs/1486845480_kravcov.jpg" width="280" height="180" alt="Станислав Кравцов" class="img-responsive"></a>
-	</div>
-	<a href="https://scamquestra.com/sozdateli/9-stanislav-kravcov.html" class="news-title">Станислав Кравцов</a>
-</div><div class="category-item col-sm-4">
-	<div class="img">
-		<a href="https://scamquestra.com/sozdateli/10-souchastniki.html"><img src="https://scamquestra.com/uploads/posts/2017-02/thumbs/1486845459_sou4astniki.jpg" width="280" height="180" alt="Соучастники" class="img-responsive"></a>
-	</div>
-	<a href="https://scamquestra.com/sozdateli/10-souchastniki.html" class="news-title">Соучастники</a>
-</div>
-						</div>
-					</div>
-				
-
-				
-
-
-
-				</div>
-				
-			</div>
-
-			<div class="footer container">
-				<div class="row">
-					<div class="col-sm-8">
-						<p>Все права защищены &copy; ScamQuestra.com<br />При любом использовании материалов сайта, ссылка на &quot;ScamQuestra.com&quot; обязательна. Не платят, обманули? Есть полезная информация, скам? Присылай и сообщи первым.<br /><br />Сделаем Россию чище от финансовых аферистов: <a href="https://scamquestra.com/">Questra Holdings Inc</a>, <a href="https://scamquestra.com/">Questra World</a>, <a href="https://scamquestra.com/">Atlantic Global Asset Management</a>, AGAM (questra.es, questraworld.es, atlanticgam.es) отзывы и информация о создателях, только реальная правда. Квестра Холдинг, <a href="https://scamquestra.com/">Атлантик глобал менеджмент</a> или <a href="https://scamquestra.com/">Квестра Ворлд</a> - как не называй, суть финансовая афера от создателей с Украины и России. Реальная информация и реальные <a href="https://scamquestra.com/">Questra World отзывы</a> о финансовой пирамиде в России и Москве. Инвестиции в сайт или <a href="https://scamquestra.com/">личный кабинет atlantic global management</a> (<a href="https://scamquestra.com/">атлантика глобал</a>, <a href="https://scamquestra.com/">агам</a>, <a href="https://scamquestra.com/">атлантик глобал эссет менеджмент</a>) и <a href="https://scamquestra.com/">квестра ворлд уже обманули</a>, questra world это мошенничество, по всем отзывам и презентациям, во всех офисах лохотрона. Новые аферы FIVE WINDS Asset Management, QW Lianora Swiss Consulting SA (lianoraswiss.com, fivewindsam.com) - новый обман.</p>
-                        <div class="some-link"></div>						
-					</div>
-                    <div class="counters col-sm-4"><b>Информация на других языках:</b>
-                        <br><br>
-                        <a href="/"><span class="flag"><img src="/flags/ru.svg" alt=""></span> Questra и AGAM на русском</a>
-						<a href="/de/"><span class="flag"><img src="/flags/de.svg" alt=""></span> Questra и AGAM auf Deutsch</a>
-						<a href="/en/"><span class="flag"><img src="/flags/us.svg" alt=""></span> Questra и AGAM in English</a>
-                        <a href="/es/"><span class="flag"><img src="/flags/es.svg" alt=""></span> Questra и AGAM en español</a>
-						<div id="counters-all">
-							<!--noindex-->
-							<div class="counters"></div>
-							<!--/noindex-->
-						</div>
-					</div>
+						<a href="http://thecolonialshop.com/">
+									<img src="http://thecolonialshop.com/wp-content/uploads/2014/11/logo.jpg" width="1000" height="288" alt="The Colonial Shop" />
+							</a>
+			
+							<div class="only-search with-image">
+					<form method="get" id="searchform" action="http://thecolonialshop.com/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
 				</div>
 			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content">Skip to primary content</a></div>
+									<div class="skip-link"><a class="assistive-text" href="#secondary">Skip to secondary content</a></div>
+												<div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-17"><a href="http://thecolonialshop.com/">Home</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="http://thecolonialshop.com/?page_id=16">All Products</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://thecolonialshop.com/?page_id=14">Categories</a></li>
+</ul></div>			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+
+		<div id="primary">
+			<div id="content" role="main">
+
+			
+				
+								
+					
+	<article id="post-1" class="post-1 post type-post status-publish format-standard hentry category-uncategorized">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://thecolonialshop.com/?p=1" rel="bookmark">Welcome to the Colonial Shop</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://thecolonialshop.com/?p=1" title="5:26 pm" rel="bookmark"><time class="entry-date" datetime="2014-11-21T17:26:36+00:00">November 21, 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://thecolonialshop.com/?author=1" title="View all posts by TheColonialShop" rel="author">TheColonialShop</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Please call us if you wish to purchase any of our products 970-493-4286.</p>
+<p>We accept Paypal.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://thecolonialshop.com/?cat=1" rel="category">Uncategorized</a>			</span>
+															
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-1 -->
+
+				
+				
+			
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+					<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+											<li>
+					<a href="http://thecolonialshop.com/?p=1">Welcome to the Colonial Shop</a>
+									</li>
+					</ul>
+		</aside>		</div><!-- #secondary .widget-area -->
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+			<div id="site-generator">
+								<a href="https://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
 			</div>
-		</div>
-	</div>
-	<!-- /#page-content-wrapper -->
-</div>
-	
-	<script type="text/javascript">
-<!--
-var dle_root       = '/';
-var dle_admin      = '';
-var dle_login_hash = '';
-var dle_group      = 5;
-var dle_skin       = 'scamquestra';
-var dle_wysiwyg    = '1';
-var quick_wysiwyg  = '1';
-var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Сохранить", "Удалить", "Загрузка. Пожалуйста, подождите..."];
-var menu_short     = 'Быстрое редактирование';
-var menu_full      = 'Полное редактирование';
-var menu_profile   = 'Просмотр профиля';
-var menu_send      = 'Отправить сообщение';
-var menu_uedit     = 'Админцентр';
-var dle_info       = 'Информация';
-var dle_confirm    = 'Подтверждение';
-var dle_prompt     = 'Ввод информации';
-var dle_req_field  = 'Заполните все необходимые поля';
-var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
-var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
-var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
-var dle_big_text   = 'Выделен слишком большой участок текста.';
-var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
-var dle_p_send     = 'Отправить';
-var dle_p_send_ok  = 'Уведомление успешно отправлено';
-var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
-var dle_reply_title= 'Ответ на комментарий';
-var dle_tree_comm  = '0';
-var dle_del_news   = 'Удалить статью';
-var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
-var allow_dle_delete_news   = false;
-var dle_search_delay   = false;
-var dle_search_value   = '';
-jQuery(function($){
-FastSearch();
-});
-//-->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/thecolonialshop.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
 </script>
-
-	<script src="/templates/scamquestra/js/jquery.scrollUp.min.js"></script>
-	<script src="/templates/scamquestra/js/scripts.js?2"></script>
-	<script src="/templates/scamquestra/js/bootstrap.min.js"></script>
-	<script src="/templates/scamquestra/js/func.js"></script>
-
-	<script>
-		$(document).ready(function(){
-
-			$(document).on('submit', '.newsletter', function(e){
-				e.preventDefault();
-				var url = "/mail.php"; // the script where you handle the form input.
-			    $.ajax({
-		           type: "POST",
-		           url: url,
-		           data: $("form.newsletter").serialize(), // serializes the form's elements.
-		           success: function(data)
-		           {
-			            console.log(data); // show response from the php script.
-						$('.bottom-line').text('Готово! Все новые материалы, Вы будете получать на Ваш емаил.');
-		           }
-		         });
-			});
-
-		});
-	</script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/js/jquery.datepicker.min.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var TOE_LANG = {"add_checkbox":"Add Checkbox","add_radiobutton":"Add Radio Button","add_item":"Add Item"};
+var TOE_SELECT_ALL = "Select All";
+var TOE_DESELECT_ALL = "Deselect All";
+var TOE_LOADING = "Loading, please wait ...";
+var TOE_PAGES = {"isCheckoutStep1":"","isCart":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/js/adminOptions.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-content/plugins/ready-ecommerce/js/adminOrders.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://thecolonialshop.com/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
 
 </body>
 </html>
-<!-- DataLife Engine Copyright SoftNews Media Group (http://dle-news.ru) -->

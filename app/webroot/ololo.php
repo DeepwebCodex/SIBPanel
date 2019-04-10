@@ -3,19 +3,19 @@
 
 ignore_user_abort(1); 
 $mysql = new InjectorComponent();
-$u[] = 'www.bachverband.de/index.php?pcid=1&pdid=16';
-$u[] = 'molecularcloning.com/index.php?prt=199';
-$u[] = 'www.djpatricksterk.nl/index.php?page=home&show=23';
-$u[] = 'www.eloteto.hu/portal/index2.php?category=50&showcontent=2';
-$u[] = 'www.groepengroningen.nl/online/details.php?id=6';
-$u[] = 'accessauto.co.za/details.php?stocknr=audiallroad';
-$u[] = 'www.pregnancy-baby-care.com/list_related_contents.php?q=1679&rel=category';
-$u[] = 'www.oneclickhomevideos.com/members/perf-videos.php?id=11';
-$u[] = 'pifexplosion.com/splashpage2.php?ref=sunrise';
-$u[] = 'www.newreleasetoday.com/artistdetail.php?artist_id=1098';
-$u[] = 'www.selectsmart.com/plus/select.php?url=conflictanimal';
-$u[] = 'tools.bardiauto.ro/details.php?kod=TLCB1015';
-$u[] = 'news.vegan.com/pages/article.php?id=1397';
+$u[] = 'www.art-in-berlin.de/incbmeld.php?id=4867';
+$u[] = 'portalboyaca.com/noticia.php?id=21833';
+$u[] = 'www.jukejointfestival.com/day_schedule.php?event_date=2018-04-12';
+$u[] = 'usameat.me/subPage.php?page_id=5&subpage_id=13';
+$u[] = 'www.avenued.com/usa/photos/photos.php?view=image&ID=445&order_num=14&album_id=22';
+$u[] = 'www.gambia.com/category.php?url=real-estate-property';
+$u[] = 'dusfrydlant.cz/data/clanky/index.php?id_kategorie=2';
+$u[] = 'wmedia.cameroon-info.net/mm/cin_watch_video.php?m_uid=10270269394B985FB8643A9';
+$u[] = 'caerd-ro.com.br/noticias.php?id=713';
+$u[] = 'a1cleaningcompany.com/post.php?pid=1';
+$u[] = 'www.jergens.com.ph/product.php?id=5';
+$u[] = 'www.vacationwired.com/specialoffer.php?id=1030';
+$u[] = 'www.archiviodistatodipalermo.it/editoriale.php?id=346';
 
 
 

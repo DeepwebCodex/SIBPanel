@@ -11,8 +11,8 @@ set_time_limit(0);
 	$exp = explode('::',$url2);
 	if($exp[1] =='https' or $exp[1] =='https://')
 	{
-		$mysql->https = true;
-		$mysql->https_check=true;
+		$mysqlInj->https = true;
+		$mysqlInj->https_check=true;
 	}
 	$url = $exp[0];
 	

@@ -77,9 +77,10 @@ class DATABASE_CONFIG {
 	var $default = array(
 		'driver' => 'mysql',
 		'persistent' => true,
-		'host' => '127.0.0.1',
-		'login' => 'root',
-		'password' => "",
+		'host' => 'localhost',
+		'login' => 'ku',
+		'password' => "90KoMvqMFdHCREgU5aI",
+		//'database' => 'nikols',
 		//'database' => 'ku',
 		'database' => 'ku',
 		'prefix' => '',
@@ -89,10 +90,10 @@ class DATABASE_CONFIG {
 	var $test = array(
 		'driver' => 'mysql',
 		'persistent' => true,
-		'host' => '127.0.0.1',
+		'host' => 'localhost',
 		'login' => 'root',
-		'password' => '',
-		'database' => 'ku',
+		'password' => '29041988',
+		'database' => 'alex',
 		'prefix' => '',
 	'encoding' => 'utf8'
 	);

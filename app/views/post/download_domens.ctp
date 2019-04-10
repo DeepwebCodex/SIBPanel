@@ -4,7 +4,7 @@
 			<li class="active"><?=$html->link('txt (мыло пасс)',array('action'=>'download_domens')); ?></li>
 			<li ><?=$html->link('txt (просто мыла) ',array('action'=>'download_domens2')); ?></li>
 		</ul>
-
+        
 		<?=$form->create('Post')?>
 			<?=$form->submit('очистить', array('name'=>'delete','class'=>'btn_simple btn_red page_btn fr','div'=>false, 'onclick'=>'if(!confirm("Все будет удалено. Продолжить?")){return false;}'))?>
 		<?=$form->end()?>
@@ -29,12 +29,12 @@
 		if(count($files)>0)
 		{
 
-			if(!isset($_GET['name']))
-			{
+			//if(!isset($_GET['name']))
+			//{
 				for($i=0; $i < sizeof($files); $i++)
 				{
 					preg_match("/([a-z0-9\-\.]*)\.([a-z]{2,})/", $files[$i], $name);
-					if($domain_name != $name[0] AND strpos($name[0],'txt'))
+					if($domain_name != $name[0] )
 					{
 						$domain_name = $name[0];
 						
@@ -64,7 +64,7 @@
 						}
 					}
 				}
-			}
+			//}
 
 		}else
 			echo "<tr><td colspan='4' class='center'>Нет файлов</td></tr>";

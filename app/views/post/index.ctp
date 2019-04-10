@@ -41,6 +41,7 @@
 				<th class="center">METHOD</th>
 				<th class="center">TYPEDB</th>
 				<th class="center" >DATE</th>
+                <th class="center" >COUNT</th>
 				<th class="center" >CLICK</th>
 			</thead>
 			<tbody>
@@ -151,6 +152,7 @@
 						
 						
 						<td class="center" style="font-size:10px;"><?=$value['Post']['date']?></td>
+                        <td class="center" style="font-size:10px;"><?=$value['Post']['multi_count']?></td>
 						<td width="70">
 					
 						
@@ -167,7 +169,7 @@
 						foreach($value['Filed'] as $val)
 						{
 						
-						echo "<tr style='background-color:#ccc;' id='data".$val['id']."'><td colspan='13'>";
+						echo "<tr style='background-color:#ccc;' id='data".$val['id']."'><td colspan='14'>";
 						echo "<span style='font-size:12px;color:red;'>ID: </span>".$val['id']."</span> ";;
 						echo " || <span style='font-size:12px;color:red;'>  Найдено мыл:</span> <span style='font-size:15px;color:blue;'>".$val['count']."</span>";
 						

